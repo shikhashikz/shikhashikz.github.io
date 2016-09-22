@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Define 36 = Twice of 18
-category: bookblog
+category: book
 tags: book fiction shortstories debut flashstories define36
 summary: Define 36 = Twice the size of 18. Collection of short"est" stories
 image: /images/blog/define36.jpg
