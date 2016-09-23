@@ -11,3 +11,7 @@ image: /images/blog/theliftsaga.jpg
 
 [<img src="/images/blog/theliftsaga.jpg"/>](https://theliftsaga.shikhashikz.com)
 
+<form method="get" action="https://www.gitbook.com/read/book/shikhashikz/the-lift-saga">
+    <button type="submit">Read the book</button>
+</form>
+
