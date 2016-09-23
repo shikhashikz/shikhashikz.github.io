@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: The Lift Saga
+title: THE LIFT SAGA
 category: book
 tags: book fiction novelette
 summary: The Lift Saga represents that I have fulfilled the promise which I made with Define 36
