@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: My Favourite - Harry Potter book review
+title: My Favourite - Harry Potter Book Review
 category: blog
 tags: harry potter book review
 summary: My Favourite - Harry Potter book review
@@ -21,16 +21,27 @@ My favorite lines from the book:
 * *It’s tough to live with people stuck in the past*
 
 * *The anger I can cope with,the fact he’s right is harder*
+
 * *My father proved you don’t have to be grown up to change the wizarding world*
+
 * *That’s the thing isn’t it? About friendships. You don’t know what he needs. You only know he needs it.*
+
 * *I think you have to make a choice-at a certain point–of the man you want to be. And at that time you need a parent or a friend. And if you’ve learnt to hate your parent by then and then you have no friends.. then you’are  all alone. And being alone, that’s so hard. And it sent me to a truly dark place*
+
 * *And there’s only one way to teach a loser-humiliation*
+
 * *We haven’t become anything-we simply are as we are*
+
 * *Sometimes costs are made to be borne*
+
 * *Bravery doesn’t forgive stupidity. Always think. Think what’s possible*
+
 * *I can forgive you for one mistake Harry, maybe even two, but the more mistakes you make, the harder to forgive you it becomes*
+
 * *I am the new past. I am the new future. I am the answer this world has been looking for.*
+
 * *There is never a perfect answer in this messy, emotional world. Perfection is beyond the reach of humankind, beyond the reach of magic. In every shining moment of happiness is that drop of poison; the knowledge that pain will come again. Be honest to those you love, show your pain. To suffer is as human as to breathe*
+
 * *They were great men, with huge flaws, and you know what–those flaws almost made them greater.*
 
 A true Harry Potter fan will go and just grab the book. For them the reviews do not matter!
