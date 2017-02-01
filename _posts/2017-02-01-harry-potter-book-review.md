@@ -15,8 +15,11 @@ I was not aware that this time the book will be in a play format. When I was rea
 When my children will grow up, I am going to gift the entire series to them! JKR tops the list of my favorite authors. I am amazed the way she spins one story after another and each one just grips the reader mind. I have a secret desire to be as creative like her. ssshhhhhhhhh
 
 My favorite lines from the book:
+
 * *We don’t choose who we’re related to*
+
 * *It’s tough to live with people stuck in the past*
+
 * *The anger I can cope with,the fact he’s right is harder*
 * *My father proved you don’t have to be grown up to change the wizarding world*
 * *That’s the thing isn’t it? About friendships. You don’t know what he needs. You only know he needs it.*
