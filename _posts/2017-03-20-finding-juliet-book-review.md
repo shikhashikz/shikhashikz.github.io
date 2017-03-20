@@ -5,6 +5,7 @@ category: blog
 tags: findingjuliet book review
 summary: Exploring Stereotypes
 ---
+
 I was interested to read this book because of two reasons: One because of a unique pen name and second because it hinted that it’s a love story.I will not comment if I liked the book or not but there are certain stereotypes which I would like to share:
 
 •	Physical appearance, your looks do matter
