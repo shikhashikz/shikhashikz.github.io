@@ -4,8 +4,8 @@ title: lovetoread
 category: blog
 tags: lovetoread worldbookday
 summary: My views on lovetoread campaign
-image: /images/blog/define36.jpg
 ---
+
 The best stress therapy for me is when I immerse myself in the book world. It relieves you from all the vices of this world. 
 A book, quiet corner and a cup of tea. Voila you know what it takes to conquer this world! 
 
