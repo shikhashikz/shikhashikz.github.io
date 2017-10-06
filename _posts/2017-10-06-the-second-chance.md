@@ -6,7 +6,7 @@ tags: drsandeepjatwa book review thesecondchance
 summary: My Favourite - Harry Potter book review
 ---
 
-I am a strong believer in the “chance situations “which life throws at you and loved the line 
+I am a strong believer in the “chance situations “which life throws at you.I loved the opening line of the book
 “To: all who got a second chance and changed their life “
 I received a DM via Twitter if I would like to review a book for an unpaid review. My stock of reading lot was getting over and I was happy to receive the copy. I signed up for it. 
 Before delving into what’s the book all about, I would like to point something about the cover. 
