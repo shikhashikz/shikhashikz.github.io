@@ -12,7 +12,7 @@ summary: Thousand Words a Day Challenge
  The denegation state is often found in love lost couples or individuals who are always positive.I mean being positive is one thing but always
  positive is something which can not be achieved.I also switch on denegation when my doctor says you need to take your vitamins on time else you
  your bones will leave you sooner.But then solitude time, it's so hard for mothers like me.(sigh) I just checked the word count and I am 
- nowhere the 1000 mark , so should I just leave this thing in between and move on to next task.That will bode so unhealthy for me and I will 
+ nowhere the 1000 mark , so should I just leave this thing in between and move on to the next task.That will bode so unhealthy for me and I will 
  be denegating it all the while later on.I checked merriam webster and there is no word as "denegating"
  
  800 more to go and denegation will not work.I should consider synonyms for this word.But wait why dictionary.com says there are no synonym for 
