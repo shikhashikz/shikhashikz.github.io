@@ -7,7 +7,7 @@ summary: 10th Year Anniversary
 image: /images/blog/tendentious.jpg
 
 ---
-[<img src="/images/blog/tendentious.jpg"/>]
+[<img src="/images/blog/Anniversary.jpg"/>]
 
 From 2008 to 2018 ; Simple Maths, It's been ten years of association with Bentley Systems. I vividly remember the day when I had packed my 
 stuff from Delhi,said good bye to ICICI Bank , with a vow to never return to Delhi's work life.I had no clue where I will stay 
