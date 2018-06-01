@@ -9,7 +9,8 @@ image: /images/blog/tendentious.jpg
 ---
 <img src="/images/blog/Anniversary.jpg"/>
 
-F2nd June 2008 till date-Working with Bentley Systems. 
+From 2nd June 2008 till date-Working with Bentley Systems. 
+
 Woohooo I completed my ten years, first time in my career. Now that speaks a lot about the organization and of course about me as well (chuckle). How can I forget that day when I had served my last day at ICICI Bank, packed my stuff from Delhi, said good bye, and with a vow to never return to Delhi’s work life? Don’t take me wrong I am a Delhiite, but in my heart, I had that feeling I do not belong to this corporate life, something is missing, I need to pull up my socks and get the scattered pieces of my life together. In Pune, I did not have any relatives, no place to stay and I had to start putting the building blocks right from the base. Apart from my luggage, I had the undying belief in GOD and trust that this move will turn out positive. And yes, it surely did!
 
 HR Gurus do have their theories that “why you should stick for a longer period in an organization” but I have discovered some of my own as well.
