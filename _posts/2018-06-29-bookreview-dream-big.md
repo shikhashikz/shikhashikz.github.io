@@ -1,7 +1,7 @@
 ---
-layout: blog
-title: Book Review : Dream Big
-category: blog
+layout:blog
+title: Book Review Dream Big
+category:blog
 tags: book finance bookreview dreambig mukeshjindal arunrajvs financialplanning
 summary: Go to Guide on Financial Planning
 
