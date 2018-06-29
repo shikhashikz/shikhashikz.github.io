@@ -1,12 +1,11 @@
 ---
-layout:blog
+layout: blog
 title: Book Review Dream Big
-category:blog
+category: blog
 tags: book finance bookreview dreambig mukeshjindal arunrajvs financialplanning
 summary: Go to Guide on Financial Planning
 
 ---
-
 
 Money: Five letter word around which the world goes around. Not in a literal sense but yes for some of us it’s THE MOST important aspect and their life revolves around it. They want to earn more and more and more. But do you think earning more will make them rich, or maybe super rich, oh yes millionaire. They think so that more money will solve their problems. But in reality, even if a person is earning 1crore per month and he/she is not managing his/her money wisely, he/she will never attain financial independence. And the definition of financial independence is different for everybody. However the goal is generally same for all where we would like to be free from debt and have good amount of cash available for emergencies. 
 I like many others never used to venture out in the field of mutual funds, equity funds. My long-term friends were always recurring deposit or fixed deposit and yes of course how can I forget the ever-glittering gold. I received this book at a very appropriate time when I had taken the courage to sort out my wallet. Don’t get scared by the big words as it takes time to be comfortable with the things which makes us comfortable. And financial planning does shun away many people. Sometimes a major setback or a debt trap is needed to provide the jerk that its high time and they need to take their life in their hands.
