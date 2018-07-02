@@ -28,3 +28,5 @@ Below quote from the book actually sums up the essence of the book:
 “Saving money does not mean you must live like a recluse or abandon your lifestyle. It simply means being aware enough of your spending habit, shopping smartly and managing your finances better. Exercise smart budgeting not just to save money but to invest that money in the right channels”
 
 I would recommend this book if you are looking for sane advice on how to manage your money better and how you can “Dream Big” with the regular income which you are earning.Good pick.
+
+This book review is a part of "The Readers Cosmos Book Review Program and Blog Tours, for details log on to http://www.thereaderscosmos.com/"
