@@ -3,9 +3,9 @@ layout: blog
 title: Motherhood Idiosyncracies
 category: blog
 tags: Parenting,Motherhood,Working Moms
-summary: Yes,I agree Mothers are weird!
-	
+summary: Yes,I agree Mothers are weird!	
 ---
+
 A mother does not trust anybody ! A bold statement to make but it’s true.Mothers are the best and if their child is with somebody else ,they have this thought that they will not be able to take care of them , the way she can.Which is true !Forget about a third person , they do not trust the child’s father as well.
 
 It’s pretty normal and if I get weird looks from other people , I really don’t mind it.I am not a helicopter parent but 90% of the thoughts which are in my head are draped with worry.When I leave her to the school ,is the teacher good enough ? Hope the teacher is not beating mischievous children . What if any other kid hits my daughter ? Is she safe there ? And many more questions like this.
