@@ -2,7 +2,7 @@
 layout: blog
 title: Book Review The Second Chance
 category: blog
-tags: drsandeepjatwa book review thesecondchance
+tags: blog
 summary: My Favourite - Harry Potter book review
 ---
 

@@ -2,9 +2,9 @@
 layout: blog
 title: Gang of Insomniacs
 category: book
-tags: book motherhood parenting thirdbook shikhashikz collectionofmotherhoodstories 
+tags: book sticky featured
 summary: There is nothing "normal" in motherhood journey
-image: /images/GangofInsomniacsBookCover.jpg
+image: assets/images/GangofInsomniacsBookCover.jpg
 ---
 ---
 Celebrating Motherhood! 

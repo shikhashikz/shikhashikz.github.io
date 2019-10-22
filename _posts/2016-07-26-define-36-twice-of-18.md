@@ -2,9 +2,9 @@
 layout: blog
 title: Define 36 = Twice of 18
 category: book
-tags: book fiction shortstories debut flashstories define36
+tags: book featured
 summary: Define 36 = Twice the size of 18. Collection of short"est" stories
-image: /images/blog/define36.jpg
+image: assets/images/define36.jpg
 ---
 
  I turned 36 this year ( and I am not shy to reveal my age ). Initial months of 2016 was when I decided that it's high time that I put my personal goal into action, and I started working on this piece. When you are 18, you are free to take your decisions and venture into a new horizon.Probably for me, the second innings of 18 enabled me to work on my dream project. 

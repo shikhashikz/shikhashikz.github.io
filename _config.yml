@@ -1,17 +1,57 @@
-permalink: /:categories/:title.html
-url: "http://shikhashikz.com"
-full_name: "shikhashikz.com"
-first_name: "shikhashikz"
-last_name: ""
-blog_title: "shikhashikz "
-author_img_name_path: "/images/users/shikhashikz.jpg"
-disqus_shortname: "shikhasite"
-copyright_year: "2016"
-google_analytics_code: "UA-84084860-1"
-aboutme: "Creates the Zing factor in Marketing | Books are my Best Friend , Tea is my favorite beverage & Travelling to places is my hobby | A story teller"
-twitter: "shikhashikz"
-github: "shikhashikz"
-facebook: "shikhashikz"
-linkined_url: "https://www.linkedin.com/in/shikha"
+# Site
+name: 'Shikhashikz'
+description: 'Creates the Zing factor in Marketing | Books are my Best Friend , Tea is my favorite beverage & Travelling to places is my hobby | A story teller.'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: ''
+disqus: 'shikhasite'
+email: 'shikhashikz@gmail.com'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
-theme: jekyll-theme-tactile
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    shikha:
+      name:           Shikha Pakhide
+      site:           https://www.shikhashikz.com
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Creates the Zing factor in Marketing | Books are my Best Friend , Tea is my favorite beverage & Travelling to places is my hobby | A story teller"
+      email:          shikhapakhide@gmail.com
+      twitter:        https://twitter.com/shikhashikz
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: shikha
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

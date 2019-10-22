@@ -2,7 +2,7 @@
 layout: blog
 title: A Walk in the Rain - Book Review
 category: blog
-tags: A walk in the rain udai yadla book review
+tags: blog
 summary: Mind Oscillations and the conversations
 ---
 Rain is so symbolic. It can cheer you up and it can deflate your mood. And if I can take the liberty of equating this with the mysterious word called Love, then it can take you to great heights. 

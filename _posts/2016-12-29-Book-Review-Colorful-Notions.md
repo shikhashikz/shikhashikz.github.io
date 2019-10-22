@@ -2,7 +2,7 @@
 layout: blog
 title: Book Review Colorful Notions
 category: blog
-tags: blog writing author shikhashikz book review
+tags: blog
 summary: Book Review
 ---
 

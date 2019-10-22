@@ -2,7 +2,7 @@
 layout: blog
 title: Finding Juliet Book Review
 category: blog
-tags: findingjuliet book review
+tags: blog
 summary: Exploring Stereotypes
 ---
 

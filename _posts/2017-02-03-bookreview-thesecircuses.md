@@ -2,7 +2,7 @@
 layout: blog
 title: Far from reality, too close to imagination!
 category: blog
-tags: bookreview fiction tejaswiniapte-rahm Thesecircusesthatsweepthroughthelandscape
+tags: blog
 summary: Far from reality, too close to imagination!
 
 ---

@@ -1,8 +1,9 @@
 ---
-layout: blog
+layout: post
 title: My Favourite - Harry Potter Book Review
+author: Shikha
 category: blog
-tags: harry potter book review
+tags: blog
 summary: My Favourite - Harry Potter book review
 ---
 
