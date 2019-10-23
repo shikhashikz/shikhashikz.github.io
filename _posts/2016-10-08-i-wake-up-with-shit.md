@@ -30,4 +30,3 @@ One of my friends narrated an incident. Her house is very close to a shopping ma
 
 My story is not for weak-heart souls, and only a mother has the super power to take the shit wholeheartedly. I think another 3–4 years this shit will not trouble me! Until that time, I will bear with the natural alarm.
 
-Tags:Parenting,Humor,Babies,Shit,Motherhood
