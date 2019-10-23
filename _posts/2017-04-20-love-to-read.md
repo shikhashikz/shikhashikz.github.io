@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: lovetoread
+title: Love to Read
 category: blog
 tags: lovetoread worldbookday
 summary: My views on lovetoread campaign
