@@ -12,4 +12,3 @@ Why to give room to all this apprehension and how to tackle it ?
 
 I took a step back and analysed why these concerns trouble me.They did because over the years I made this perception that this is the way how a routine should be , one should be indispensable at work and not taking leaves or time off , projects one as a dedicated worker.This is a pernicious situation.Too much of everything is bad.To be productive and creative , I needed to take a step back , relax and enjoy my hobbies.A holiday , time off from work is needed to give you a fresh wave of thinking.Its the time to kick off the drape of a hard working worker to a smart working professional.Throw a stone in the water and watch out for the ripples.How long those waves stay in the water ? Think about those disturbances when you think that work will come to a standstill when you decide to take a leave.
 
-Tags:Self Improvement,Self-awareness,Work Life Balance
