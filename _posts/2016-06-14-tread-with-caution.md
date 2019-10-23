@@ -6,7 +6,7 @@ tags: book writing motherhood working moms children
 summary: The thoughts are coming straight from a mother’s heart, so expect hysteria, ups,and downs, emotions at large!
 ---
 
-Many times I feel like giving myself a pat on my back.Yes, it’s crazy.With a hyperactive toddler and an infant, life does seem to be a roller coaster ride.There are moments when I did not have time to comb my hair , brush my teeth or simply visit the washroom.But I had my babies neatly dressed, perfectly combed and yes I did take them to pee every single hour.Such is the tale of a mother and I do not have any regrets in looking like a disaster or attending a party sans makeup.Thank God I did have time to wear proper clothes and comb my hair.
+Many times I feel like giving myself a pat on my back.Yes, it’s crazy.With a hyperactive toddler and an infant, life does seem to be a roller coaster ride.There are moments when I did not have time to comb my hair, brush my teeth or simply visit the washroom.But I had my babies neatly dressed, perfectly combed and yes I did take them to pee every single hour.Such is the tale of a mother and I do not have any regrets in looking like a disaster or attending a party sans makeup.Thank God I did have time to wear proper clothes and comb my hair.
 
 This journey and especially the initial years are so so so demanding that there were times I did feel where am I , what am I doing.But then the cooing of my little one and the warm hugs and kisses of my daughter made me realize that this is the best phase of my life.Very soon they will grow up and will leave my nest.And then I will be missing these days when all they wanted was to be with me.
 
@@ -21,4 +21,4 @@ Do not try to find a structure or an objective for these posts
 The thoughts are coming straight from a mother’s heart , so expect hysteria , ups, and downs , emotions at large !
 Tread with caution , an unseen toy might come your way
 
-Tags:Motherhood,Working Moms,Children
+
