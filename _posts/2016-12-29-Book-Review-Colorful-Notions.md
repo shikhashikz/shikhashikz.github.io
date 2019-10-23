@@ -22,5 +22,4 @@ I am not going to quote any best lines from the book.Just being a bit different 
 
 Happy reading and see you in 2017!
 
-Tags:Book Review
 
