@@ -4,6 +4,7 @@ title: S.M.A.R.T. Habits
 category: blog
 keywords: blog writing author shikhashikz productivity 
 summary: 
+image: assets/images/smart_habits.jpeg
 ---
 
 It's been seven years that I am trying my hands-on writing. I started it in 2012, then off I went, then I restarted it in 2016 with a lull two-year period and now I am back it at again. I am trying to find a reason on why my favorite activity keeps on falling off my plate. Don’t I feel for it? Is it not an enjoyable activity for me? What do I plan to gain out of it? Do I have a long-term goal associated with it? However there is an underlying truth in it; If I keep on coming back to this activity year after year and rediscover something new every time, then definitely it's time to sit and reflect on, the plan which I need to implement to make it a regular habit.

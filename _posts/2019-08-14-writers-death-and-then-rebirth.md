@@ -4,6 +4,7 @@ title: Writer's Death and then...rebirth
 category: blog
 keywords: blog writing author shikhashikz 
 summary: 
+image: assets/images/writers_death.jpeg
 ---
 
 I am paralysed. I am euphoric. I am on a different plane. I am still living in that 'I still cannot believe moment' after publishing my first book. It all seems unreal. I did it. Now, what next? This is not the question which everybody is asking me, but this is the question to myself. I still reminisce those disciplined routines of penning one short story every day. Churning out one post after another. But now, words are not coming out. 
