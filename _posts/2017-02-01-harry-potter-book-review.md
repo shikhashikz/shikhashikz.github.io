@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: My Favourite - Harry Potter Book Review
+title: Book Review Harry Potter (My Favorite)
 category: blog
 tags: harry potter book review
 summary: My Favourite - Harry Potter book review
