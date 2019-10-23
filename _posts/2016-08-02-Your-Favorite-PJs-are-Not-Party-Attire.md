@@ -32,4 +32,3 @@ This plan is working so far for me and I’m hoping it will work at least for th
 
 All the best in dressing up your doll!
 
-Tags:Parenting,Parenting Advice,Fashion,Children,Routines

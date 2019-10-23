@@ -2,10 +2,10 @@
 layout: post
 title: Book Review - Someone to Love by Ruchita Misra
 category: [Book Review]
-tags: blog
+tags: bookreview fiction someonetolove ruchitamisra fiction
 summary: Someone to Love Bookreview
 ---
-There is no denying of the fact that mind is powerful. To an extent, I believe that the kind of situations which we create in our mind can come to life someday. I have experienced that and it makes me fear sometimes on the mind power. If you ask me to define the power of mind, without batting an eyelid I can equate it with nuclear energy. This vast source of energy needs to be channelized and handled properly. Over indulgence in mind “less” conversations and self-concluding why a person acted in a certain way, does not bring any good. Again, turning into a philosophical mode, but Someone to Love subtly touches a very touchy topic.
+There is no denying of the fact that mind is powerful.To an extent, I believe that the kind of situations which we create in our mind can come to life someday. I have experienced that and it makes me fear sometimes on the mind power. If you ask me to define the power of mind, without batting an eyelid I can equate it with nuclear energy. This vast source of energy needs to be channelized and handled properly. Over indulgence in mind “less” conversations and self-concluding why a person acted in a certain way, does not bring any good. Again, turning into a philosophical mode, but Someone to Love subtly touches a very touchy topic.
 
 Throughout the novel I was wondering why Koyal wants to be miserable. We all want to be happy right and can go to any extent to claim our happiness. Then why this girl is bent upon in making her life hell. This is also a kind of addiction. When you think, you are being gracious enough and your actions can make other’s happy while claiming your own happiness. Koyal presents that tragic tale. During her entire life journey, she made herself go through extremes and when life was about to show her the rainbow, she can clearly see the rainbow, but during that happy moment as well , she was tempted to see the dark clouds. Such is the obsession in turning your life into ever gulping sand pit.
 

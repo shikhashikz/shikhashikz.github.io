@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Book Review " The Whole Shebang"
-category: Blog
+category: [Book Review]
+title: Book Review The Whole Shebang
 tags: lalitha iyer,the whole shebang
 summary: Let's not hate the "F" word
 ---

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Book Review The Second Chance
-category: Blog
-tags: blog
+category: [Book Review]
 summary: My Favourite - Harry Potter book review
+tags: drsandeepjatwa book review thesecondchance
+summary: Don't wait for the second chance to come, do it right in the first instance
 ---
 
 I am a strong believer in the “chance situations “which life throws at you.I loved the opening line of the book
