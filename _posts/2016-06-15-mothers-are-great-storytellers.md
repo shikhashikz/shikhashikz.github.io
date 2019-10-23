@@ -15,4 +15,4 @@ And do not underestimate the power of the pint size dictator , she is equally ta
 
 She is a chatterbox and her interminable talk is missed when she is glued with an electronic device.I have to nudge her to leave that and speak to me.I feel guilty that when she is in a mood , I am busy in doing something and fail to pay attention.A baby’s world is a unique world which is unaffected by time , daily routine , timelines , management etc.I have started to enjoy it and making an effort to pay attention.Doors are not open for long.
 
-Tags:Motherhood,Working Moms,Children,Musings
+
