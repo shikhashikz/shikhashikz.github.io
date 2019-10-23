@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Book Review Someone to Love
-category: blog
+category: [Book Review]
 keywords: blog writing author shikhashikz bookreview
 summary: 
 ---

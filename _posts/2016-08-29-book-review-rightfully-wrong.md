@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Book Review Rightfully Wrong,Wrongfully Right 
-category: blog
+category: [Book Review]
 keywords: blog writing author shikhashikz bookreview
 summary: Let the confusion prevail in rightfully right, wrongfully wrong world
 ---
