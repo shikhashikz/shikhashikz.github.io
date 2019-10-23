@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Book Review Rightfully Wrong,Wrongfully Right 
 category: blog
 tags: blog writing author shikhashikz bookreview

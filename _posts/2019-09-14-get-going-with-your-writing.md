@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Get Going With Your Writing,Today!
 category: blog
 tags: blog writing author shikhashikz 

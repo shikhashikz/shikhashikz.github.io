@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Oh the sleep
 category: blog
 tags: blog writing author shikhashikz sleep productivity parenting

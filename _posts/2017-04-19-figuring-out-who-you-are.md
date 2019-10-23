@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Figuring Out Who You Are
 category: blog
 tags: blog writing author shikhashikz revelation

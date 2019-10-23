@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Book Review Someone to Love
 category: blog
 tags: blog writing author shikhashikz bookreview

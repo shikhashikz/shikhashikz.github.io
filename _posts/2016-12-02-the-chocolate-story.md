@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: The Chocolate Story
 category: blog
 tags: blog writing author shikhashikz health parenting advice

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Book Review Confused Bastards
 category: blog
 tags: blog writing author shikhashikz bookreview

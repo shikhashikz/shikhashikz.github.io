@@ -3,7 +3,7 @@ layout: post
 author: Shikha
 category: [Book Review]
 title: Book Review Harry Potter (My Favorite)
-tags: harry potter book review
+tags: harry potter review
 summary: My Favourite - Harry Potter book review
 ---
 

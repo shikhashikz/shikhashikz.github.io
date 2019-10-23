@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: My Kid Said
 category: blog
 tags: blog writing author shikhashikz parenting

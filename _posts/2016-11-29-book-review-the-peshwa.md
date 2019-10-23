@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Book Review The Peshwa The Lion and The Stallion
 category: blog
 tags: blog writing author shikhashikz bookreview

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: A leaf out of Mother's Diary
 category: blog
 tags: blog writing author shikhashikz parenting

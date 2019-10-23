@@ -3,7 +3,7 @@ layout: post
 title: Book Review The Second Chance
 category: [Book Review]
 summary: My Favourite - Harry Potter book review
-tags: drsandeepjatwa book review thesecondchance
+tags: drsandeepjatwa review thesecondchance
 summary: Don't wait for the second chance to come, do it right in the first instance
 ---
 

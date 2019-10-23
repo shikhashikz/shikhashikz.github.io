@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Book Review My Father is a Hero
 category: blog
 tags: blog writing author shikhashikz bookreview
