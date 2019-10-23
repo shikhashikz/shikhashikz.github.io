@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Favorite PJ s are not Party Attire
-category: blog
+category: Blog
 tags: Parenting Parenting Advice Fashion Children Routines lifestyle
 summary: What to wear and what not to wear
 

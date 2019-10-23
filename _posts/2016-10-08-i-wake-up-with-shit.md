@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I wake up with Shit
-category: blog
+category: Blog
 tags: Parenting Humor Babies Shit Motherhood
 summary: Let the humour transform all the shit which is around
 ---

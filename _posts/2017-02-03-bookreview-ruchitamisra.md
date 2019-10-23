@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Book Review - Someone to Love by Ruchita Misra
-category: blog
+category: [Book Review]
 tags: blog
 summary: Someone to Love Bookreview
 ---

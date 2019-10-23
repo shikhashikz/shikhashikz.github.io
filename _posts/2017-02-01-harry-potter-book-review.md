@@ -2,7 +2,7 @@
 layout: post
 title: My Favourite - Harry Potter Book Review
 author: Shikha
-category: blog
+category: [Book Review]
 tags: blog
 summary: My Favourite - Harry Potter book review
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Far from reality, too close to imagination!
-category: blog
+category: [Book Review]
 tags: blog
 summary: Far from reality, too close to imagination!
 

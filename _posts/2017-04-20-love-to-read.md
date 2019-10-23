@@ -1,7 +1,7 @@
 ---
 layout: post
 title: lovetoread
-category: blog
+category: Blog
 tags: lovetoread worldbookday
 summary: My views on lovetoread campaign
 ---

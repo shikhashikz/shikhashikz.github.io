@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Book Review Dream Big
-category: blog
-tags: Blog, Book-Review
+category: [Book Review]
+tags: Blog
 summary: Go to Guide on Financial Planning
 
 ---

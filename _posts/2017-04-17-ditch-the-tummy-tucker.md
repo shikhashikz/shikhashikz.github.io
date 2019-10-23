@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ditch the Tummy Tucker
-category: blog
+category: Blog
 tags: health workout motherhood postdelivery selfhelp
 summary: Get Helthy the natural way
 ---

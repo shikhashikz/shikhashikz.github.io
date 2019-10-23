@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Book Review The Second Chance
-category: blog
+category: Blog
 tags: blog
 summary: My Favourite - Harry Potter book review
 ---

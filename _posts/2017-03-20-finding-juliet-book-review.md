@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finding Juliet Book Review
-category: blog
+category: [Book Review]
 tags: blog
 summary: Exploring Stereotypes
 ---

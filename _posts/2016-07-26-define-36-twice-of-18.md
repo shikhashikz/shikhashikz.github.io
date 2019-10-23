@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Define 36 = Twice of 18
-category: book
+category: Book
 tags: book
 summary: Define 36 = Twice the size of 18. Collection of short"est" stories
 image: assets/images/define36.jpg

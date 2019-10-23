@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gang of Insomniacs
-category: book
+category: Book
 tags: book sticky featured
 summary: There is nothing "normal" in motherhood journey
 image: assets/images/GangofInsomniacsBookCover.jpg

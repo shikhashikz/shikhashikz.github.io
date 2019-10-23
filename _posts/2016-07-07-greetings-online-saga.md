@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Greetings Online Saga
-category: blog
+category: Blog
 tags: blog writing author shikhashikz newworld online vs offline
 summary: The shifting world of greetings
 

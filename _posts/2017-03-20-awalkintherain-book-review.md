@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Walk in the Rain - Book Review
-category: blog
+category: [Book Review]
 tags: blog
 summary: Mind Oscillations and the conversations
 ---
