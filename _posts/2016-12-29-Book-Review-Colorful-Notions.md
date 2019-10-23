@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Book Review Colorful Notions
 category: blog
 tags: blog

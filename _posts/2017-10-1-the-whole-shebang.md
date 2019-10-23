@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Book Review " The Whole Shebang"
 category: blog
 tags: lalitha iyer,the whole shebang

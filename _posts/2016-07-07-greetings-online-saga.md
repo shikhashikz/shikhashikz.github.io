@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Greetings Online Saga
 category: blog
 tags: blog writing author shikhashikz newworld online vs offline

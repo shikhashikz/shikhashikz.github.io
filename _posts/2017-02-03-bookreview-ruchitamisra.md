@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Book Review - Someone to Love by Ruchita Misra
 category: blog
 tags: blog

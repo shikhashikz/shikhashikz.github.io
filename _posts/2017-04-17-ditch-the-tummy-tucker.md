@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Ditch the Tummy Tucker
 category: blog
 tags: health workout motherhood postdelivery selfhelp

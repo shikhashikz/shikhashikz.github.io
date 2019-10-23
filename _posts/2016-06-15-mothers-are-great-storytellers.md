@@ -1,8 +1,8 @@
 ---
-layout: blog
+layout: post
 title: Mothers are Great Storytellers
-category: blog
-tags: Motherhood,Working Moms,Children,Musings
+category: Blog
+tags: Blog
 summary: Donning several hats at once
 
 ---

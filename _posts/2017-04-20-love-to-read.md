@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: lovetoread
 category: blog
 tags: lovetoread worldbookday

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Far from reality, too close to imagination!
 category: blog
 tags: blog

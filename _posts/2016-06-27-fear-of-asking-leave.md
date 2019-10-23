@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Fear of Asking Leave
 category: blog
 tags: blog writing author shikhashikz worklife corporate life

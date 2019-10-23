@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Your Favorite PJ s are not Party Attire
 category: blog
 tags: Parenting Parenting Advice Fashion Children Routines lifestyle

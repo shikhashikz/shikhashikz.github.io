@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Book Review The Second Chance
 category: blog
 tags: blog

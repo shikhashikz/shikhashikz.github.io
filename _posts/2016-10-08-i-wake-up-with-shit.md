@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: I wake up with Shit
 category: blog
 tags: Parenting Humor Babies Shit Motherhood

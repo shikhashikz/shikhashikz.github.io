@@ -1,8 +1,8 @@
 ---
-layout: blog
+layout: post
 title: Motherhood Idiosyncracies
 category: blog
-tags: Parenting,Motherhood,Working Moms
+tags: Blog, Parenting,Motherhood,Working Moms
 summary: Yes,I agree Mothers are weird!	
 ---
 

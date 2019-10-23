@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: A Walk in the Rain - Book Review
 category: blog
 tags: blog

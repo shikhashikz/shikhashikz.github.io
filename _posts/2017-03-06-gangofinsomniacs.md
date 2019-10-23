@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Gang of Insomniacs
 category: book
 tags: book sticky featured

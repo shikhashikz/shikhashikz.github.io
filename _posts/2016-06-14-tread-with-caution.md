@@ -1,8 +1,8 @@
 ---
-layout: blog
+layout: post
 title: Tread with Caution
-category: blog
-tags: blog
+category: Blog
+tags: Blog
 summary: The thoughts are coming straight from a mother’s heart, so expect hysteria, ups,and downs, emotions at large!
 ---
 

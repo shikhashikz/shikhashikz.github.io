@@ -1,8 +1,8 @@
 ---
-layout: blog
+layout: post
 title: Book Review Dream Big
 category: blog
-tags: blog
+tags: Blog, Book-Review
 summary: Go to Guide on Financial Planning
 
 ---
