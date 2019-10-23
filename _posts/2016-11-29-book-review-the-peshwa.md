@@ -2,7 +2,7 @@
 layout: post
 title: Book Review The Peshwa The Lion and The Stallion
 category: blog
-tags: blog writing author shikhashikz bookreview
+keywords: blog writing author shikhashikz bookreview
 summary: Good book to dive into the world of war, conspiracy, kingdoms, power, aftermaths of war.
 ---
 

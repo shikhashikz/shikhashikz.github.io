@@ -2,7 +2,7 @@
 layout: post
 title: S.M.A.R.T. Habits
 category: blog
-tags: blog writing author shikhashikz productivity 
+keywords: blog writing author shikhashikz productivity 
 summary: 
 ---
 

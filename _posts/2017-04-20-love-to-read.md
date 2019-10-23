@@ -3,7 +3,7 @@ layout: post
 title: lovetoread
 category: Blog
 title: Love to Read
-tags: lovetoread worldbookday
+keywords: lovetoread worldbookday
 summary: My views on lovetoread campaign
 ---
 

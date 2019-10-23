@@ -2,7 +2,7 @@
 layout: post
 title: Book Review Colorful Notions
 category: [Book Review]
-tags: blog
+keywords: blog
 summary: Book Review
 ---
 

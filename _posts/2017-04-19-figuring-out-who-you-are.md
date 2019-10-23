@@ -2,7 +2,7 @@
 layout: post
 title: Figuring Out Who You Are
 category: blog
-tags: blog writing author shikhashikz revelation
+keywords: blog writing author shikhashikz revelation
 summary: A Journey Down Your Own Rabbit Hole
 ---
 

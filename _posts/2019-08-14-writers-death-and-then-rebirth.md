@@ -2,7 +2,7 @@
 layout: post
 title: Writer's Death and then...rebirth
 category: blog
-tags: blog writing author shikhashikz 
+keywords: blog writing author shikhashikz 
 summary: 
 ---
 

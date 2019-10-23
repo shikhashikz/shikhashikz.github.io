@@ -2,7 +2,7 @@
 layout: post
 title: Ditch the Tummy Tucker
 category: Blog
-tags: health workout motherhood postdelivery selfhelp
+keywords: health workout motherhood postdelivery selfhelp
 summary: Get Helthy the natural way
 ---
 You have still not recovered from the aftermaths of becoming a mother, and that too twice, then how can you think about getting rid of the double chin and the tummy bulge! 

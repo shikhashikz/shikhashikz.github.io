@@ -2,7 +2,7 @@
 layout: post
 title: Get Going With Your Writing,Today!
 category: blog
-tags: blog writing author shikhashikz 
+keywords: blog writing author shikhashikz 
 summary: 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: My Kid Said
 category: blog
-tags: blog writing author shikhashikz parenting
+keywords: blog writing author shikhashikz parenting
 summary: Kids are intuitive and they can pick up your slightest of expressions.
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Book Review My Father is a Hero
 category: blog
-tags: blog writing author shikhashikz bookreview
+keywords: blog writing author shikhashikz bookreview
 summary: Why the title is My father is a hero and not my mother is a hero! 
 ---
 

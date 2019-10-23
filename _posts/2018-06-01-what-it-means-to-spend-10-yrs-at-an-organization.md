@@ -2,7 +2,7 @@
 layout: post
 title: What it means to spend 10 years at an organization
 category: Blog
-tags: corporatelife longtenure lovingthework newopportunities BentleySystems worklife
+keywords: corporatelife longtenure lovingthework newopportunities BentleySystems worklife
 summary: 10th Year Anniversary
 image: assets/images/Anniversary.jpg
 

@@ -2,7 +2,7 @@
 layout: post
 title: Fear of Asking Leave
 category: Blog
-tags: blog writing author shikhashikz worklife corporate life
+keywords: blog writing author shikhashikz worklife corporate life
 summary: The shudder which is felt when thinking about a day off	
 ---
 

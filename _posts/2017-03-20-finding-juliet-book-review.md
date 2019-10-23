@@ -2,7 +2,7 @@
 layout: post
 title: Finding Juliet Book Review
 category: [Book Review]
-tags: findingjuliet review
+keywords: findingjuliet review
 summary: Exploring Stereotypes
 ---
 

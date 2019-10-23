@@ -3,7 +3,7 @@ layout: post
 title: And Art comes for rescue
 author: Shikha
 category: Blog
-tags: blog writing author shikhashikz art
+keywords: blog writing author shikhashikz art
 summary: When simple leisures can act as stress reliever 	
 ---
 

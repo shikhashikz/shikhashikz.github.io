@@ -2,7 +2,7 @@
 layout: post
 title: The Chocolate Story
 category: blog
-tags: blog writing author shikhashikz health parenting advice
+keywords: blog writing author shikhashikz health parenting advice
 summary: Are you buying chocolates for the kids when paying a visit to them? STOP
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: The Lift Saga
 category: Book
+keywords: book
 tags: book
 summary: The Lift Saga represents that I have fulfilled the promise which I made with Define 36
 image: assets/images/theliftsaga.jpg
