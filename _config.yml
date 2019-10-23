@@ -22,7 +22,7 @@ authors:
     shikha:
       name:           Shikha Pakhide
       site:           https://www.shikhashikz.com
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         /assets/images/shikhashikz.jpg
       bio:            "Creates the Zing factor in Marketing | Books are my Best Friend , Tea is my favorite beverage & Travelling to places is my hobby | A story teller"
       email:          shikhapakhide@gmail.com
       twitter:        https://twitter.com/shikhashikz
@@ -36,7 +36,7 @@ defaults:
     values:
       layout: post
       author: shikha
-      avatar: /assets/images/avatar1.jpg
+      avatar: /assets/images/shikhashikz.jpg
       
   # all pages
   - scope:
