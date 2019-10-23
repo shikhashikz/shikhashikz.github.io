@@ -22,4 +22,3 @@ You can not challenge a mother.If she says , this is right for the baby , bow do
 
 PS:The intention of this post is purely towards the funny side.Enjoy the humor and idiosyncrasies of a mother !
 
-Tags:Parenting,Motherhood,Working Moms
