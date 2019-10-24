@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Walk in the Rain - Book Review
+title: Book Review A Walk in the Rain
 category: [Book Review]
 keywords: A walk in the rain udai yadla review
 summary: Mind Oscillations and the conversations
