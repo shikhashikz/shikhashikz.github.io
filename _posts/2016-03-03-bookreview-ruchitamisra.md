@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Review - Someone to Love by Ruchita Misra
+title: Book Review Someone to Love 
 category: [Book Review]
 keywords: bookreview fiction someonetolove ruchitamisra fiction
 summary: Someone to Love Bookreview
