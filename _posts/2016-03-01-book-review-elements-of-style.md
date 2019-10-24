@@ -1,3 +1,11 @@
+---
+layout: post
+title: Book Review The Elements of Style
+category: [Book Review]
+keywords: blog
+
+---
+
 English is a very funny language!
 
 ### Writing is an immense hard work and it's a myth that it's a cakewalk. ### 
