@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finding Juliet Book Review
+title: Book Review Finding Juliet
 category: [Book Review]
 keywords: findingjuliet review
 summary: Exploring Stereotypes
