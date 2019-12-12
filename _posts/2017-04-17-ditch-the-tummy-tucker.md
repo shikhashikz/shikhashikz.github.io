@@ -25,7 +25,7 @@ When my son turned one, and I looked myself in the mirror, yes, I did this DARE 
 
 I started following the above-mentioned tips. It did help me in at least taking care of myself. But I soon realized that the magic mantras are 
 
-**1. The best blushon, is the glow on your skin; and then is really inexpenice and you can get it easily when you do some serious workout (Pls don't immediately take the subscription of your neighborhood gym. Brisk walking, skipping, squats, step-running does wonder. All you need is; to invest in good shoes as per your body need) and eat healthily**
+**1. The best blushon, is the glow on your skin; and then is really inexpenice and you can get it easily when you do some serious workout (Please don't immediately take the subscription of your neighborhood gym. Brisk walking, skipping, squats, step-running does wonder. All you need is; to invest in good shoes as per your body need) and eat healthily**
 
 **2. DITCH THE TUMMY TUCKER. Yes, I know, you will say I had just bought so many and now I am saying throw them out. I am probably out of my mind. No, I am not. And I will tell you the reason, why I am saying this. When you wear your favorite tees, tops,dresses without tummy tucker, you will understand how much you want to lose. Do not remove those lovely tops after analyzing your body. Be bold and go out and yes be conscious of the fact that how much you need to exercise next morning**
 
