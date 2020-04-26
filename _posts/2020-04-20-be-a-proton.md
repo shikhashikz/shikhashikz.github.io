@@ -9,7 +9,7 @@ image: assets/images/Be_a_proton.png
 
 It's a fearful task to start the first post of 2020, with the core theme of fear! But nevertheless, there has to be a moment when I put a period on the ever lingering fearful feeling. I dread doing so many things, and it's my fear which always prevents me from taking that first step towards the unknown. This post is actually a celebration of fear, the power it yields, and the pressure it creates on all of us! This is the single most important factor which had prohibited me to become a proton.
 
-This New Year, let’s pledge to **“Be a Proton”
+This New Year, let’s pledge to **“Be a Proton”**
 
 *I am walking, and I have that fear that I will fall.*
 
