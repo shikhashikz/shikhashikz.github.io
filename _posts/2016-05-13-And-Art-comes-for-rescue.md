@@ -5,7 +5,7 @@ author: Shikha
 category: Blog
 keywords: blog writing author shikhashikz art
 summary: When simple leisures can act as stress reliever 
-image: assets/images/TodayIchoosejoy.jpeg
+image: assets/images/TodayIchoosejoy.JPG
 ---
 
 When everything else fails , Art comes for rescue..when your mind is off the target and you are shooting in all the directions and of course none will hit the bull's eye which leaves you wondering what are you doing and everything appears meaningless ( though you will not accept that the approach lacks structure ! )..During these low times , best remedy does not appear in the form of medicines but any form of this three letter word..
