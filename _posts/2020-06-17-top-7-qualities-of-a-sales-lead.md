@@ -3,7 +3,7 @@ layout: post
 title: Top 7 Qualities of an Ideal Sales Lead
 category: blog
 keywords: blog writing author shikhashikz saleslead leadmanagement demandgeneration
-image: assets/images/Lead Management Part 1.JPG
+image: assets/images/LM Blog Post_1.png
 ---
 
 **Top 7 Qualities of an Ideal Sales Lead**
@@ -18,15 +18,17 @@ In general, what a Salesperson wishes for: A Lead is ready for a sales touch whe
 
 And what Marketing aspires: A set of prospects who has been hunted by various marketing activities and now the next level of farming stage needs to be done by Sales team. 
 
+image: assets/images/Lead Management Part 1.JPG
+
 The bridge which connects Marketing aspiration to Sales expectation is generally missing. This I will cover in my subsequent posts. In our first post in this series, I will be covering:
 
-What is A Perfect Sales Lead for a Salesperson?
+**What is A Perfect Sales Lead for a Salesperson?**
 
-1.	Unique lead: It’s a NEW lead in the real sense. They have never seen it before and it’s definitely a “unique new prospect”. A sales rep will be excited to talk to this new prospect
+1.	*Unique lead*: It’s a NEW lead in the real sense. They have never seen it before and it’s definitely a “unique new prospect”. A sales rep will be excited to talk to this new prospect
 
-2.	Correct Contact Details: When I mention correct, it means that an inside sales person has checked that the email address is correct and the phone number which is mentioned is functional
+2.	*Correct Contact Details*: When I mention correct, it means that an inside sales person has checked that the email address is correct and the phone number which is mentioned is functional
 
-3.	The designation, department: What good it will be for a sales rep to target a lead who does not fit the bill and is not in the list of the titles which are targeted by them. The job title and the department in which they work in, gives a sales rep instant information on their decision making ability, their influence during the purchasing process and where does the lead stand in the buying journey
+3.	*The designation, department*: What good it will be for a sales rep to target a lead who does not fit the bill and is not in the list of the titles which are targeted by them. The job title and the department in which they work in, gives a sales rep instant information on their decision making ability, their influence during the purchasing process and where does the lead stand in the buying journey
 
 4.	Source and Origin: Where did this lead came from and how did it originate. It's an utopian conclusion that a prospective buyer visits the website (without doing any research) and straight away fills a sales contact form. The buying journey and the research cycle in today's world is intricate. A prospective buyer engages in a series of activities before they take the final plunge on the willingness to speak to a sales rep. Hence, a sales rep is always interested to see the seed and the roots
 
