@@ -4,7 +4,6 @@ title: Top 7 Qualities of an Ideal Sales Lead
 category: blog
 keywords: blog writing author shikhashikz saleslead leadmanagement demandgeneration
 image: assets/images/Perfect Sales Lead.jpg
-
 ---
 
 **Top 7 Qualities of an Ideal Sales Lead**
@@ -19,7 +18,7 @@ In general, ***what a Salesperson wishes for***: *A Lead is ready for a sales to
 
 And what ***Marketing aspires***: *A set of prospects who has been hunted by various marketing activities and now the next level of farming stage needs to be done by Sales team.*
 
-The bridge which connects Marketing aspiration to Sales expectation is generally missing. This I will cover in my subsequent posts. In our first post in this series, I will be covering:
+The bridge which connects Marketing aspiration to Sales expectation is generally missing. This I will cover in my subsequent posts. In my first post in this series, I will be covering:
 
 **What is A Perfect Sales Lead for a Salesperson?**
 
