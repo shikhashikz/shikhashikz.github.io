@@ -6,6 +6,7 @@ keywords: blog writing author shikhashikz saleslead leadmanagement demandgenerat
 image: assets/images/Perfect Sales Lead.jpg
 ---
 
+
 **Top 7 Qualities of an Ideal Sales Lead**
 
 This post reflects my love and hate relationship with this four-letter word ***“LEAD”***. 
