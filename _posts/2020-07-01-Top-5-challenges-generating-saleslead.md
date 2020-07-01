@@ -9,6 +9,7 @@ image: assets/images/Tough world of Sales Lead.jpeg
 ---
 
 **Tough world of Sales Lead**
+
 *What are the Top 5 challenges in generating a High quality Sales Lead?*
 
 High Quality Sales Lead is what a sales rep wants and in my first post in the Lead Management Blog Post series, I covered what are the Top 7 Qualities of a Perfect Sales Lead. It’s easy to demand that this is what is needed, but it’s equally important to look at the challenges in generating High Quality Sales Lead, day in and day out. 
