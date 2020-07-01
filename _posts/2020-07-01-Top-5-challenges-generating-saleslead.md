@@ -3,8 +3,8 @@
 layout: post
 title: Top 5 Challenges in Generating Quality Sales Lead
 category: blog
-keywords: blog writing author shikhashikz saleslead leadmanagement demandgeneration insidesales
-image: assets/images/Tough world of Sales Lead.jpeg
+keywords: blog writing author shikhashikz saleslead leadmanagement demandgeneration insidesales blogseries 
+image: assets/images/Top5challenges.png
 
 ---
 
