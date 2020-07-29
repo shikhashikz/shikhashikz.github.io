@@ -1,6 +1,4 @@
-
 ---
-
 layout: post
 title: Marketing's Achilles Heel
 category: blog
@@ -22,7 +20,7 @@ There are some persistent topics which gives a heart ache to marketing team.
 
 *Have you solved the holy grail of segmentation? Is the team making an effort to adapt account based marketing?*
 
-**There should not be a direct flow of leads from marketing automation in a sales rep queue. The lead needed to be vetted, scrubed and only handful of “meaning ful conversations” should be shared with Sales.**
+**There should not be a direct flow of leads from marketing automation to a sales rep queue. The lead need to be vetted, scrubed and only handful of “meaningful conversations” should be shared with Sales.**
 
 It does sound radical but I totally believe that this is the solution which will bring in value to the entire lead management process. What are your thoughts? Did I miss any of the marketing pain areas? Are there any blind spots?
 
