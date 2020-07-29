@@ -2,7 +2,7 @@
 ---
 
 layout: post
-title: Marketing's Achilles Heal
+title: Marketing's Achilles Heel
 category: blog
 keywords: blog writing author shikhashikz saleslead leadmanagement demandgeneration insidesales blogseries 
 image: assets/images/Mktng achilles heel.jpeg
