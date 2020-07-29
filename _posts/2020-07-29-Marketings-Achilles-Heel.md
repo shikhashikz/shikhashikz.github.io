@@ -5,7 +5,7 @@ layout: post
 title: Marketing's Achilles Heal
 category: blog
 keywords: blog writing author shikhashikz saleslead leadmanagement demandgeneration insidesales blogseries 
-image: assets/images/Top5challenges.png
+image: assets/images/Mktng achilles heel.jpeg
 
 ---
 **It’s an uphill task to get prospects pulled like a magnet to your website.**
