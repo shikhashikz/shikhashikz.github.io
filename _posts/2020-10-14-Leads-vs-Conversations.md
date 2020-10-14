@@ -12,23 +12,28 @@ You: Hello! Good Day. I am …. calling from XYZ. We are the best in the game an
 
 What do you think will be the customer’s reaction? Will the person on the other end jump at the offer? Will the customer be keen to book an appointment? What’s wrong with this entire pitch?
 
-It’s a monologue and not a dialogue. This is not how a conversation should happen. We would not want to engage in a talk like this. Then why do 
+**It’s a monologue and not a dialogue. This is not how a conversation should happen.** We would not want to engage in a talk like this. Then why do we torture our prospects with those plain cold calls.  
 
-We should stop treating our prospects as the ones who are dying to buy our products. Prospects are researchers who are constantly looking out for solutions for their problems. They also don’t prefer hard selling. they want to know how you can solve their problem. And this can only happen via conversations.
+We should stop treating our prospects as the ones who are dying to buy our products. Prospects are researchers who are constantly looking out for solutions for their problems. They also don’t prefer hard selling. They want to know how you can solve their problem. And this can only happen via conversations.
 
 It’s time that we should move from waiting when the leads will hatch like chickens. If they have not been warmed up enough, if there were not enough conversations happening, it’s foolish to expect results.
 
-Questions which Marketing should be asking is:
+Is Marketing thinking on these lines?
 
-Are there specific guidelines given to Sales on the talking points for the new names generated?
-The names which came in Sales Queue after going through a series of nurturing cycles, what should a sales rep be talking with them?
-How easy it’s for a sales rep to keep a record of the conversations which they had?
-How easy is it for a marketing person to analyse the conversations which had happened?
-Is your system intelligent enough to give you analytics based on the conversations transcript?
-What are the post conversations actions? Are they automated?
+***Are there specific guidelines given to Sales on the talking points for the new names generated?
+
+***The names which came in Sales Queue after going through a series of nurturing cycles, what should a sales rep be talking with them?
+
+***How easy it’s for a sales rep to keep a record of the conversations which they had?
+
+***How easy it's for a marketing person to analyse the conversations which had happened?
+
+***Is your system intelligent enough to give you analytics based on the conversations transcript?
+
+***What are the post conversations actions? Are they automated?
 
 The major fallback which I have seen happens because sales does not have the right tips for conversations and later marketing does not know how to do data mining with these conversations. And in the end what happens? The gold mine which these conversations present, are lost in the ocean.
 
-This is my fourth post in the Lead Management Blog Post Series. I am keen to know how you build up the conversations. How important are these conversations to you? What are the tools you are using to keep a tab on these conversations?
+This is my fourth post in the Lead Management Blog Post Series. I am keen to know how you build up the conversations. How important are these conversations to you? What are the tools you are using to keep a tab on these conversations? How do you keep the conversations going? Is there a process which you follow which has a series of conversations mapped out. 
 
-Let’s bring the empathy back in the game. Nobody wants to talk to a person who is only blabbering about their own success.
+Let’s bring the empathy back in the game. Nobody wants to talk to a person who is only blabbering about their own success. On a fun note, do you have any favorite pickup lines to start the conversations! 
