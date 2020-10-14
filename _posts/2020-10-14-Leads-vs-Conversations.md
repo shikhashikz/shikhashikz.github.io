@@ -20,17 +20,17 @@ It’s time that we should move from waiting when the leads will hatch like chic
 
 Is Marketing thinking on these lines?
 
-***Are there specific guidelines given to Sales on the talking points for the new names generated?
+***Are there specific guidelines given to Sales on the talking points for the new names generated?***
 
-***The names which came in Sales Queue after going through a series of nurturing cycles, what should a sales rep be talking with them?
+***The names which came in Sales Queue after going through a series of nurturing cycles, what should a sales rep be talking with them?***
 
-***How easy it’s for a sales rep to keep a record of the conversations which they had?
+***How easy it’s for a sales rep to keep a record of the conversations which they had?***
 
-***How easy it's for a marketing person to analyse the conversations which had happened?
+***How easy it's for a marketing person to analyse the conversations which had happened?***
 
-***Is your system intelligent enough to give you analytics based on the conversations transcript?
+***Is your system intelligent enough to give you analytics based on the conversations transcript?***
 
-***What are the post conversations actions? Are they automated?
+***What are the post conversations actions? Are they automated?***
 
 The major fallback which I have seen happens because sales does not have the right tips for conversations and later marketing does not know how to do data mining with these conversations. And in the end what happens? The gold mine which these conversations present, are lost in the ocean.
 
