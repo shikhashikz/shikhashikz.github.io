@@ -3,7 +3,7 @@ layout: post
 title: Leads vs Conversations
 category: blog
 keywords: blog writing author shikhashikz saleslead leadmanagement demandgeneration insidesales blogseries 
-image: Leads vs Conversa 640 by 320.jpeg
+image: assets/Let's talk.png
 ---
 Imagine you are having a conversation with someone, and all what you are doing is talking about your own self, your own aspirations, your own challenges, without at once considering another person’s point of view, their thinking. How do you anticipate this conversation will end? The listener will label you as a poor conversationalist and the worst listener. He/She will shy away from discussing anything with you. Though this relates to personal experiences, our professional talks are also in the same league. Let’s look at this:
 
