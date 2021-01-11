@@ -3,7 +3,7 @@ layout: post
 title: Mandatory 2020 wrap up Post!
 category: blog
 keywords: blog writing author shikhashikz philosophy mindfulness learnings
-image: /assets/images/2021.gif
+image: assets/images/2021.gif
 
 ---
 
