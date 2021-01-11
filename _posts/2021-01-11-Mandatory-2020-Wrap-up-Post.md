@@ -17,7 +17,8 @@ Coming back to 2020, it was so different in many ways. Whoever had never worked 
 
 
 And yes, 2020 did turn everybody in a philosopher, including me! I think GOD did receive a lot of knocks on HIS door enquiring on “the purpose of life”. 
-What kept me going last year? Meditation, yoga and words. I read, wrote and shared my learnings. I recorded 40 bite size videos for Antwak platform. Check out my contributions here: https://www.antwak.com/author/2069-shikha-pakhide 
+
+**What kept me going last year?** Meditation, yoga and words. I read, wrote and shared my learnings. I recorded 40 bite size videos for Antwak platform. Check out my contributions on [Digital Marketing, Soft Skills, Women at Work, Emotional Well-Being and Sales & BD](https://www.antwak.com/author/2069-shikha-pakhide)
 
 
 I would take a moment to share my reading list of 2020:
