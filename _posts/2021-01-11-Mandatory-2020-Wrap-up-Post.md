@@ -3,7 +3,7 @@ layout: post
 title: Mandatory 2020 wrap up Post!
 category: blog
 keywords: blog writing author shikhashikz philosophy mindfulness learnings
-image: assets/images/2021.gif
+image: assets/images/NY2021.jpg
 
 ---
 
@@ -23,12 +23,19 @@ What kept me going last year? Meditation, yoga and words. I read, wrote and shar
 I would take a moment to share my reading list of 2020:
 
 ***Atomic Habits***
+
 ***The Diary of a Young Girl***
+
 ***Are you there God? It’s me, Margaret***
+
 ***Sophie Kinsella’s “I owe you one”, “Surprise Me” and “Remember Me”***
+
 ***Healing Back Pain***
+
 ***The Rearranged life of Oona***
+
 ***The Silent Patient***
+
 ***Eleanor Oliphant is Completely Fine***
 
 **What’s my myntra for the next phase?** Sharpen the lessons learnt in 2020 and Observe.
