@@ -3,7 +3,7 @@ layout: post
 title: Bringing Life to a Character
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity charactersketch
-image: assets/images/Writing_Charactersketch.png
+image: assets/images/ Writing_Charactersketch.png
 
 ---
 #WritingLife #CharacterSketch
