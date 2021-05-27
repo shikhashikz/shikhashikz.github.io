@@ -3,7 +3,7 @@ layout: post
 title: Tips to Survive Lockdown!
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity blogger blogging lockdown checklist 
-image: assets/images/Lockdown Checklist.jpg
+image: assets/images/LockdownChecklist.jpg
 
 ---
 
