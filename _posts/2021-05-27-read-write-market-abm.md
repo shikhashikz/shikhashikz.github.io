@@ -39,8 +39,8 @@ One of the areas which are close to my heart is continuous learning and keeping 
 
 I was completely bowled over with this Statement from [@MathewKent](https://www.linkedin.com/in/mathewkent/)
 
-:100:**If it’s a MUST WIN deal for you and you are not benefiting from ABM Efforts, there are very LESS chances that you will close that deal.** :100:
+:100:  **If it’s a MUST WIN deal for you and you are not benefiting from ABM Efforts, there are very LESS chances that you will close that deal.**  :100:
 
-:collision: Didn’t he nail it with this remark? I mean the importance of ABM was stamped in indelible ink.:collision:
+:collision: Didn’t he nail it with this remark? I mean the importance of ABM was stamped in indelible ink. :collision:
 
 I will be sharing my learnings on ABM regularly and the one which is next on my To-Do list is Book Review of [ABM is B2B](https://terminus.com/abm-is-b2b/) by @sangramvajre :writing_hand:
