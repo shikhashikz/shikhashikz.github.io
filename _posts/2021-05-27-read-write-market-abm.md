@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Read, Write, Market. Cut, Define, Stick- My Mantras
+title: Read, Write, Market.
 category: blog
 keywords: blog writing author shikhashikz writing writing life writing community marketing goals abm account based marketing strategicabm
 image: assets/images/READWRITEMARKET.jpg
@@ -8,7 +8,9 @@ image: assets/images/READWRITEMARKET.jpg
 ---
 
 **Read, Write, Market**
+
 *Cut, Define, Stick*
+
 My MANTRAS, GOALS and what's my APPROACH.
 
 I am making a conscious effort to make that a part of my daily routine. If anything which I am doing does not align with my goal, then it’s not worth pursuing.
