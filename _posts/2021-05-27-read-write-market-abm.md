@@ -39,7 +39,7 @@ One of the areas which are close to my heart is continuous learning and keeping 
 
 **I was completely bowled over with this Statement from [MathewKent](https://www.linkedin.com/in/mathewkent/)**
 
-💯 ***If it’s a MUST WIN deal for you and you are not benefiting from ABM Efforts, there are very LESS chances that you will close that deal.*** 💯
+💯 ***If it’s a MUST WIN deal for you and you are not benefiting from ABM Efforts, there are very LESS chances that you will close that deal***💯
 
 💥 Didn’t he nail it with this remark? I mean the importance of ABM was stamped in indelible ink. 💥
 
