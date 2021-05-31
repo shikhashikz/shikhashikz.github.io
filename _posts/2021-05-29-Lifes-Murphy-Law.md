@@ -3,7 +3,7 @@ layout: post
 title: Life's Murphy Law
 category: blog
 keywords: blog writing author shikhashikz life experiences adversity prosperity blogpost lifephilosophy writinglife writing writingcommunity dailyblogpost 
-image: assets/MurphysLaw.jpg
+image: assets/images/MurphysLaw.jpg
 
 ---
 Life has curves, it's never a straight line➰
