@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writing Trivia #1
+title: Writing Trivia One
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost 
 image: assets/images/writingtrivia1.jpg
