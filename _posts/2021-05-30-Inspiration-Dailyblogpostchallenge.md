@@ -17,7 +17,7 @@ In one of my recent **[Insta posts](https://www.instagram.com/novelistinaction/)
 
 *✍️Capture your key takeaways in a post*
 
-Adding the sixth one, you can not keep on looking for Inspiration every other day and re drawing your board. Once you have made a plan stick to it. As in my previous post, I did mention that there will be variations depending on how that day is unfolding, but more or less if there is a plan, it will pull you back to the basics.
+Adding the fifth one, you can not keep on looking for Inspiration every other day and re drawing your board. Once you have made a plan stick to it. As in my previous post, I did mention that there will be variations depending on how that day is unfolding, but more or less if there is a plan, it will pull you back to the basics.
 
 I can not help sharing this post on the first initial wins from [Seth Godin](https://seths.blog/2018/10/the-first-1000-are-the-most-difficult/) 
 
