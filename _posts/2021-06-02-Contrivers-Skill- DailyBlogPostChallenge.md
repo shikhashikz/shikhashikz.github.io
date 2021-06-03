@@ -7,9 +7,7 @@ image: assets/images/Creatorscreation.jpg
 
 ---
 
-Contriver’s Skill
-
-Only the creation of GOD is not questioned. But we Humans…
+*Only the creation of GOD is not questioned. But we Humans…*
 
 Recently I came face to face with a situation, where I was not satisfied with the end product. As per me, the product did not match the earlier standards. I provided the review to the concerned. The creator was confident that the delivered product matched the desired standards and there can not be an issue. Now, this put me in a dilemma, on how to approach a creator’s creation. I have huge respect for that person and for all the creators/ artists out there. I wanted to broach this subject properly without hampering my relationship. The situation was sorted however, it opened up a can of worms on this subject in my mind. My mind was hammered with all these questions:
 
