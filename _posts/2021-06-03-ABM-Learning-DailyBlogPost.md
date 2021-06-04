@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ABM Learning made simple
+title: ABM Learning Made Simple
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost ABM ACCOUNTBASEDMARKETING
 image: assets/images/ABMLEARNING.jpg
