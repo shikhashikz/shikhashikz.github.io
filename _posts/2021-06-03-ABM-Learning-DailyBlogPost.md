@@ -18,9 +18,11 @@ My key takeaways:
 
 **•	The 3 Pillars of Unmarketing Intervention**
 
-*o	Personalize the Vision
-*o	Revolutionize the Experience* 
-*o	Humanize the Relationship*
+*Personalize the Vision*
+
+*Revolutionize the Experience* 
+
+*Humanize the Relationship*
 
 •	From 1 Pilot Account they scaled the efforts to Top 24 accounts within three years
 
