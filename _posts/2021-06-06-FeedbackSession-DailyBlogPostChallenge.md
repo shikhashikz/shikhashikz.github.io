@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where does your Index Incline?
+title: The Serious Game of Feedbacks
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
 image: assets/images/Feedback.jpg
