@@ -5,7 +5,7 @@ category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge definepurpose personalmissionstatement  
 image: assets/images/DefinePurpose.jpg
 
-----
+---
 Continuing with my learning from **Jay Shetty’s Book, Think like a Monk** and this time the topic revolves around Purpose and Vision.
 
 Quoting the text from his book:
