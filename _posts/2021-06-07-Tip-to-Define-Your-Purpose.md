@@ -2,7 +2,7 @@
 layout: post
 title: How to Define your Purpose
 category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge definepurpose personalmissionstatement howto tips 
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge definepurpose personalmissionstatement  
 image: assets/images/DefinePurpose.jpg
 
 ----
