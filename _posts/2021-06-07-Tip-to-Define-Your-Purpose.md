@@ -25,6 +25,8 @@ To reach to the conclusion of Jay’s equation which I have quoted above, Time a
 
 Your purpose will leave you fulfilling and the time which you have invested in achieving it, will not leave you exhausted. You can trust me on that👍
 
+I would also like to share **[Marie Forleo's talk with Seth Godin](https://www.marieforleo.com/2016/10/seth-godin/)** which left me with goosebumps and tears. Seth Godin is one of the person who is my inspiration to "Show up every day for what I believe in"
 
+Another food for thought is, google on Emma Slade's awakening.
 
 
