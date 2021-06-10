@@ -15,4 +15,4 @@ Because this is where reality lives; when adversity wants to meet the prosperity
 
 *🎺Want to know how the character of my next novel is unfolding, follow me on **[Instagram](https://www.instagram.com/novelistinaction/)**🎺*
 
-                                                                                                                      🌼 Post#69 🌼
+ 🌼 Post 69 🌼
