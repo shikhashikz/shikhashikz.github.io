@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Two Sides of the Coin: Adversity and Prosperity
+title: Two Sides of the Coin- Adversity and Prosperity
 category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge life experiences 
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge life 
+
 ---
 
 **Adversity** and **Prosperity** always ***Create Amazing Stories.*** 
