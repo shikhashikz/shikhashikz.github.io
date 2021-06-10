@@ -3,6 +3,7 @@ layout: post
 title: Two Sides of the Coin- Adversity and Prosperity
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge life 
+image: assets/images/PostNo69.jpg
 
 ---
 
@@ -14,4 +15,4 @@ Because this is where reality lives; when adversity wants to meet the prosperity
 
 *🎺Want to know how the character of my next novel is unfolding, follow me on **[Instagram](https://www.instagram.com/novelistinaction/)**🎺*
 
-                                                                                                                       Post#69
+                                                                                                                      🌼 Post#69 🌼
