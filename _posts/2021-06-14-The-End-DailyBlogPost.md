@@ -11,7 +11,7 @@ image: assets/images/TheEND.jpg
 
 ❓When was the last time, instead of reading the entire story you jumped straight to the end of the story?
 
-❓Have you ever done, instead of watching the entire suspense thriller, you fast-forwarded the movie and saw what happened in the end?
+❓Have you ever done, instead of watching the entire suspense thriller, fast-forwarded the movie and saw what happened in the end?
 
 ❓If you are a writer, do you write the end of the story? 
 
