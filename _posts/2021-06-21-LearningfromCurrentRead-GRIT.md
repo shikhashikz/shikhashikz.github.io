@@ -9,7 +9,9 @@ image: assets/images/2206.jpg
 
 Lessons Learnt from Current Read, *GRIT*
 
-I will be sharing posts like these a lot, as I love to underline the text which I find interesting/ Inspiring in the books which I read. It helps me to go back to my old books and trust me that underlined text provides a new meaning every time. I had posted a similar thought on my [Insta Handle @novelistinaction](https://github.com/shikhashikz/shikhashikz.github.io/blob/master/assets/images/2206_insta.jpg)
+I will be sharing posts like these a lot, as I love to underline the text which I find interesting/ Inspiring in the books which I read. It helps me to go back to my old books and trust me that underlined text provides a new meaning every time. I had posted a similar thought on my Insta Handle @novelistinaction.
+
+image: assets/images/2206_insta.jpg
 
 Since I am still reading GRIT, and it feels like a lifetime of a study, so here are some of the book quotes:
 
