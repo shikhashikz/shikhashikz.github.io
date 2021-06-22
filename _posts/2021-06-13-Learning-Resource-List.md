@@ -40,7 +40,7 @@ Grit
 
 To kill a Mockingbird
 
-Fun Home- A FAmily Tragicomic
+Fun Home- A Family Tragicomic
 
 > **Book Recommendations**
 > 
@@ -133,4 +133,5 @@ By the Book by Julia Sonneborn
 
 Is Everyone Hanging out without me (and other concerns) By Mindy Kaling
 
+Multipliers: How the Best Leaders Make Everyone Smarter by Liz Wiseman
 
