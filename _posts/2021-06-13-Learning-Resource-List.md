@@ -50,7 +50,11 @@ Self help- [Atomic Habits](https://www.amazon.in/Atomic-Habits-James-Clear/dp/18
 
 Self help- [YOU According to Them](https://www.amazon.in/You-According-Them-Uncovering-Reputation/dp/0984659110)
 
+Self help- [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.in/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382)
+
 Marketing- [Engage](https://www.amazon.in/Engage-Complete-Businesses-Cultivate-Measure/dp/1118003764)
+
+Leadership- [That's Not How We Do It Here!](https://www.amazon.com/Thats-Not-Here-Organizations-Fall/dp/0735206627)
 
 Leadership- [Drive](https://www.amazon.in/Drive-Daniel-H-Pink/dp/1786891700/ref=sr_1_1?adgrpid=57096139097&dchild=1&ext_vrnc=hi&gclid=CjwKCAjwn6GGBhADEiwAruUcKkUidbgHJ73EYJsj-9V6kwz6u4olN7uWUi6b-z7VKKQ1m1ZL12yegRoCjaIQAvD_BwE&hvadid=499120559423&hvdev=c&hvlocphy=9302452&hvnetw=g&hvqmt=e&hvrand=4234624521788871053&hvtargid=kwd-331049665644&hydadcr=1082_2321871&keywords=drive+by+daniel+pink&qid=1623824483&sr=8-1)
 
