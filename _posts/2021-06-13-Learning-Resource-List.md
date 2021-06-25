@@ -52,6 +52,8 @@ Self help- [YOU According to Them](https://www.amazon.in/You-According-Them-Unco
 
 Self help- [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.in/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382)
 
+Self help, Inspiration, Motivation, Leadership- One book which is all about this [GRIT](https://www.amazon.in/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
+
 Marketing- [Engage](https://www.amazon.in/Engage-Complete-Businesses-Cultivate-Measure/dp/1118003764)
 
 Leadership- [That's Not How We Do It Here!](https://www.amazon.com/Thats-Not-Here-Organizations-Fall/dp/0735206627)
@@ -138,4 +140,8 @@ By the Book by Julia Sonneborn
 Is Everyone Hanging out without me (and other concerns) By Mindy Kaling
 
 Multipliers: How the Best Leaders Make Everyone Smarter by Liz Wiseman
+
+
+>Communities to join, to ace up your learning
+>[The Peak Community](https://www.peak.community/)
 
