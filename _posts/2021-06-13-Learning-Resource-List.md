@@ -36,8 +36,6 @@ ABM is B2B
 
 Think Like a Monk
 
-Grit
-
 To kill a Mockingbird
 
 Fun Home- A Family Tragicomic
