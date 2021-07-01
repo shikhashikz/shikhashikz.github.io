@@ -6,7 +6,7 @@ keywords: blog writing author shikhashikz writing writinglife writingcommunity d
 image: assets/images/Post79.jpg
 
 ---
-![KnowSamisha](2906_insta.jpg)
+![KnowSamisha](https://github.com/shikhashikz/shikhashikz.github.io/blob/d3ac4126ac74b89cfc46e43057ab43244a9ac814/assets/images/2906_insta.jpg)
 
 
 Samisha continued with her thoughts to Mohini "When in the mirror we see our blind spots, we always say that the mirror is not clean. In our own eyes, we are perfect to the core." Hence, if Sameer was honest in sharing your flaws, it was because you were not able to stand them. And now, in your mind, you are trying to find his faults."
