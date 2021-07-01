@@ -1,14 +1,11 @@
-![Magazine Cover](https://user-images.githubusercontent.com/21696121/124138773-9ab55980-daa4-11eb-9b27-633d91164826.jpeg)
 ---
 layout: post
 title: WO BRIGHT Magazine Cover Launch
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity magazine wobright coverlaunch
-image: assets/images/HappinessvsSuffering.jpg
+image: assets/images/WOBRIGHT.jpg
 
 ---
 Magazine Cover Launch
 
-![Cover Page](/images/MagazineCover.jpeg)
-Format: ![WOBRIGHT](https://github.com/shikhashikz/shikhashikz.github.io/blob/56315f323a29d0b9db8a1e8dd76f6811c01c1626/assets/images/Magazine%20Cover.jpeg)
-
+![Magazine Cover](https://user-images.githubusercontent.com/21696121/124138773-9ab55980-daa4-11eb-9b27-633d91164826.jpeg)
