@@ -6,7 +6,7 @@ keywords: blog writing author shikhashikz writing writinglife writingcommunity m
 image: assets/images/WOBRIGHT.jpg
 
 ---
-Magazine Cover Launch
+Unveiling the Cover of WO-BRIGHT Magazine where we aim to change the definition of beautiful!
 
 Showcase time for my side-hustle. What started two months back as a tea-time discussion, became a curtain raiser today.
 
