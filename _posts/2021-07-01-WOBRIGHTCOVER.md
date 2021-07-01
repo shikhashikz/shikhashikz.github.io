@@ -1,3 +1,4 @@
+![Magazine Cover](https://user-images.githubusercontent.com/21696121/124138773-9ab55980-daa4-11eb-9b27-633d91164826.jpeg)
 ---
 layout: post
 title: WO BRIGHT Magazine Cover Launch
