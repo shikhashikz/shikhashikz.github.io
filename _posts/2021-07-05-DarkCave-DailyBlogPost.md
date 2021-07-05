@@ -13,3 +13,5 @@ Excerpt from Jay Shetty’s book. Think like a Monk.
 Thinking about all these thoughts, I looked outside the window, and when my eyes closed on the trees, I realized that nature does not discriminate on how they should bestow their blessings. Sun does not shine more on one person and neither do orchards say that “I have reserved the best fruit for the wealthiest”
 
 Do think about this when next time you are inflating your ego, by considering yourself as the most special, desired person and putting the other person down. The stars will not shine brighter for you. 
+
+![0507](https://user-images.githubusercontent.com/21696121/124471145-23d8d300-ddba-11eb-99dc-456a11db27ae.jpg)
