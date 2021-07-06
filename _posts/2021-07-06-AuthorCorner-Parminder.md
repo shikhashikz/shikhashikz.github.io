@@ -46,7 +46,7 @@ As an author we must make sure we are enjoying the journey, enjoying living with
 
 🎆A long-standing wish of yours-- To own a home in the hills
 
-🎆Your greatest learning experience so far-- Being a parent as the greatest learning experience I am having each day
+🎆Your greatest learning experience so far-- Being a parent is the greatest learning experience I am having each day
 
 🎆How would you like people to remember you when you are gone?-- An honest and an ethical person
 
