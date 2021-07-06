@@ -28,6 +28,7 @@ I know her for more than 25 years now. It feels great to be a part of that close
 ✨I like the ideology of Robin Sharma, the writing style of Preeti Shenoy, the character portrayal of Jane Austen and Shri Rabindranath Tagore is of course the legend. 
 
 💖A message from an author to an author
+
 💠*It’s an overwhelming journey of the book from the outline inside the author’s brain to the reader’s bookshelf. Though an amazing experience too!*
 As an author we must make sure we are enjoying the journey, enjoying living with our characters day and night, only then can we do justice with our writing and with our readers. 
 
