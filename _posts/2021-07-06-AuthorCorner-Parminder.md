@@ -9,7 +9,7 @@ image: assets/images/AuthorCorner.jpg
 >When your best friend agrees to talk about her passion with you! A special moment. Though during childhood, we both did not have the slightest hint that we will write someday and will see our work in print!!
 >
 
-I know [Parminder](www.parminderkaursharma.com) for more than 25 years now. It feels great to be a part of that close knit circle, where the friendships are treated sacred. Our group was of four girls, and I feel proud to say that we all are still together and even death can not part us. On the launch of her second book, [The Ladies Compartment](http://mybook.to/theladiescompartment), I wanted to start the Author Corner on my website with her. Let’s get to know [Parminder Kaur Sharma](https://www.instagram.com/parminderk.sharma/)
+I know [Parminder](https://www.parminderkaursharma.com/) for more than 25 years now. It feels great to be a part of that close knit circle, where the friendships are treated sacred. Our group was of four girls, and I feel proud to say that we all are still together and even death can not part us. On the launch of her second book, [The Ladies Compartment](http://mybook.to/theladiescompartment), I wanted to start the Author Corner on my website with her. Let’s get to know [Parminder Kaur Sharma](https://www.instagram.com/parminderk.sharma/)
 
 ❓ Our Readers would like to know you. Let’s start with how do you sketch yourself?
 
