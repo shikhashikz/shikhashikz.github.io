@@ -20,7 +20,6 @@ image: assets/images/Post97.jpg
 *I indulge in preferential treatment* 
 
 **>But**
->
 
 
 *I do my prayers regularly*
