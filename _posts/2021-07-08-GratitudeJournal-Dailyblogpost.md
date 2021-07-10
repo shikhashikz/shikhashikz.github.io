@@ -19,3 +19,6 @@ There are some days, when I am expecting something, but it does not turn out the
 
 Even if for a second, I bring in the gratitude spark that all what I have might be someone else’s dream and it’s not always what I wish and aspire for, becomes a reality, calmness will prevail. It will save me from the danger for spoiling what I have at present. This practice did help me, and it’s not just like that thinkers/ monks/ successful people professes the power of Gratitude Journal.
 
+![1007](https://user-images.githubusercontent.com/21696121/125158465-f790ce00-e18e-11eb-8726-cf566cae5af6.png)
+
+
