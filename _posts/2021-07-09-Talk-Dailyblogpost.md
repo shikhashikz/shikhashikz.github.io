@@ -6,7 +6,7 @@ keywords: blog writing author shikhashikz writing writinglife writingcommunity d
 image: assets/images/0907.jpg
 
 ---
->Do you feel better and relaxed after talking? Why? Did you ever give it a thought? And why do you need to vent out "externally" to relieve yourself of all the negative thoughts. Do yout hink you "just passed on" your feelings to another, rather dumped it on them.
+>Do you feel better and relaxed after talking? Why? Did you ever give it a thought? And why do you need to vent out "externally" to relieve yourself of all the negative thoughts. Do you think you "just passed on" your feelings to another, rather dumped it on them.
 >
 
 Talk, Talk, Talk
