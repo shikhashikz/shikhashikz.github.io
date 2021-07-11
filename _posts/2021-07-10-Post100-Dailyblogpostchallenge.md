@@ -14,3 +14,6 @@ The first wins are important and after that then it becomes easy. My belief is t
 The six-word mantra which I have created for myself: Read, Write, Market and Cut, Define and Stick serves as a big reminder for me. From now on, the number does not matter, it’s all about showing up every day, not for you, but myself.
 
 ☕And on another note, I have brought my three cups of caffeine to two cups a day. Cheers!
+
+![2406](https://user-images.githubusercontent.com/21696121/125183240-89054c00-e232-11eb-806e-b6d7440b314c.jpg)
+
