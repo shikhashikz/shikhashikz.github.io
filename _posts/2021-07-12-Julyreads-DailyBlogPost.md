@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WHat are you reading
+title: What are you reading
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge reading julyreads
 image: assets/images/Currentread.jpg
