@@ -143,6 +143,8 @@ Is Everyone Hanging out without me (and other concerns) By Mindy Kaling
 
 Radical Candour and Just Work by Kim Scott
 
+The Eight Paradoxes of Great Leadership
+
 
 >Communities to join, to ace up your learning
 >[The Peak Community](https://www.peak.community/)
