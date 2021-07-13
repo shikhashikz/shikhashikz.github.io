@@ -40,6 +40,10 @@ To kill a Mockingbird
 
 Fun Home- A Family Tragicomic
 
+Multipliers: How the Best Leaders Make Everyone Smarter by Liz Wiseman
+
+Brand YOU by Tom Peters
+
 > **Book Recommendations**
 > 
 Self help- [Lateral Thinking](https://www.amazon.in/Lateral-Thinking-Creativity-Edward-Bono/dp/0241257549/ref=sr_1_1?crid=WOCZRUOV7QD8&dchild=1&keywords=lateral+thinking+edward+de+bono&qid=1623667355&s=books&sprefix=lateral+thinking%2Cstripbooks%2C272&sr=1-1)
@@ -137,7 +141,7 @@ By the Book by Julia Sonneborn
 
 Is Everyone Hanging out without me (and other concerns) By Mindy Kaling
 
-Multipliers: How the Best Leaders Make Everyone Smarter by Liz Wiseman
+Radical Candour and Just Work by Kim Scott
 
 
 >Communities to join, to ace up your learning
