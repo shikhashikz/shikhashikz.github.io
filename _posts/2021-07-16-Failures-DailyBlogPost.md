@@ -22,3 +22,6 @@ Mine are:
 ❇️ I did not have a salary based structure for my first job. It was purely on incentives and I was not able to sell even one insurance.
 
 💖 What I did was, I treated my failures as the stepping stone? All these failures were a big blow for me, but I was determined to turn the storm in my favour.
+
+![0718](https://user-images.githubusercontent.com/21696121/126071316-822f4c62-ea69-4549-8469-62aee2775640.png)
+
