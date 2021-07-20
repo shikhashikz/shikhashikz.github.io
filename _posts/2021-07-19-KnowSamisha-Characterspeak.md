@@ -3,7 +3,7 @@ layout: post
 title: KnowSamisha Series
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge knowsamisha shikhashikz
-image: assets/images/Post109.jpg
+image: assets/images/Post 109.jpg
 
 ---
 Should I rush or take it slow? I have already burnt my hands, by rushing into it.mmmm....
