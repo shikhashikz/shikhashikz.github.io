@@ -32,10 +32,6 @@ All this works. And with time our strategy also changes. There is another gem th
 
 > **Books- Currently Reading**
 > 
-ABM is B2B
-
-Think Like a Monk
-
 To kill a Mockingbird
 
 Fun Home- A Family Tragicomic
@@ -44,8 +40,13 @@ Multipliers: How the Best Leaders Make Everyone Smarter by Liz Wiseman
 
 Brand YOU by Tom Peters
 
+Factfulness
+
+Primed to Perform
+
 > **Book Recommendations**
 > 
+
 Self help- [Lateral Thinking](https://www.amazon.in/Lateral-Thinking-Creativity-Edward-Bono/dp/0241257549/ref=sr_1_1?crid=WOCZRUOV7QD8&dchild=1&keywords=lateral+thinking+edward+de+bono&qid=1623667355&s=books&sprefix=lateral+thinking%2Cstripbooks%2C272&sr=1-1)
 
 Self help- [Atomic Habits](https://www.amazon.in/Atomic-Habits-James-Clear/dp/1847941834/ref=sr_1_2?dchild=1&keywords=atomic+habits&qid=1623667310&s=books&sr=1-2)
@@ -55,6 +56,10 @@ Self help- [YOU According to Them](https://www.amazon.in/You-According-Them-Unco
 Self help- [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.in/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382)
 
 Self help, Inspiration, Motivation, Leadership- One book which is all about this [GRIT](https://www.amazon.in/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
+
+Self Help- [Think Like a Monk](https://www.amazon.in/Think-Like-Monk-Jay-Shetty/dp/0008386595)
+
+Marketing- [ABM is B2B](https://www.amazon.in/ABM-B2B-Marketing-Sales-Broken/dp/194085895X)
 
 Marketing- [Engage](https://www.amazon.in/Engage-Complete-Businesses-Cultivate-Measure/dp/1118003764)
 
