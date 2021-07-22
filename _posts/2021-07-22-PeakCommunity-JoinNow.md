@@ -19,9 +19,9 @@ Peak Community is an online space for professional marketers to share their expe
 
 ● Give help and get help 
 
-○ If you need something and it's not already there, all we got to do is ask *boom* one of the unicorns will step up for you. 
+*○ If you need something and it's not already there, all we got to do is ask *boom* *one of the unicorns will step up for you*
 
-○ By design everyone is trying to meet and help each other. 
+*○ By design everyone is trying to meet and help each other* 
 
 ● Why would you join a community that is NOT marketer only if you’re a marketer? 
 
@@ -31,9 +31,9 @@ Peak Community is an online space for professional marketers to share their expe
 
 ● Emerging CMOs to become CMOs and CMOs to become better CMOs 
 
-● diverse marketing backgrounds 
+● Diverse marketing backgrounds 
 
-● without a community, you are simply a commodity
+● Without a community, you are simply a commodity
 
 ***So, what are you waiting for? Be a part of a peer group that helps you consistently connect, intentionally learn, and professionally grow to be in a leadership role, and do the best work of your life.***
 
