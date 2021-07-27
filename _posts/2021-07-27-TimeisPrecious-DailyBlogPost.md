@@ -14,7 +14,7 @@ If you have lost Material possessions, there is a chance that you can get it bac
 
 To one of Yaag’s questions on how should people get in touch with Seth, Seth replies,
 
->”No need.There are 8000+ blogs on my website and regularly featured Podcasts on Akimbo.”
+>”No need. There are 8000+ blogs on my website and regularly featured Podcasts on Akimbo.”
 >
 I was indeed dumbstruck by this statement. And I am sure you would have understood the hidden meaning in his words.
 
@@ -22,3 +22,4 @@ Earlier I used to get flustered when people whom I admired and were there in my 
 
 [Seth’s podcast with Yaag which was turned in a blog as well with excerpts](https://www.yaagneshwaran.com/blog/modern-marketing-with-seth-godin/)
 
+![TIME](https://user-images.githubusercontent.com/21696121/127113725-87a26bd9-f626-48d2-bd9e-557685da9f40.jpg)
