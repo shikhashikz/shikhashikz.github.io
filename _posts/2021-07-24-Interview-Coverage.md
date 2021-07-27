@@ -20,4 +20,4 @@ And when it does happen, magic unfolds. Sharing the journey and learnings of the
 [Podcast with Fox Agency](https://fox.agency/clientside/podcasts/shikha-pakhide/)
 
 
-
+![Shikhas Caricature](https://user-images.githubusercontent.com/21696121/127109066-d05a52d2-3beb-4f80-8e2b-7fa7fe9c93e4.jpg)
