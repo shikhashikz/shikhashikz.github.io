@@ -15,3 +15,8 @@ Since we all are operating from home right now, I could hear the word exchange. 
 
 Sadly, some people still hold to age-old notions on gender behaviour. We have a long way to go in Breaking Stereotypes. 
 
+***When all of my energy is spent fighting with the stereotypes, then how will I be left with any energy to create my own game plan?***
+
+![0728](https://user-images.githubusercontent.com/21696121/127333995-b635277a-9884-4f3a-aff9-fa412486ed2d.png)
+
+
