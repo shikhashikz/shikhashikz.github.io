@@ -3,7 +3,7 @@ layout: post
 title: Are you a Buzzword Fan?
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketingjargon buzzword
-image: assets/images/Post132.jpg
+image: assets/images/post132.jpg
 
 ---
 Do you love using Buzzwords? Are you the one who can not keep away from Marketing Jargons? In your sentence of ten words, at least five are jargons? Then this post is not for you!
