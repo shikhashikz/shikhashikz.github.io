@@ -6,6 +6,7 @@ keywords: blog writing author shikhashikz writing writinglife writingcommunity d
 image:assets/images/Post135.jpg 
 
 ---
+
 How often do you value the comments on your posts? Have you made any conscious effort in posting comments on the posts which you find valuable?
 
 We all get swayed by the number of likes and number of views. And it has happened many a time that we are guilty of checking and logging in our account again and again, if it increased or not. Off late, I was observing my behavior that I am scrolling and many a time without even putting my thoughts together, I just hit the like or any other celebratory moment.
