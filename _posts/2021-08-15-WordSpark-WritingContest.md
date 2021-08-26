@@ -6,7 +6,7 @@ keywords: blog writing author shikhashikz writing writinglife writingcommunity d
 image: assets/images/WORDSPARKCONTEST.jpg
 
 ---
-We all love stories, now it's your chance to craft one! Don't shy and shake the pen.
+We all love stories, now it's your chance to craft one! Don't be shy and shake the pen!!
 
 In the spirit to ***promote reading and writing at an early stage,*** I have started a **writing contest**, named as **WordSpark.** ✨Why WordSpark, because word sparks that dormant force in us which is lying unexplored. Words are that force which has the power to move mountains. ⛰️
 
