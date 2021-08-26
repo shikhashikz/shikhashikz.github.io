@@ -1,9 +1,9 @@
----‌ ‌
-layout:‌ ‌post‌ ‌
-title:‌ ‌Do you think beyond Likes, Views, Shares?
-category:‌ ‌blog‌ ‌
-keywords:‌ ‌blog‌ ‌writing‌ ‌author‌ ‌shikhashikz‌ ‌writing‌ ‌writinglife‌ ‌writingcommunity‌ ‌dailyblogpost‌ ‌marketing
-image:‌ ‌assets/images/Post135.jpg‌ 
+---
+layout: post
+title:Do you think beyond Likes, Views, Shares?
+category: blog
+keywords:blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost marketing
+image:assets/images/Post135.jpg 
 
 ---
 How often do you value the comments on your posts? Have you made any conscious effort in posting comments on the posts which you find valuable?
