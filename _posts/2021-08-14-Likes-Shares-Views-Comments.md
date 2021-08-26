@@ -1,9 +1,9 @@
 ---
-layout:post
-title:Do you think beyond Likes, Views, Shares?
-category:blog
-keywords:blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost marketing
-image:assets/images/Post135.jpg 
+layout: post
+title: Do you think beyond likes, shares views
+category: blog
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing
+image: assets/images/Post135.jpg
 
 ---
 
