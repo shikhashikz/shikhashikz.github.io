@@ -8,6 +8,7 @@ image: assets/images/WO-BRIGHT.jpg
 ---
 
 **Introducing WO-BRIGHT Magazine’s Launch Edition, August 2021**
+
 ***A magazine which aims to provide a platform for women to INSPIRE TO ASPIRE!***
 
 In life and death, there is nothing instant. Even you can not Maggi in 2 minutes! Instant coffee is also a myth. Everything takes time, and when one learns to live and experience that phase, then the real growth happens. The best example which I believe are, birth of a child which takes nine months, and the time taken by a plant to grow as a tree. Recently, we got turtles at home, that’s also another example to show that life moves slowly, at its own pace. Watching the trees grow and turtles come in their full form is a wonderful learning experience for them. In today’s digital world, expectation of everything getting delivered with a click is pushing our patience levels to the rock bottom. I keep returning to the nature, which is a reminder to self, that if you are expecting a full mature growth, you need time. If you pluck a fruit, before time, it is a waste.
