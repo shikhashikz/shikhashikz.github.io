@@ -42,7 +42,9 @@ I have split my earlier single post, which captured the books which I am reading
 
 •	Fiction- [Long Bright River](https://www.amazon.in/Long-Bright-River-intense-thriller/dp/1786090619/ref=sr_1_1?dchild=1&keywords=long+bright+river&qid=1623667187&s=books&sr=1-1)
 
+What are your recommendations?
+
 ***[Find what I am currently reading](https://shikhashikz.com/Learning-Resource-List/)***
 
-***[List of books which I plan to read]()***
+***[List of books which I plan to read](https://shikhashikz.com/My-To-Be-Read-List/)***
 
