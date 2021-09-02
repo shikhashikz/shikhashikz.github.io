@@ -12,6 +12,10 @@ I have split my earlier single post, which captured the books which I am reading
 
 ***In this section, I am going to list the books which I highly recommend:***
 
+•	Personal Branding: [Brand YOU by Tom Peters]( https://www.amazon.com/Brand-You-Transform-Distinction-Commitment/dp/0375407723)
+
+•	Classic Fiction: [To kill a Mockingbird]( https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0446310786)
+
 •	Self help- [Lateral Thinking](https://www.amazon.in/Lateral-Thinking-Creativity-Edward-Bono/dp/0241257549/ref=sr_1_1?crid=WOCZRUOV7QD8&dchild=1&keywords=lateral+thinking+edward+de+bono&qid=1623667355&s=books&sprefix=lateral+thinking%2Cstripbooks%2C272&sr=1-1)
 
 •	Self help- [Atomic Habits](https://www.amazon.in/Atomic-Habits-James-Clear/dp/1847941834/ref=sr_1_2?dchild=1&keywords=atomic+habits&qid=1623667310&s=books&sr=1-2)
