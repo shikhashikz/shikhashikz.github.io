@@ -18,9 +18,10 @@ There are a lot of arguments about writing and editing and how editors look at a
 
 To be an editor, one needs to distance themselves from the work, be observant like the reader, and remove the clutter. Just because the words are sounding beautiful or writer has taken a lot of efforts to craft that, should never hinder the editing process. That’s one of the prime reason writers go to the editors. A second pair of eyes is always great. 
 
-Then why it’s so hard for writers to look at their work with third party glasses. Is it so hard to keep the emotions at bay while reading and editing your own work? Some things which I am trying currently
+Then why it’s so hard for writers to look at their work with third party glasses. Is it so hard to keep the emotions at bay while reading and editing your own work? Some things which I am trying currently:
 
 ***•	When I was at 60k word count, I took the first dig at editing my half-finished work. It helped me to keep the sanity with the names, their personalities, situations and how the characters will unfold.***
+
 ***•	When I hit my target word count, I signed up for ProWritingAid and have started the editing work, purely with the reader’s reading glasses
 o	It’s super hard and frustrating, trust me.***
 
