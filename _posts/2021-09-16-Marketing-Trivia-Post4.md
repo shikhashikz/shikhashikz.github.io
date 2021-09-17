@@ -24,4 +24,4 @@ What is Conversational ad? **[Corrina Owens](https://www.linkedin.com/in/corrina
 >You can integrate all the information received from this medium to your automation system! Isn’t that a music to the ears when integration between different tech stack and consolidation of the information for a contact is an Achilles heel for we the marketers.
 >
 
-***Have you experimented with LinkedIn Conversation ads? What’s your experience been like? Look forward to hearing on that.***
+***Have you experimented with LinkedIn Conversational ads? What’s your experience been like? Look forward to hearing on that.***
