@@ -1,4 +1,3 @@
-
 ---
 Layout: post
 title: Top Ten Marketing Takeaways POST4
