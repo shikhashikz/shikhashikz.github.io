@@ -19,6 +19,7 @@ When you craft your approach around Go-to-Market, everything falls in place. Rec
 7.	Long-term success of a community depends on what kind of revenue engine you have set up and what’s the growth pattern.
 8.	If you are going to engage enough, you will be the star on the stage.
 9.	Make the value obvious. And this is so exemplified by Sangram Vajre for PEAK Community.
+
 **10.	The strategic shift comes in when “co-creation” is at the heart.**
 
 And the one which is really EPIC and I am going to pin this up on the board:
