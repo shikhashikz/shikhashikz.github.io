@@ -6,7 +6,7 @@ keywords: blog writing author shikhashikz writing writinglife writingcommunity d
 image: assets/images/MktngTrivia.jpg
 
 ---
-[Lisa Sharapata](), [Justin Keller],() and [Nicholas Cappas]() on Branding!
+**[Lisa Sharapata](https://www.linkedin.com/in/lisasharapata/), [Justin Keller],(https://www.linkedin.com/in/justindkeller/) and [Nicholas Cappas](https://www.linkedin.com/in/nicholas-cappas-29a4439/) on Branding!**
 
 I can not get enough about Branding, as of course this subject is very close to my heart and I am “obsessed” about this topic! And it’s justified!! So, when I saw a session on ***How to develop a brand strategy w/ Lisa Sharapata, Justin Keller, and Nicholas Cappas*** dedicated in ***PEAK Community*** on my favorite subject, I of course immediately plugged in it. Bonus was: I was about to hear the wisdom nuggets coming from the influencers. 
 
