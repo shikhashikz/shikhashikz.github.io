@@ -13,7 +13,7 @@ image: assets/images/MktngTrivia.jpg
 
 I found one person in the corporate circle who loves purple like me. Now that’s what I assume as Cody Ward had used loads of purple in the session and on his website as well!. His thirty pointer list has inspired me to pen mine.
 
-Cody Ward has gathered (over the past 10 years!) his insights on the journey to becoming a CMO. He understands how leadership has to operate now that he is in their shoes, and he's made a list of 30 rules he's learned throughout his career. For the complete list of 30, you need to **[connect with him!](https://www.linkedin.com/in/codyward/)** But here I have picked my top five, which hit me hard.
+Cody Ward has gathered (over the past 10 years!) his insights on the journey to becoming a CMO. He understands how leadership has to operate now that he is in their shoes, and he's made a list of 30 rules he's learned throughout his career and shared with the Peak community. For the complete list of 30, you need to **[connect with him!](https://www.linkedin.com/in/codyward/)** But here I have picked my top five, which hit me hard.
 
 1.	Be a Business Strategist
 2.	Be accountable for the entire funnel. Get your optics right in the funnel. Sign up for the revenue!
