@@ -17,7 +17,8 @@ Random searches reveal who’s who in this world. I also guard my social feed fe
 I was thinking how to leverage from these two articles as, of course, when the lineup is so great and over 50, how to make sure that this stays with me!
 
 💡 I followed and connected with all the CMOs. Though the acceptance rate was 1%!!!
-▶️ I have an action to go through the 13 podcasts shared by Drift
+
+▶️ I have an action to go through the 13 podcasts shared by Drift!!
 
 After going through the profiles of all the CMOs and brief shared by them, common thread which I identified was: 
 
