@@ -24,4 +24,8 @@ After going through the profiles of all the CMOs and brief shared by them, commo
 >Does not matter which industry/ product you are handling, ultimately you need to know your customer well. And second thing was they all have worked on some breakthrough campaigns and not that they achieved success right at the start, but they kept going and improvising on them.
 >
 
-***More to follow. STay tuned!***
+***More to follow. Stay tuned!***
+
+
+![0710insta](https://user-images.githubusercontent.com/21696121/136384605-84311c4b-6ab5-4238-b76f-d4cef469d5f7.jpg)
+
