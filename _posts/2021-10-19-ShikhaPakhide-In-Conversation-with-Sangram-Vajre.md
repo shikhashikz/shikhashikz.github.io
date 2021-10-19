@@ -6,7 +6,7 @@ keywords: blog writing author shikhashikz writing writinglife writingcommunity d
 image: assets/images/SangramVajre.jpg
 
 ---
-💯>Being Intentional is way more important than Being Brilliant. 💯
+>💯Being Intentional is way more important than Being Brilliant. 💯
 >
 
 Any guesses from whom you have heard this quote. If you are a **Peaker,** you will know in an instant about whom I am talking about! If you are not, that's ok. If you have read the phenomenal books, ABM is B2B and Move, you will know the person. Ok, if this hint has also not worked, then co-founder of Terminus? Did it ring a bell? If yes, BOOM! If not, then no worries. *You will thank me for sharing this interview with him, as 🔦[Sangram Vajre](https://www.linkedin.com/in/sangramvajre/) is the Lighthouse of the Marketing Fraternity.* 
