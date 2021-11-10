@@ -1,4 +1,3 @@
-
 ---
 Layout: post
 title: My Travel Diaries
