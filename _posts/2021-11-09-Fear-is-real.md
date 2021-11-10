@@ -6,7 +6,6 @@ keywords: blog writing author shikhashikz writing writinglife writingcommunity d
 image: assets/images/1011.jpg
 
 ---
-
 During my recent travel, I experienced what it means to be scared. How the real fear creeps in and makes you immobile. 🐮
 
 I took two weeks off to learn more about life by traveling. And yes, we made a bold decision to opt for a road trip with our two kids, who are seven and five. No bookings, no fixed itinerary. We packed our bags to travel to my hubby’s hometown. We did well on the first two days, carried on with an ok speed, took regular halts and were unlucky with the hotel choice on the first day halt.
