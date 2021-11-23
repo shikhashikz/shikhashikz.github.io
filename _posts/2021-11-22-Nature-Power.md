@@ -22,3 +22,4 @@ This picture is very special to my heart. The reason being I have never witnesse
 
 ![Muktagiri Waterfall](https://user-images.githubusercontent.com/21696121/143009611-adab1ac6-0301-4fbf-9115-3f8aef402e06.jpg)
 
+P.S. All these are raw unedited photos clicked by yours truly. There is no fun in spoiling nature's beauty by editing God's master stroke.
