@@ -1,4 +1,3 @@
-
 ---
 Layout: post
 title: Do check out
