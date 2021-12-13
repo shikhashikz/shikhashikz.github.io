@@ -20,7 +20,9 @@ And these two points so very well got woven into the findings which I read in an
 Worth keeping in my mind when 2022 planning is in the works!! 💯
 
 •	70% of the buyer’s journey is done before outreach to sales is made. – SiriusDecisions
+
 •	Only 0.75 percent of leads generated become closed revenue. – Forrester
+
 •	73% of B2B buyers consume between three to seven pieces of content before speaking with a salesperson. – Demand Gen Report
 
 Makes sense? And while you are connecting the dots, I would like to share this article which Declan from Strategicabm shared with us. (and we all thought Dark Social is the newbie) 💣
