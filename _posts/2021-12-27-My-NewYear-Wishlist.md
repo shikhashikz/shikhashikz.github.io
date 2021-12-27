@@ -1,5 +1,4 @@
 ---
-
 Layout: post
 title: What I Wish as a Marketer
 category: blog
