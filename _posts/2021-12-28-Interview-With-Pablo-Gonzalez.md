@@ -10,7 +10,7 @@ There is no better way to learn, other than conversing with Passionate Marketers
 
 I really wanted to understand the "why and how" behind the Relationship Flywheel concept which I learned during one of the sessions which Pablo had conducted for Peak Community. Thank you to him for sharing his insights with us.
 
-Pablo Gonzalez is the inventor of the Relationship Flywheel™️, host of the B2B Community Builder and Not Your Average Investor Shows, and Co-Founder of BeTheStage.live- a marketing agency that turns clients into community and community into your greatest business development asset. He’s obsessed with human connection, and he’s used his expertise to grow non-profits, sell $60M+ construction projects, rescue fledgling start-ups, set record breaking quarters for $100M+ companies, and be named a Latino Leader of the Future and a Top 20 Under 40 various publications. More than anything, he’s dying to be your friend.
+[Pablo Gonzalez](https://www.linkedin.com/in/pablotheconnector/) is the inventor of the Relationship Flywheel™️, host of the B2B Community Builder and Not Your Average Investor Shows, and Co-Founder of BeTheStage.live- a marketing agency that turns clients into community and community into your greatest business development asset. He’s obsessed with human connection, and he’s used his expertise to grow non-profits, sell $60M+ construction projects, rescue fledgling start-ups, set record breaking quarters for $100M+ companies, and be named a Latino Leader of the Future and a Top 20 Under 40 various publications. More than anything, he’s dying to be your friend.
 
 Let's ace up our marketing knowledge.
 
