@@ -15,7 +15,7 @@ P.S. Pay close attention to your conversations with your kids. They have some de
 
 But if you do not know right now what you want to be and not working in the present world, you cannot see anything in the future.
 
-I stood silent for a while and told my 8-year-old that this is some deep thought which I shared with her. And the way it works with an 8-year-old, they translate the meaning as it is with their newfound vocabulary. Her conversations then drifted to “why did I choose the word deep. That’s a story for another day.
+I stood silent for a while and told my 8-year-old that this is some deep thought which I shared with her. And the way it works with an 8-year-old, they translate the meaning as it is with their newfound vocabulary. Her conversations then drifted to “why did I choose the word deep." That’s a story for another day.
 
 ***But the insightful point is, if we do not know what our customers/ prospects are searching for, what their intent is, we cannot predict the future as we are blind to their present behavior.*** 💯
 
