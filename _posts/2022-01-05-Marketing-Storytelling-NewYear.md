@@ -38,5 +38,9 @@ Nuggets of Wisdom:
 Ending the week with: 
 ***It's easy to be blissful in the meditative state. I value those days where I am able to hit the calm-thoughtless space for few seconds/ minutes and they are the most refreshing ones for me! I generally struggle on how to be in the meditative state throughout my waking hours!***
 
-Next week I want to focus on Content with Intent in mind and ASK!
+and the trailing thought from Seth Godin: 
+The mysterious muse sings that other people have genius and talent and I DON'T have that. When you are not happy and feel disheartened with your creative output and skill, the real reason is you are not happy with your PRACTICE.
+You don't need any new genes, to be the best version of your self. What you need is more PRACTICE.
+
+Next week I want to focus on ***Content with Intent in mind*** and ***ASK!***
 
