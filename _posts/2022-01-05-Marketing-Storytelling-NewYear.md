@@ -31,3 +31,12 @@ P.S. Kids in question are all girls in the age group of 8-12 years including his
 
 And in the second email is, he has given a dare which I am penning in this post and it's what my vision looks like:
 ***"Dear me, in one year from now, I see myself as a Head of Marketing taking the organization from x to y with goals clearly focused on the revenue"***
+
+Nuggets of Wisdom:
+***When we are young less than 10 year old, we know how to live life, how to be in the moment, how to get absorbed in one task and keep on mastering it but then the world takes us over! We start believing that jumping from one task to another, multi-tasking is the best way to get things. Time to go back to childhood, where egos, fear of failing and what others will say has no place.***
+
+Ending the week with: 
+***It's easy to be blissful in the meditative state. I value those days where I am able to hit the calm-thoughtless space for few seconds/ minutes and they are the most refreshing ones for me! I generally struggle on how to be in the meditative state throughout my waking hours!***
+
+Next week I want to focus on Content with Intent in mind and ASK!
+
