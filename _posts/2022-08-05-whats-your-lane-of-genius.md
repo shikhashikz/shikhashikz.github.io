@@ -8,7 +8,7 @@ image: assets/images/2310.jpg
 
 ---
 
-Its been six months that I did not write any blog post. I knew that was coming with the new assignment and challenge which I have taken up. I started a new journey with X0PA AI as a Global Marketing Director. woohooo yes, there is never any late time to celebrate the good news.
+Its been six months that I did not write any blog post. I knew that was coming with the new assignment and challenge which I have taken up. I started a new journey with [X0PA AI](https://www.x0pa.com) as a Global Marketing Director. woohooo yes, there is never any late time to celebrate the good news.
 
 It was a major shift in terms of big culture change, how things work, close knit team, as I had entered a workforce from 4000+ colleagues to 50+ team. I will lie if I say it was not overwhelming. It was indeed. But then when did leaders say that change is easy and a quick shift is not for weak hearted. After six months, I feel proud on all the learnings which I had, and how I am able to maintain a healthy routine. Because an overworked mind, never produces great solutions.
 
