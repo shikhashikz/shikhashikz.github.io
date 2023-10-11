@@ -4,7 +4,7 @@ Layout: post
 title: Announcement
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity
-image: assets/images/THECMO.jpg
+image: assets/images/Evolution occurs over Time.jpeg
 
 ---
 
