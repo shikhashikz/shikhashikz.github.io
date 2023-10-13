@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: Connect the Dots
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm 2022 marketingplan

@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: Key to add zing to your SEO plans
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing SEO

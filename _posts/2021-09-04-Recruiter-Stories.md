@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: Are there any HAPPY recruiting stories
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge jobsearch

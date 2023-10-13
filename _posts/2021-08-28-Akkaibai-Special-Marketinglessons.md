@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: Slaying Marketing Buzzwords 
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm

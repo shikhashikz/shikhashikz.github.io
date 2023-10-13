@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: Some moments do stay
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 

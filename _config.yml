@@ -1,57 +1,48 @@
-# Site
-name: 'Shikhashikz'
-description: 'Creates the Zing factor in Marketing | Books are my Best Friend , Tea is my favorite beverage & Travelling to places is my hobby | A story teller.'
-logo: 'assets/images/logo.png'
+title: "ShikhaShikz"
+email: shikhapakhide@gmail.com
+timezone: UTC
+baseurl: "/shikhashikz"
+permalink: "/:title/"
+#logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: ''
+author: shikhashikz
+paginate: 30
 disqus: 'shikhasite'
-email: 'shikhapakhide@gmail.com'
-#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-84084860-1
 
-include: ["_pages"]
-permalink: /:title/
+# Authors
+authors:
+  shikhashikz:
+    name: shikhashikz
+    display_name: shikhashikz
+    avatar: 'assets/images/sal.png'
+    email: shikhapakhide@gmail.com
+    web: https://shikhashikz.com
+    twitter: https://twitter.com/shikhashikz
+    description: "Creates the Zing factor in Marketing | Books are my Best Friend , Tea is my favorite beverage & Travelling to places is my hobby | A story teller."
+
+# Social
+social:
+  instagram: https://www.instagram.com/shikhashikz/
+  facebook: https://www.facebook.com/shikhashikz1
+  twitter: https://twitter.com/shikhashikz
 
 # Plugins
 plugins: 
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-seo-tag
-  
-authors:
-    shikha:
-      name:           Shikha Pakhide
-      site:           https://www.shikhashikz.com
-      avatar:         /assets/images/shikhashikz.jpg
-      bio:            "B2B Marketing Professional | Author | Speaker"
-      email:          shikhapakhide@gmail.com
-      twitter:        https://twitter.com/shikhashikz
- 
-# Defaults
-defaults:
-
-  # all posts
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      author: shikha
-      avatar: /assets/images/shikhashikz.jpg
-      
-  # all pages
-  - scope:
-      path: "_pages"
-    values:
-      layout: page
-      
-# Syntax
-markdown: kramdown
-highlighter: rouge
-
-# Paginate
-paginate: 10
-
-
-
-# Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives

@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: All I need to do is look up in the clouds
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge m

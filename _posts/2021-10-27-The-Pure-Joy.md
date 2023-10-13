@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: Are you on High or Feeling Low
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 

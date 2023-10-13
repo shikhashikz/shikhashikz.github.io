@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: What are you good at
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 

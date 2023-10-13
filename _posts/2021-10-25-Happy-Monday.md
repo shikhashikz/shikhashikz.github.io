@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: Its SUPER EASY to brighten up your Monday
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm

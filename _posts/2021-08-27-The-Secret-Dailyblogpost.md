@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: When HOPE does a PENDULUM
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 

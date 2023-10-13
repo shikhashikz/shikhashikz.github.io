@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: In Conversation with Sangram Vajre
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm sangramvajre interview

@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: Titles which I plan to Read
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost books

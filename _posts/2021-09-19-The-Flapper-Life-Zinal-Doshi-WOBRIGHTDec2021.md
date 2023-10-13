@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: Cover Feature Reveal 
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge WOBRIGHT DEC2021

@@ -1,6 +1,6 @@
 ---
 
-Layout: post
+layout: post
 title: Change is the only Constant
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm

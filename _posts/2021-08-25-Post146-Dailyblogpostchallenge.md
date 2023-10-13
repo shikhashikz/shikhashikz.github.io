@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: What do you value more
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge success failure

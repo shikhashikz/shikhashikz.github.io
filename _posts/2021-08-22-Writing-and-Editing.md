@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: Have you edited your own manuscripts
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge editing

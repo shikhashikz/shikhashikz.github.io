@@ -1,6 +1,6 @@
 ---
 
-Layout: post
+layout: post
 title: Announcement
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity

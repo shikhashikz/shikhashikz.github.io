@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: WO-BRIGHT Magazine
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge wobright magazine

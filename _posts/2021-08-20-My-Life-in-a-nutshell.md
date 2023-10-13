@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: The Journey so Far
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 

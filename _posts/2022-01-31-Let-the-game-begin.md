@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: Whats your Avatar
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm

@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: post
 title: Are you sorted with your GTM strategy
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm gtm
