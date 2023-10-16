@@ -2,7 +2,7 @@
 title: "About"
 layout: page
 permalink: "/about/"
-image: "/assets/images/shikhashikz.jpg"
+#image: "/assets/images/shikhashikz.jpg"
 ---
 
 Hey there, I'm not your typical B2B Growth Marketing Leader – I'm more like your growth consultant! I'm all about diving into the exciting world of Go-To-Market strategies, cranking up Brand Awareness, and cooking up some seriously tasty Account-Based Marketing and Account-Based Experiences. Oh, and let's not forget about that Demand Generation magic I bring to the table.

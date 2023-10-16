@@ -7,7 +7,7 @@ permalink: "/:title/"
 favicon: 'assets/images/favicon.ico'
 author: shikhashikz
 paginate: 30
-disqus: 'shikhasite'
+disqus: 'shikhashikz-com'
 locale: en_us
 lang: en_us
 feed_items: 10
