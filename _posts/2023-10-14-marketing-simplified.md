@@ -9,6 +9,7 @@ image: assets/images/SimplStream.jpeg
 ---
 
 > simplifying and streamlining
+
 > In the thrilling world of marketing, it's like we're in a constant race to fill that sales pipeline. We're bombarded with strategies, tools, and endless tactics, all vying for our attention. But, amidst the chaos, we sometimes forget the marketing basics that really drive success. This single-minded focus on quick transactions can not only undermine our long-term potential but also leave the C-suite seeing us as one-trick ponies. Let's hit the brakes, take a breather, and re-embrace a simpler, more holistic view of what marketing is all about.
 
 **The Mad Dash to Fill the Pipeline**
