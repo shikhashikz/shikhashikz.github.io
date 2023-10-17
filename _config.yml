@@ -1,7 +1,7 @@
 title: "ShikhaShikz"
 email: shikhapakhide@gmail.com
 timezone: UTC
-baseurl: "/shikhashikz"
+baseurl: ""
 permalink: "/:title/"
 #logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
