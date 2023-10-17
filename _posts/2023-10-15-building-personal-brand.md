@@ -25,7 +25,7 @@ In today's professional landscape, personal branding is no longer just a buzzwor
 
 #### [Ready to Build your Personal Brand](https://calendly.com/shikhapakhide) ####
 
-### Tips to Overcome Personal Branding Challenges###
+### Tips to Overcome Personal Branding Challenges ###
 
 **Authenticity Matters:** Authenticity is the cornerstone of personal branding. Be genuine, transparent, and true to yourself. Authenticity is often more compelling and relatable than a polished facade.
 
