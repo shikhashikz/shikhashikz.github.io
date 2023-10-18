@@ -1,11 +1,11 @@
 title: "ShikhaShikz"
-email: shikhapakhide@gmail.com
+email: shikha@shikhashikz.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
 #logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: shikhashikz
+author: ShikhaShikz
 paginate: 30
 disqus: 'shikhashikz-com'
 locale: en_us
@@ -26,9 +26,9 @@ ganalytics: UA-84084860-1
 authors:
   shikhashikz:
     name: shikhashikz
-    display_name: shikhashikz
+    display_name: ShikhaShikz
     avatar: 'assets/images/sal.png'
-    email: shikhapakhide@gmail.com
+    email: shikha@shikhashikz.com
     web: https://shikhashikz.com
     twitter: https://twitter.com/shikhashikz
     description: "Creates the Zing factor in Marketing | Books are my Best Friend , Tea is my favorite beverage & Travelling to places is my hobby | A story teller."
