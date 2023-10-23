@@ -4,7 +4,7 @@ layout: post
 title: Role of Content in Csuite Decision Making
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity
-image: assets/images/AMA Session.jpeg
+image: assets/images/AMA Session 1.png
 
 ---
 
