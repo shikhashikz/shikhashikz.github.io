@@ -4,7 +4,7 @@ layout: post
 title: Customer Identification
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity
-image: assets/images/SuperTip.jpeg
+image: assets/images/Super Tip ICP.png
 
 ---
 
