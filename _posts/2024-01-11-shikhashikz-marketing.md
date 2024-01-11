@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Introducing Shikhashikz Marketing
+title: Introducing ShikhaShikz Marketing
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity marketing consultancy
 image: assets/images/The New chapter.png
@@ -80,7 +80,7 @@ Choose Your Focus Area:
 ## Book a Consultation ##
 What specific challenges are you facing in your business? [Click here to book a consultation,](https://calendly.com/shikhashikz) and let's collaboratively shape solutions aligned with your objectives.
 
-## Website Coming Soon!##
+## Website Coming Soon! ##
 Stay tuned for the launch of my website; an announcement is on the horizon. In the meantime, explore [snippets of my past learning experiences here.](https://shikhashikz.github.io/)
 
 Thank you for being part of this exhilarating journey. Let’s step in the Business of Marketing!!
