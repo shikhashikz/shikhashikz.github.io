@@ -4,6 +4,7 @@ title: All about Marketing
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
 image: assets/images/IntPablo.jpg
+author: shikhashikz
 
 ---
 There is no better way to learn, other than conversing with Passionate Marketers. 💯

@@ -1,11 +1,11 @@
-title: "ShikhaShikz"
+title: "ShikhaShikz.github.io"
 email: shikha@shikhashikz.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
 #logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: ShikhaShikz
+author: Shikha
 paginate: 30
 disqus: 'shikhashikz-com'
 locale: en_us
@@ -26,8 +26,8 @@ ganalytics: G-XNMXXQGV3T
 authors:
   shikhashikz:
     name: shikhashikz
-    display_name: ShikhaShikz
-    avatar: 'assets/images/sal.png'
+    display_name: Shikha
+    avatar: 'assets/images/shikha_avatar.png'
     email: shikha@shikhashikz.com
     web: https://shikhashikz.com
     twitter: https://twitter.com/shikhashikz
@@ -36,7 +36,7 @@ authors:
 # Social
 social:
   instagram: https://www.instagram.com/shikhashikz/
-  facebook: https://www.facebook.com/shikhashikz1
+  facebook: https://www.facebook.com/shikhashikz
   twitter: https://twitter.com/shikhashikz
 
 # Plugins

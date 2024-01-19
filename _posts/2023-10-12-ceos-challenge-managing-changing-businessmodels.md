@@ -5,6 +5,7 @@ title: CEOs Challenge Managing Changing Business Models
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity
 image: assets/images/CEO Challenge.jpeg
+author: shikhashikz
 
 ---
 

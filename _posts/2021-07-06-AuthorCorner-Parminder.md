@@ -4,6 +4,7 @@ title: In Conversation with my Best Friend, An Author
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge authorcorner
 image: assets/images/AuthorCorner.jpg
+author: shikhashikz
 
 ---
 >When your best friend agrees to talk about her passion with you! A special moment. Though during childhood, we both did not have the slightest hint that we will write someday and will see our work in print!!

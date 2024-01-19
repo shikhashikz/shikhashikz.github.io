@@ -4,6 +4,7 @@ title: Don't shy in Conversing with your kid
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge life experiences conversation
 image: assets/images/2806.jpg
+author: shikhashikz
 
 ---
 >How often do you speak to your kids?

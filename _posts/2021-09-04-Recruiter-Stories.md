@@ -4,6 +4,7 @@ title: Are there any HAPPY recruiting stories
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge jobsearch
 image: assets/images/Post156.jpg
+author: shikhashikz
 
 ---
 Are there any incidents which have left a mark on you while you were deep in the job search?

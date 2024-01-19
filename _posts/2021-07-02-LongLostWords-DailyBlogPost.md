@@ -4,6 +4,7 @@ title: Vanished Words
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
 image: assets/images/0307Blog.jpg
+author: shikhashikz
 
 ---
 >If you are a writer, maybe you will relate this with me. 

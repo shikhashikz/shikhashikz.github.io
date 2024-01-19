@@ -5,6 +5,8 @@ category: blog
 keywords: blog writing author shikhashikz parenting
 summary: Kids are intuitive and they can pick up your slightest of expressions.
 image: assets/images/My_kid_said.gif
+author: shikhashikz
+
 ---
 
 I will share what happened this morning. I was ready for the office and booking an Uber ride. Because of some technical glitch, I believe the app picked up the wrong location. I was running late, and explaining the way to the driver was turning into a nightmare for me. My daughter wanted to say something, and I was trying hard to be calm to her as she was bawling. My voice did not match my facial expression, and yes, she understood it. She walked out.

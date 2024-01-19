@@ -4,6 +4,7 @@ title: Have you discovered it?
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge personalbranding
 image: assets/images/Post119.jpg
+author: shikhashikz
 
 ---
 What is the core of Personal Branding?

@@ -4,6 +4,7 @@ title: YOU
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost journey life grit
 image: assets/images/YOU.jpg
+author: shikhashikz
 
 ---
 

@@ -4,6 +4,7 @@ title: In Conversation with Sangram Vajre
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm sangramvajre interview
 image: assets/images/SangramVajre.jpg
+author: shikhashikz
 
 ---
 >💯Being Intentional is way more important than Being Brilliant. 💯

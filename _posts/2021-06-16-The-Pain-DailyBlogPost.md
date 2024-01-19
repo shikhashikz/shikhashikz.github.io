@@ -4,6 +4,7 @@ title: Don't shy away from Pain
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
 image: assets/images/Post76.jpg
+author: shikhashikz
 
 ---
 > Pain will chase you, if you are trying to run away from it. Embrace it, it's "painful" but suffering leaves you "enriched"

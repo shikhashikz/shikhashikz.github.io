@@ -4,6 +4,7 @@ title: Top Ten Marketing Takeaways POST3
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
+author: shikhashikz
 
 ---
 Podcast: April Dunford in conversation with Yaag.

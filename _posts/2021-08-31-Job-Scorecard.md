@@ -4,6 +4,7 @@ title: How to create a Job Scorecard
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
 image: assets/images/Post152.jpg
+author: shikhashikz
 
 ---
 💯 What is a Job scorecard? 💯

@@ -4,6 +4,7 @@ title: Stillness vs Movement
 category: blog
 keywords: blog wednesdaymotivation wednesdaythoughts wednesdaymood writing reading author quote shikhashikz
 image: assets/images/2906.jpg
+author: shikhashikz
 
 ---
 >Stillness is Questioned and Movement is celebrated.

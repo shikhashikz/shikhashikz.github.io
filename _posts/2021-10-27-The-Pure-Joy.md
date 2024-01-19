@@ -4,6 +4,7 @@ title: Are you on High or Feeling Low
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
 image: assets/images/2710.jpg
+author: shikhashikz
 
 ---
 ❓Have you achieved that state where you are neither on a High or swaying in the lowest ebb?

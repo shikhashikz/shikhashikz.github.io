@@ -4,6 +4,7 @@ title: TIME
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge time
 image: assets/images/Post117.jpg
+author: shikhashikz
 
 ---
 If you have lost Material possessions, there is a chance that you can get it back. But time? Time once wasted, never comes back.

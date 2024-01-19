@@ -4,6 +4,7 @@ title: Top Ten Marketing Takeaways POST6
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
+author: shikhashikz
 
 ---
 **[Lisa Sharapata](https://www.linkedin.com/in/lisasharapata/), [Justin Keller](https://www.linkedin.com/in/justindkeller/) and [Nicholas Cappas](https://www.linkedin.com/in/nicholas-cappas-29a4439/) on Branding!**

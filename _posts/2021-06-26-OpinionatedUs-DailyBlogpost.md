@@ -4,6 +4,7 @@ title: Opinions, passing Judgements
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge life experiences 
 image: assets/images/2706.jpg
+author: shikhashikz
 
 ---
 >We rattle opinions, judgements, as easily as we breathe! It has become our second nature and we take PRIDE in it. It's a sad situation. If we would have spent exactly the same time talking about ourselves, we would have gone miles.

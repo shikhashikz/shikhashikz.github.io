@@ -4,6 +4,7 @@ title: Six Word Mantra
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
 image: assets/images/Post100.jpg
+author: shikhashikz
 
 ---
 >Post No 100

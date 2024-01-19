@@ -4,6 +4,7 @@ title: 30 Revenue Rules with Cody Ward
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
+author: shikhashikz
 
 ---
 30 Revenue Rules for More Effective, Scalable & Predictable Growth with **[Cody Ward](https://www.linkedin.com/in/codyward/)**

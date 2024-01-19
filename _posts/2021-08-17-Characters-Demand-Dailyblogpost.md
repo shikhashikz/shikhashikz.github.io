@@ -4,6 +4,7 @@ title: What are the Characters demanding
 category: blog 
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
 image: assets/images/Post138.jpg
+author: shikhashikz
 
 ---
 Writing Trivia

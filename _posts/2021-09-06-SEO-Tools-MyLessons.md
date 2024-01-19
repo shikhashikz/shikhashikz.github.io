@@ -4,6 +4,7 @@ title: Key to add zing to your SEO plans
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing SEO
 image: assets/images/MktngTrivia.jpg
+author: shikhashikz
 
 ---
 This post is intended for readers who has a basic understanding of SEO and are looking for sites which can help them in SEO Optimization journey.

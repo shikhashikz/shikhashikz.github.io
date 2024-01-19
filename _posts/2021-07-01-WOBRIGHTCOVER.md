@@ -4,6 +4,7 @@ title: WO BRIGHT Magazine Cover Launch
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity magazine wobright coverlaunch
 image: assets/images/WOBRIGHT.jpg
+author: shikhashikz
 
 ---
 Unveiling the Cover of WO-BRIGHT Magazine where we aim to change the definition of beautiful!

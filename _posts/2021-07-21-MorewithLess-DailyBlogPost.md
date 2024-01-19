@@ -4,6 +4,7 @@ title: Resource Leverage
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge bookdiscussion multiplier
 image: assets/images/Post111.jpg
+author: shikhashikz
 
 ---
 ***Resource Leverage Creates Competitive Advantage***

@@ -4,6 +4,7 @@ title: Announcement- WORDSPARK CONTEST
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing
 image: assets/images/WORDSPARKCONTEST.jpg
+author: shikhashikz
 
 ---
 We all love stories, now it's your chance to craft one! Don't be shy and shake the pen!!

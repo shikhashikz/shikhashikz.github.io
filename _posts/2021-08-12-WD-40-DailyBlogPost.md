@@ -4,6 +4,7 @@ title: What is WD-40?
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge writing WD40
 image: assets/images/Post133.jpg
+author: shikhashikz
 
 ---
 

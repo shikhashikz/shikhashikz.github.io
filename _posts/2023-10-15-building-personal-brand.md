@@ -5,6 +5,7 @@ title: Challenges and Tips while Building Your Personal Brand
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity
 image: assets/images/Challenges Personal Branding.jpeg
+author: shikhashikz
 
 ---
 > Simplified and Streamlined: Marketing Simplified Series

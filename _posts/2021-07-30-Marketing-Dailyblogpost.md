@@ -4,6 +4,7 @@ title: An ART or a SCIENCE
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing
 image: assets/images/Post120.jpg
+author: shikhashikz
 
 ---
 When Art and Science, comes together, MAGIC HAPPENS!

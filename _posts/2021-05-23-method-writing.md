@@ -4,6 +4,7 @@ title: Method..It’s intrinsic, it’s intricate
 category: blog
 keywords: blog writing author shikhashikz methodwriting method writing writinglife writingcommunity
 image: assets/images/Method_Blog Post_24052021.png
+author: shikhashikz
 
 ---
 

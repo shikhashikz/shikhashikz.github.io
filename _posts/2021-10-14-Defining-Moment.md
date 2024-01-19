@@ -4,6 +4,7 @@ title: Some moments do stay
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
 image: assets/images/Moment.jpg
+author: shikhashikz
 
 ---
 Some moments are crystal clear as clear skies and some are as ambiguous as dense fog.

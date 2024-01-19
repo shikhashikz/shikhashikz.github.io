@@ -4,6 +4,7 @@ title: Are you in the right situation
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
 image: assets/images/2110.jpg
+author: shikhashikz
 
 ---
 ❓ Do you feel confident that you are in the place where you ought to be? 😕 

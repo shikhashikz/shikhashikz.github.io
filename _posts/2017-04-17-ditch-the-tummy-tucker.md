@@ -4,6 +4,8 @@ title: Ditch the Tummy Tucker
 category: Blog
 keywords: health workout motherhood postdelivery selfhelp
 image: assets/images/Ditch_the_tummy_tucker.jpeg
+author: shikhashikz
+
 ---
 You have still not recovered from the aftermaths of becoming a mother, and that too twice, then how can you think about getting rid of the double chin and the tummy bulge! 
 

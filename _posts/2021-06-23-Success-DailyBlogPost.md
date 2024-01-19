@@ -4,6 +4,7 @@ title: Who defines your Success
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge success life
 image: assets/images/2406.jpg
+author: shikhashikz
 
 ---
 Do I pave the way for my own Success?

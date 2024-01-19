@@ -4,6 +4,7 @@ title: How often do you write
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
 image: assets/images/Post125.jpg
+author: shikhashikz
 
 ---
 Practise, Practise, and Practise. There is no end to practise.

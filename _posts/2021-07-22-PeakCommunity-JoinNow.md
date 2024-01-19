@@ -4,6 +4,7 @@ title:  Challenging the status quo of marketing
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing peakcommunity
 image: assets/images/Post112.jpg
+author: shikhashikz
 
 ---
 

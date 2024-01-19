@@ -4,6 +4,7 @@ title: Whats your Avatar
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
 image: assets/images/3101.jpg
+author: shikhashikz
 
 ---
 You do not hit the Ground from Day one but from Day Zero!

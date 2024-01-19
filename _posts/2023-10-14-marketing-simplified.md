@@ -5,6 +5,7 @@ title: 2S contributes to Marketing Success
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity
 image: assets/images/SimplStream.jpeg
+author: shikhashikz
 
 ---
 

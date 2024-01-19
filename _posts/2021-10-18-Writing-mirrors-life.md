@@ -4,6 +4,7 @@ title: Reflect on your Fiction Work
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
 image: assets/images/1810.jpg
+author: shikhashikz
 
 ---
 But there are people who will first share their personal milestones, and then work will follow.

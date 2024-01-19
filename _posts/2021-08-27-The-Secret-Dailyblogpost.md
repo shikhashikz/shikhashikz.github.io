@@ -4,6 +4,7 @@ title: When HOPE does a PENDULUM
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
 image: assets/images/Post148.jpg
+author: shikhashikz
 
 ---
 Do you stay STRONG all the 365 days?

@@ -4,6 +4,7 @@ title: Podcast with Leela Gill
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
+author: shikhashikz
 
 ---
 **[Leela Gill,](https://www.linkedin.com/in/leelagill/)** when she talks, it’s so practical and the lessons are backed up by the data, that you felt that I always knew about these things but just rejected them because I thought I need to experiment and do something flashy. In the heat of delivering flamboyant campaigns, the crux of the marketing is foregone. Thankfully, we have marketers like Leela who reaffirm our faith that get your basics right, and never forget them. My key takeaways from her [recent podcast](https://www.contentcallout.com/the-interplay-of-demand-gen-and-content-with-leela-gill-ep-59/)

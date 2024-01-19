@@ -3,6 +3,7 @@ layout: post
 title: Book Review The Elements of Style
 category: [Book Review]
 keywords: blog
+author: shikhashikz
 
 ---
 

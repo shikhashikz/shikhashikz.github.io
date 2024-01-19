@@ -4,6 +4,7 @@ title: Learnings and not FAILURES
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
 image: assets/images/Post107.jpg
+author: shikhashikz
 
 ---
 

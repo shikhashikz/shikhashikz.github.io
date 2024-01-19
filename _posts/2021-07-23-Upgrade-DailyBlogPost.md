@@ -4,6 +4,7 @@ title: Install the Latest Version
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge skill expertise
 image: assets/images/Post113.jpg
+author: shikhashikz
 
 ---
 We are so serious about the latest versions of the technology, that we never loose any time to get the devices upgraded.

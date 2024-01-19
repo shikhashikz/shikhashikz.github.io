@@ -3,6 +3,7 @@ layout: post
 title: Book Review A Forgotten Affair
 category: [Book Review]
 keywords: blog
+author: shikhashikz
 
 ---
 Readers are weird! I am a writer and a reader, so I can vouch for the queer way a reader’s mind works. Anything can click or turn them off! I loved the way A Forgotten Affair is printed. The font and the way it’s formatted. I know it’s a strange way to start the review but that’s the first thing which I liked about the book. The title did hint towards the fact that the lead character will be going through memory loss. 

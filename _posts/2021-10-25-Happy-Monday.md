@@ -4,6 +4,7 @@ title: Its SUPER EASY to brighten up your Monday
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
 image: assets/images/2510.jpg
+author: shikhashikz
 
 ---
 Keep going. As Matt Haig says all you need is just walking in the straight line!! 🌴

@@ -4,6 +4,7 @@ title: Outpour of Emotions
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
 image: assets/images/Post121.jpg
+author: shikhashikz
 
 ---
 Sometimes it comes easily, and sometimes it's hard to express that emotion, exactly the way the character of my book is feeling! But the journey of depicting is indeed awesome.

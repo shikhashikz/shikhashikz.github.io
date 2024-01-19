@@ -4,6 +4,7 @@ title: Inward or Outward
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
 image: assets/images/Inspiration.jpg
+author: shikhashikz
 
 ---
 From where should I derive Inspiration?

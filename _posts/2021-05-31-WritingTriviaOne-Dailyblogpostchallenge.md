@@ -4,6 +4,7 @@ title: Writing Trivia One
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost 
 image: assets/images/writingtrivia1.jpg
+author: shikhashikz
 
 ---
 Why do you Write?✍️

@@ -25,3 +25,5 @@ CMRO – ever heard of it? Chief Marketing Revenue Officer, the next big thing.
 Dive deep into the mysteries of ABM, ABX, GTM, and RevOps – the building blocks of marketing success.
 So, what's my secret sauce? It's simple: I'm a relentless learner, and my motto is to keep Learning, Unlearning, and Relearning.
 Let's chat about your growth plans and strategy.
+
+-- Shikha Pakhide

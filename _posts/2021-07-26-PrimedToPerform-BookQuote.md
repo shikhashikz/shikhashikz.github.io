@@ -4,6 +4,7 @@ title: The Land of Thousand Ladders
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge bookquote primedtoperform
 image: assets/images/Post116.jpg
+author: shikhashikz
 
 ---
 Primed To Perform debunks a myth.

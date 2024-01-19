@@ -4,6 +4,7 @@ title: How does your evening shape up
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
 image: assets/images/1710.jpg
+author: shikhashikz
 
 ---
 Give yourself the luxury to sitback, observe whats happening around and smile for a while. 🥰

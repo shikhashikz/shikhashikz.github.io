@@ -4,6 +4,7 @@ title: Top Ten Marketing Takeaways POST1
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
+author: shikhashikz
 
 ---
 I am starting a series on my key takeaways related to all the aspects of Marketing. This is the First post in the series.

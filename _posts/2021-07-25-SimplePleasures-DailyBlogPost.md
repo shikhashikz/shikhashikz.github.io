@@ -4,6 +4,7 @@ title: Look Around, and you will definitely smile
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
 image: assets/images/Post115.jpg
+author: shikhashikz
 
 ---
 

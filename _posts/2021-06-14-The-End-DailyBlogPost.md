@@ -4,6 +4,7 @@ title: Start, Continue, and then comes the END
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
 image: assets/images/TheEND.jpg
+author: shikhashikz
 
 ---
 >Our efforts, day to day activities anyways bring us closer to the finishing line, so then why hurry to touch the ribbon.

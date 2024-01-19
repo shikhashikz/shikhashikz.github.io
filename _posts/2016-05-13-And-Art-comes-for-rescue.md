@@ -6,6 +6,7 @@ category: Blog
 keywords: blog writing author shikhashikz art
 summary: When simple leisures can act as stress reliever 
 image: assets/images/TodayIchoosejoy.JPG
+author: shikhashikz
 
 ---
 

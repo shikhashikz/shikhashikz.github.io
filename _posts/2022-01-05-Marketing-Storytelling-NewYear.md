@@ -4,6 +4,7 @@ title: Let the story begun
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
 image: assets/images/050122.jpg
+author: shikhashikz
 
 ---
 Wish you all a Very Happy New Year! 💥 🎆

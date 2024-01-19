@@ -4,6 +4,7 @@ title: Leads vs Conversations
 category: blog
 keywords: blog writing author shikhashikz saleslead leadmanagement demandgeneration insidesales blogseries 
 image: assets/images/Let's talk.png
+author: shikhashikz
 
 ---
 

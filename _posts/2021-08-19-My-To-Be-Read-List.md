@@ -4,6 +4,7 @@ title: Titles which I plan to Read
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost books
 image: assets/images/Post140.jpg
+author: shikhashikz
 
 ---
 💖I have saved the names of the books which I plan to read in so many places. 💖

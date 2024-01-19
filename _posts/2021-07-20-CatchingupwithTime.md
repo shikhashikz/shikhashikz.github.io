@@ -4,6 +4,7 @@ title: Is Time running slow or Am I moving Fast
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge life experiences 
 image: assets/images/Post110.jpg
+author: shikhashikz
 
 ---
 Either I have to start using a stopwatch or ditch the clock altogether!!

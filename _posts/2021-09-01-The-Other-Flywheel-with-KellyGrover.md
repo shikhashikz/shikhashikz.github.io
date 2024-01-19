@@ -4,6 +4,7 @@ title: Get comfortable with Flywheels
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm flywheel
 image: assets/images/MktngTrivia.jpg
+author: shikhashikz
 
 ---
 Have you experimented/ implemented flywheels yet? or you might be already doing it, just so the term sounds new?

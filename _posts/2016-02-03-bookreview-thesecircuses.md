@@ -5,6 +5,7 @@ category: [Book Review]
 author: shikhashikz
 keywords: blog
 summary: Far from reality, too close to imagination!
+author: shikhashikz
 
 ---
  Why were we in love with Snow White, Cindrella , Alice in Wonderland stories ? Because it used to transport straight into the world of magic where anything and everything is possible at the whoosh of a wand. (A hint of sublime truth here but let me take that point later) They were happy stories , where every element was present. It surprised us, made us sad, scared and happy. And in the end we used to wish and sigh to be forever there.

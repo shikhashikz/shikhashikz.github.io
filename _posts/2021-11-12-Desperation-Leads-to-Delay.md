@@ -4,6 +4,7 @@ title: Desperation Exudes Low Confidence
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
 image: assets/images/1113.jpg
+author: shikhashikz
 
 ---
 And desperation leads to delay.

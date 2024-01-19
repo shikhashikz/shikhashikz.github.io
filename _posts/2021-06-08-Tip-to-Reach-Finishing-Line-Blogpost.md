@@ -4,6 +4,7 @@ title: How to Finish what you have started?
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost tiptoreachfinishingline
 image: assets/images/finishingline.jpg
+author: shikhashikz
 
 ---
 

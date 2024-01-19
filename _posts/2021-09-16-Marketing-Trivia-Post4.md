@@ -4,6 +4,7 @@ title: Top Ten Marketing Takeaways POST4
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
+author: shikhashikz
 
 ---
 What is Conversational ad? **[Corrina Owens](https://www.linkedin.com/in/corrina-owens/)** explains it with her super breezy style.

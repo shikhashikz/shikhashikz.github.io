@@ -4,6 +4,7 @@ title: Don't shun your Failures
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
 image: assets/images/0716.jpg
+author: shikhashikz
 
 ---
 

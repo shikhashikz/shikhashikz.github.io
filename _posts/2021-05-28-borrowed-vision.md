@@ -4,6 +4,7 @@ title: Eyes, But with Borrowed Sight
 category: blog
 keywords: blog writing author shikhashikz life experience judgement bias perception writing writinglife writingcommunity
 image: assets/images/Vision.jpg
+author: shikhashikz
 
 ---
 

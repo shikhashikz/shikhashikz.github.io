@@ -4,6 +4,7 @@ title: Reflections
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
 image: assets/images/Post122.jpg
+author: shikhashikz
 
 ---
 Fear shuts us, and makes us blind to the realitya round us.

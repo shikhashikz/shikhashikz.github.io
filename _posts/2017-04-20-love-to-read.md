@@ -3,6 +3,8 @@ layout: post
 title: Love to Read
 category: Blog
 image: assets/images/Love_to_read.gif
+author: shikhashikz
+
 ---
 
 The best stress therapy for me is when I immerse myself in the book world. It relieves me from all the vices of this world. 

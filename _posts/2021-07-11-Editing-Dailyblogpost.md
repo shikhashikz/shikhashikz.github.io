@@ -4,6 +4,7 @@ title: Are you afraid to Edit your work, I am
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge editing
 image: assets/images/Editing.jpg
+author: shikhashikz
 
 ---
 Editing is a mean task. I can lay bets on that.

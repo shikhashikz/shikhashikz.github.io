@@ -4,6 +4,7 @@ title: Celebrating the Journey
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost celebration BentleySystems 13thyear milestone journey life
 image: assets/images/13thYear.jpg
+author: shikhashikz
 
 ---
 There is no Destination for Learning, so,

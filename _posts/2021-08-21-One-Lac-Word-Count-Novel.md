@@ -4,6 +4,7 @@ title: No Mean Feat
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge onelac word count novel
 image: assets/images/WC.jpg
+author: shikhashikz
 
 ---
 I gave myself a pat on the back. I did it. But, now comes the hard part.

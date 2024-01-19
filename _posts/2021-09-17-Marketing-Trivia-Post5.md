@@ -4,6 +4,7 @@ title: Top Ten Marketing Takeaways POST5
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
+author: shikhashikz
 
 ---
 Do you know the concept of **"Relationship Flywheel"** discussed by **[Pablo Gonzalez](https://www.linkedin.com/in/pablotheconnector/)?**

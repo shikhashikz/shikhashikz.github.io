@@ -4,6 +4,7 @@ title: It's Dramatic
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge life experiences 
 image: assets/images/Dramapost70.jpg
+author: shikhashikz
 
 ---
 *Will life be boring without any DRAMA?*
