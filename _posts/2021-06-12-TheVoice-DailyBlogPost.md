@@ -4,6 +4,7 @@ title: Voice, Do you Hear it?
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge life experiences 
 image: assets/images/voice.jpg
+author: shikhashikz
 
 ---
 

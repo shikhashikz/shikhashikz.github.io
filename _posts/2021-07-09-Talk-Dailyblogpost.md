@@ -4,6 +4,7 @@ title: Love to talk
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
 image: assets/images/0907.jpg
+author: shikhashikz
 
 ---
 >Do you feel better and relaxed after talking? Why? Did you ever give it a thought? And why do you need to vent out "externally" to relieve yourself of all the negative thoughts. Do you think you "just passed on" your feelings to another, rather dumped it on them.

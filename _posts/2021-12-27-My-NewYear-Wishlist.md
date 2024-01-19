@@ -4,6 +4,7 @@ title: What I Wish as a Marketer
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
 image: assets/images/2022.jpg
+author: shikhashikz
 
 ---
 

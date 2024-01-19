@@ -4,6 +4,7 @@ title: What brings us Together
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
 image: assets/images/0714.jpg
+author: shikhashikz
 
 ---
 Is it the happiness or a tragedy which brings us really closer to each other? Which one reminds us of our core values?

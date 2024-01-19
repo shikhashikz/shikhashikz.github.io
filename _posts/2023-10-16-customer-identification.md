@@ -5,6 +5,7 @@ title: Customer Identification
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity
 image: assets/images/Super Tip ICP.png
+author: shikhashikz
 
 ---
 

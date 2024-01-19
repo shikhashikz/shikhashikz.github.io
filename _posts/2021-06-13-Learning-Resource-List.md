@@ -4,6 +4,7 @@ title: Let's Learn Together
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity learning bookrecommendation blogrecommendation
 image: assets/images/LearningResources.jpg
+author: shikhashikz
 
 ---
 The Journey of Learning

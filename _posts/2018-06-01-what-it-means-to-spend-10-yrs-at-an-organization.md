@@ -5,6 +5,7 @@ category: Blog
 keywords: corporatelife longtenure lovingthework newopportunities BentleySystems worklife
 summary: 10th Year Anniversary
 image: assets/images/tenth_anniversary.jpeg
+author: shikhashikz
 
 ---
 

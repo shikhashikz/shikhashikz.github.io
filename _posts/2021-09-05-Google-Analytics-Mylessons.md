@@ -4,6 +4,7 @@ title: Do you use Google Analytics
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing googleanalytics
 image: assets/images/MktngTrivia.jpg
+author: shikhashikz
 
 ---
 Are you managing your personal website? How are you using Google Analytics?

@@ -4,6 +4,7 @@ title: Tips to Ace up Learning
 category: blog
 keywords: blog writing author shikhashikz writing writing life writing community dailyblogpostchallenge
 image: assets/images/Inspiration.jpg
+author: shikhashikz
 
 ---
 

@@ -4,6 +4,7 @@ title: Top Ten ABM Lessons
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
+author: shikhashikz
 
 ---
 Another goldmine from Peak, session with **[Daniel Englebretson](https://www.linkedin.com/in/danielenglebretson/) on Ludicrous Mode: 10 Lessons Learned Launching 24 ABM Programs In 12 Months.**

@@ -4,6 +4,7 @@ title: Mandatory 2020 wrap up Post!
 category: blog
 keywords: blog writing author shikhashikz philosophy mindfulness learnings
 image: assets/images/NY2021.jpg
+author: shikhashikz
 
 ---
 

@@ -4,6 +4,7 @@ title: I dare to dream
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing cmo
 image: assets/images/0710.jpg
+author: shikhashikz
 
 ---
 If I want to become a CMO, then I need to learn what other CMOs are doing. And joining **[Peak Community](https://www.peak.community/) was my first step in fulfilling my dream.**

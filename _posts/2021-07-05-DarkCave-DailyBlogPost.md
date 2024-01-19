@@ -4,6 +4,7 @@ title: Everyone was bitten once by the "Ego Sting"
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
 image: assets/images/Post95.jpg
+author: shikhashikz
 
 ---
 Excerpt from Jay Shetty’s book. Think like a Monk.

@@ -4,6 +4,8 @@ title: Book Review Someone to Love
 category: [Book Review]
 keywords: bookreview fiction someonetolove ruchitamisra fiction
 summary: Someone to Love Bookreview
+author: shikhashikz
+
 ---
 There is no denying of the fact that mind is powerful.To an extent, I believe that the kind of situations which we create in our mind can come to life someday. I have experienced that and it makes me fear sometimes on the mind power. If you ask me to define the power of mind, without batting an eyelid I can equate it with nuclear energy. This vast source of energy needs to be channelized and handled properly. Over indulgence in mind “less” conversations and self-concluding why a person acted in a certain way, does not bring any good. Again, turning into a philosophical mode, but Someone to Love subtly touches a very touchy topic.
 

@@ -4,6 +4,7 @@ title: What's your Understanding Quotient
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
 image: assets/images/Post97.jpg
+author: shikhashikz
 
 ---
 >We are extensive readers. We know our religious verses by heart, but what about the deep meaning which lies behind those golden gems?

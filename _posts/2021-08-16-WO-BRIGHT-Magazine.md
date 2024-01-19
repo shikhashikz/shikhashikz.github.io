@@ -4,6 +4,7 @@ title: WO-BRIGHT Magazine
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge wobright magazine
 image: assets/images/WO-BRIGHT.jpg
+author: shikhashikz
 
 ---
 

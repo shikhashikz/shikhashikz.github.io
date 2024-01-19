@@ -4,6 +4,7 @@ title: Do you take Notes while reading
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge reading
 image: assets/images/Post144.jpg
+author: shikhashikz
 
 ---
 

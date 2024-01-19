@@ -4,6 +4,7 @@ title: Self-Worth Discovery, it's a Journey
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
 image: assets/images/Post1281.jpg
+author: shikhashikz
 
 ---
 

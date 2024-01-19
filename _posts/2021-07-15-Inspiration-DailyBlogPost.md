@@ -4,6 +4,7 @@ title: What's your source of Inspiration
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
 image: assets/images/Inspiration.jpg
+author: shikhashikz
 
 ---
 >What gives you a kick? The daily dose of inspiration which you have subscribed for? Read on why you should turn them off.

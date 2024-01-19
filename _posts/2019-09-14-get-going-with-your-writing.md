@@ -5,6 +5,8 @@ category: blog
 keywords: blog writing author shikhashikz 
 summary: 
 image: assets/images/get_going.jpeg
+author: shikhashikz
+
 ---
 
 This article will resonate with people who love to write but who are hard pressed against time like;

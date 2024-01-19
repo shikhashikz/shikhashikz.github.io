@@ -4,6 +4,7 @@ title: What are you good at
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
 image: assets/images/1610.jpg
+author: shikhashikz
 
 ---
 My takeaway for today came early in the morning while reading Stephen King’s Writing Memoir:

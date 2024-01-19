@@ -4,6 +4,8 @@ title: Book Review My Father is a Hero
 category: blog
 keywords: blog writing author shikhashikz bookreview
 summary: Why the title is My father is a hero and not my mother is a hero! 
+author: shikhashikz
+
 ---
 
 I signed up with Writersmelon for the review of this book.Why did I choose this book? It was a childlike curiosity on Why the title is “My father is a hero“ and not “my mother is a hero”! Sorry being a mother of two kids I always keep on bantering with my hubby that mothers are the best(and this statement is very nicely shoved under the bed)!

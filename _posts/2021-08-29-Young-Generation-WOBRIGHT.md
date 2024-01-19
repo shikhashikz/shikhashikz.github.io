@@ -4,6 +4,7 @@ title: Qualities represented by Younger lot
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
 image: assets/images/WOBRIGHT1.jpg
+author: shikhashikz
 
 ---
 Today's generation is confident, passionate, gritty and knows how to nail the challenges. Don't write them off by saying that they are too young to decide about what they want.

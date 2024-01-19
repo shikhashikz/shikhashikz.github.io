@@ -6,6 +6,8 @@ keywords: fiction romance novel series shikhashikz relationships
 tags: book sticky featured
 summary: Life is a Maze
 image: assets/images/Front Cover.jpg
+author: shikhashikz
+
 ---
 
 I dedicate this book to LIFE, how being alive is the greatest gift of nature. This Series depicts Samisha’s struggle to live, to be alive and to understand how LIFE is the unsolved maze. 🌠

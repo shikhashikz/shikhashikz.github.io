@@ -4,6 +4,7 @@ title: First Learning Session after Break
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
+author: shikhashikz
 
 ---
 Words of Wisdom from Tim Elmore: Do you read your people before you lead them?

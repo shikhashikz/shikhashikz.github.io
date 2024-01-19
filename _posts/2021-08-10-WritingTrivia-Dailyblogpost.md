@@ -4,6 +4,7 @@ title: Writing Trivia
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge writing
 image: assets/images/Post131.jpg
+author: shikhashikz
 
 ---
 What are your Writing Trivias?...

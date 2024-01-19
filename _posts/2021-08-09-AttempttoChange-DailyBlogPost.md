@@ -4,6 +4,7 @@ title: I do not Like this
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
 image: assets/images/Post130.jpg
+author: shikhashikz
 
 ---
 That’s ok. But what did you do change your statement from I do not like this, to I am loving it what I am doing or where I am right now!

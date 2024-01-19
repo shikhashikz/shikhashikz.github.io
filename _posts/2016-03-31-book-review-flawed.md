@@ -3,6 +3,7 @@ layout: post
 title: Book Review Flawed
 category: [Book Review]
 keywords: blog
+author: shikhashikz
 
 ---
 When I picked up this book, I was not sure if I will be able to complete the book. I became a big fan of Cecelia Ahern when I finished P.S. I Love You. I just could not get over Holly’s loss. That was the only book whose chapters have been re-read. I had similar expectations from Where Rainbows End when I bought this. Each book is different and somehow they did not entertain me much.

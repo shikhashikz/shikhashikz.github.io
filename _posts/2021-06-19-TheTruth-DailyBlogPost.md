@@ -4,6 +4,7 @@ title: Do you have the guts to handle TRUTH?
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
 image: assets/images/Post79.jpg
+author: shikhashikz
 
 ---
 #KnowSamisha

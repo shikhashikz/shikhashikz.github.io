@@ -4,6 +4,7 @@ title: How I aced my learning this week
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
+author: shikhashikz
 
 ---
 My go to source to pump up my day is listening to my favorite people. 

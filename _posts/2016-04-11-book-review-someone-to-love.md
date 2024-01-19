@@ -4,6 +4,8 @@ title: Book Review Someone to Love
 category: [Book Review]
 keywords: blog writing author shikhashikz bookreview
 summary: 
+author: shikhashikz
+
 ---
 
 There is no denying of the fact that mind is powerful. To an extent, I believe that the kind of situations which we create in our mind can come to life someday. I have experienced that and it makes me fear sometimes on the mind power. If you ask me to define the power of mind, without batting an eyelid I can equate it with nuclear energy. This vast source of energy needs to be channelized and handled properly.

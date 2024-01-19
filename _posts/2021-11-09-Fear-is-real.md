@@ -4,6 +4,7 @@ title: My Travel Diaries
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
 image: assets/images/1011.jpg
+author: shikhashikz
 
 ---
 During my recent travel, I experienced what it means to be scared. How the real fear creeps in and makes you immobile. 🐮

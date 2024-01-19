@@ -4,6 +4,7 @@ title: Connect the Dots
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm 2022 marketingplan
 image: assets/images/MktngTrivia.jpg
+author: shikhashikz
 
 ---
 How are you doing with your 2022 Marketing Planning? 🪃

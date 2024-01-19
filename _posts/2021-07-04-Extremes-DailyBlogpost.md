@@ -4,6 +4,7 @@ title: Are you always Hanging like a Pendulum
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
 image: assets/images/Post94.jpg
+author: shikhashikz
 
 ---
 >Highs and Lows

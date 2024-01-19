@@ -4,6 +4,7 @@ title: Rushed Deadlines are a pass
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge deadlines
 image: assets/images/Post128.jpg
+author: shikhashikz
 
 ---
 Which Deadline are you Chasing Today?

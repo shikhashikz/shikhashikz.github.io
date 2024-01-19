@@ -5,6 +5,8 @@ category: blog
 keywords: blog writing author shikhashikz revelation
 summary: A Journey Down Your Own Rabbit Hole
 image: assets/images/The_quest.gif
+author: shikhashikz
+
 ---
 
 Do you cringe when somebody asks you, “So what do you do?” even though you have been working for a decade? Do you wake up in the middle of the night feeling lost, hollow and clueless? When your kids are sleeping or busy by themselves, do you not know what to do during those hours? Does your life revolve around feeding and cleaning?

@@ -4,6 +4,7 @@ title: That session which will make you forget to BREATHE
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm MOVEBOOK
 image: assets/images/MktngTrivia.jpg
+author: shikhashikz
 
 ---
 Power Packed Session with **[Christopher Lochhead](https://www.linkedin.com/in/christopherlochhead/) on Sangram Vajre’s newly released book, MOVE!**

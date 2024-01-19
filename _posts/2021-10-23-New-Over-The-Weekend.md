@@ -4,6 +4,7 @@ title: Do check out
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
 image: assets/images/2310.jpg
+author: shikhashikz
 
 ---
 Why there is a HIGHWAY to Hell, but stairway to Heaven!!! 

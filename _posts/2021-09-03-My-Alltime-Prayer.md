@@ -4,6 +4,7 @@ title: Do you have your own Prayer
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
 image: assets/images/Post155.jpg
+author: shikhashikz
 
 ---
 📿 I have found my own little prayer which gives me power and strength in all the times, good times, bad times, down time, all the time! 🙏

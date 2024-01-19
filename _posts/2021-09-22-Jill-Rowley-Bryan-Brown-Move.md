@@ -4,6 +4,7 @@ title: Move Move Move
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
+author: shikhashikz
 
 ---
 Sangram Vajre in conversation with Jill Rowley, Bryan Brown, Lydia Flocchini and Darryl Praill on why the concepts discussed in MOVE is SUPER IMPORTANT for Marketing Industry.

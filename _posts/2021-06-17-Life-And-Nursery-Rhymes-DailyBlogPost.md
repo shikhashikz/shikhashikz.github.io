@@ -4,6 +4,7 @@ title: Discover Life's Rhythm
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
 image: assets/images/POST77.jpg
+author: shikhashikz
 
 ---
 >Did you ever think that the Rhythm of the Life is hinted to us via Nursery Rhymes? But we unlucky mortals are always in a mad rush and rattle them off.

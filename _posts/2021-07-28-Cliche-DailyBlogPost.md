@@ -4,6 +4,7 @@ title: What are the stereotypes which makes your crazy
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge stereotype
 image: assets/images/Post118.jpg
+author: shikhashikz
 
 ---
 Moment which made me cringe.

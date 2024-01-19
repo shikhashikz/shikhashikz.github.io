@@ -4,6 +4,7 @@ title: Learnings from Current Read
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge GRIT angeladuckworth currentread
 image: assets/images/2206.jpg
+author: shikhashikz
 
 ---
 

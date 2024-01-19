@@ -4,6 +4,7 @@ title: This Moment, That Moment or Yet to come Moment
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness life experiences 
 image: assets/images/Post78.jpg
+author: shikhashikz
 
 ---
 >Do not lose your moment of Glory. Cherish it and freeze it in your heart.

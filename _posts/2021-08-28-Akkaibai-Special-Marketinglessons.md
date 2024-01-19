@@ -4,6 +4,7 @@ title: Slaying Marketing Buzzwords
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
 image: assets/images/Post149.jpg
+author: shikhashikz
 
 ---
 I love it when professionals and entrepreneurs indulge in "real-marketing" with ZERO marketing budget!!!

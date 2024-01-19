@@ -4,6 +4,7 @@ title: Low High Steady
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
 image: assets/images/1307.jpg
+author: shikhashikz
 
 ---
 "Nobody completes you. You’re not half. You don’t have to be perfect, but you have to come to a place of giving. Instead of draining anyone else, you’re nourishing them.

@@ -5,6 +5,7 @@ title: Introducing ShikhaShikz Marketing
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity marketing consultancy
 image: assets/images/The New chapter.png
+author: shikhashikz
 
 ---
 Thank you to everyone for the overwhelming good wishes and congratulatory messages following my [announcement](https://www.linkedin.com/feed/update/urn:li:activity:7148918401657200640/) of venturing into my own marketing consultancy. The excitement is still settling in, and, like any new endeavor, I am navigating the uncharted waters of my "new venture" and "new title."

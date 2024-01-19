@@ -4,6 +4,8 @@ title: Book Review Finding Juliet
 category: [Book Review]
 keywords: findingjuliet review
 summary: Exploring Stereotypes
+author: shikhashikz
+
 ---
 
 I was interested to read this book because of two reasons: One because of a unique pen name and second because it hinted that it’s a love story.I will not comment if I liked the book or not but there are certain stereotypes which I would like to share:

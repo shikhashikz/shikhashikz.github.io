@@ -4,6 +4,7 @@ title: Are you sorted with your GTM strategy
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm gtm
 image: assets/images/MktngTrivia.jpg
+author: shikhashikz
 
 ---
 If you believe that **ONLY MARKETING** owns **GTM** strategy, then there is a lot of **UNLEARNING** which you need to do!

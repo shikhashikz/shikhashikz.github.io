@@ -4,6 +4,7 @@ title: Experiencing Pain, Sharing Sorrows
 category: blog
 keywords: blog writing author shikhashikz pain sorrow grief
 image: assets/images/22.05.png
+author: shikhashikz
 
 ---
 

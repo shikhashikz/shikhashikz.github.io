@@ -4,6 +4,7 @@ title: All I need to do is look up in the clouds
 category: blog
 keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge m
 image: assets/images/2311.jpg
+author: shikhashikz
 
 ---
 I find my strength in water, and the ever moving clouds.
