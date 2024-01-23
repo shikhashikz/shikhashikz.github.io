@@ -13,8 +13,6 @@ Now, here's where things get really interesting – I've been making waves in th
 
 But awards and titles aside, I'm not one to rest on my laurels. I'm always on the hunt for new knowledge, and you'll often catch me sharing my wisdom as a panelist at marketing events, whether they're virtual or in the flesh. I'm also a podcast guest, dishing out advice to fellow senior marketers.
 
-Now, let's talk about the future. I've got my eyes on the ever-evolving role of the CMO and how organizations are diving headfirst into the world of revenue and growth. Think of it as CMO 2.0 – I'm all in! Plus, I'm cooking up something special called "The C-Suite Tribe." It's like the coolest hangout spot for C-level executives, founders, advisors, and investors. We're shaping the future together.
-
 And when you catch me chatting, you'll hear me waxing poetic about:
 
 The epic journey to becoming a rockstar B2B Marketer and the secrets of the CMO roadmap.
@@ -25,5 +23,7 @@ CMRO – ever heard of it? Chief Marketing Revenue Officer, the next big thing.
 Dive deep into the mysteries of ABM, ABX, GTM, and RevOps – the building blocks of marketing success.
 So, what's my secret sauce? It's simple: I'm a relentless learner, and my motto is to keep Learning, Unlearning, and Relearning.
 Let's chat about your growth plans and strategy.
+
+*Tell me your Story!*
 
 -- Shikha Pakhide
