@@ -6,7 +6,7 @@ permalink: "/:year/:month/:day/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Shikha
-paginate: 30
+paginate: 20
 disqus: 'shikhashikz-in'
 locale: en_us
 lang: en_us
