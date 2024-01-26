@@ -64,16 +64,3 @@ Additional Information
 10. Catalog indexing engine
 11. Using open source maps
 12. Legal compliance & product safety
-
-<script>
-// Get all elements with the class 'btn'
-var links = document.querySelectorAll('.btn');
-
-// Attach click event listener to each link
-links.forEach(function(link) {
-  link.addEventListener('click', function() {
-    // Send event to Google Analytics
-    ga('send', 'event', 'Link', 'Click', 'h2s link clicked');
-  });
-});
-</script>
