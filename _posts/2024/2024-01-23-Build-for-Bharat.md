@@ -11,46 +11,46 @@ author: shikhashikz
 
 > Crafting the Future of E-Commerce: Be the Sculptor with Your Professional Expertise
 
-## ONDC's Build for Bharat Initiative ##
+## ONDC's Initiative ##
 
-In the rapidly evolving digital commerce landscape of India, the ***Open Network for Digital Commerce (ONDC)*** is spearheading a transformative initiative – **Build for Bharat.** Supported by *StartupIndia* and sponsored by industry leaders such as *Google Cloud, Antler, Paytm, and Protean,* this collaborative effort aims to address **e-commerce challenges** and explore innovative solutions through open networks.
-
-## Build for Bharat: A Platform for Transformation ##
-
-*Build for Bharat is a unique platform that welcomes professionals, entrepreneurs, and innovative startups to contribute to shaping a dynamic and inclusive e-commerce landscape in Bharat. This initiative provides a stage for pitching groundbreaking ideas that can open new avenues of opportunity for participants.*
-
+In the rapidly evolving digital commerce landscape of India, the Open Network for Digital Commerce (ONDC) is spearheading a transformative initiative – Build for Bharat. Supported by StartupIndia and sponsored by industry leaders such as Google Cloud, Antler, Paytm, and Protean, this collaborative effort aims to address **e-commerce challenges** and explore innovative solutions through open networks.
 
 ## Who Can Join? ## 
 
-*Professionals, startups, and students*
+Professionals, Entrepreneurs, Innovative Startups, and Students
+
 
 <div style="text-align: center;">
-<a href="https://hack2skill.com/hack/ondc-hackathon?utm_source=shikhashikz&utm_medium=shikhashikz" class="btn btn-dark text-white px-5 btn-lg">Register Now</a>
+<a href="https://hack2skill.com/hack/ondc-hackathon?utm_source=shikhashikz&utm_medium=shikhashikz" class="btn btn-dark text-white px-5 btn-lg">Powered by H2S</a>
 </div>
 
-## Next Gen Ventures: Exclusive Opportunities Await ##
+> Explore a diverse range of problem statements in the below section
 
-*For professionals, entrepreneurs, and startups with groundbreaking business solutions, the Next Gen Ventures track offers exclusive **Google Cloud credits** and the opportunity to join the prestigious **Antler India Residency Program**. Winners may also secure equity-based funding and mentorship from Antler India, providing an invaluable boost to their ventures.*
+## Next Gen Ventures ##
 
-## Hackathon Thrills: Shaping the Future of E-Commerce ##
+Exclusive Opportunities Awaits for professionals, entrepreneurs, and startups with groundbreaking business solutions. The Next Gen Ventures track offers exclusive **Google Cloud credits** and the opportunity to join the prestigious **Antler India Residency Program**. Winners may also secure equity-based funding and mentorship from Antler India, providing an invaluable boost to their ventures.
 
-*The Build for Bharat Hackathon provides an exciting opportunity for tech enthusiasts and innovators to dive into the world of innovation and revolutionize the e-commerce landscape. Participants can secure exclusive **Google Cloud credits and rewards up to millions**, making it a thrilling experience for those passionate about technology and its impact on digital commerce.*
+## Hackathon Thrills ##
 
-## Choose Your Challenge: Problem Statements Unveiled ##
-*For a comprehensive list, please refer to the end of this article.*
+Ready to contribute to shape the Future of E-Commerce? The Build for Bharat Hackathon provides an exciting opportunity for tech enthusiasts and innovators to dive into the world of innovation and revolutionize the e-commerce landscape. Participants can secure exclusive **Google Cloud credits and rewards up to millions**, making it a thrilling experience for those passionate about technology and its impact on digital commerce.
 
-Participants in the Hackathon can select from a diverse range of problem statements covering **logistics, retail commerce, and fintech.** With over 10 topics to choose from, including *reverse logistics, last-mile hyperlocal, and personalized customer experiences,* participants can tackle challenges that align with their expertise and interests.
+## Choose Your Challenge ##
 
-## Seizing the Opportunity: Build for Bharat ##
+> For a comprehensive list of problem statements, refer the last section
 
-*Join the movement, pick your challenge, and let your innovation reshape the future of digital commerce in Bharat.*
+Participants in the Hackathon can select from a diverse range of problem statements covering **logistics, retail commerce, and fintech.** With over 10 topics to choose from, including **reverse logistics, last-mile hyperlocal, and personalized customer experiences,** participants can tackle challenges that align with their expertise and interests.
+
+## Seizing the Opportunity ##
+
+Join the movement, pick your challenge, and let your innovation reshape the future of digital commerce in Bharat.
+
+Hurry up! Last date to Register is 31st January!!
 
 <div style="text-align: center;">
-<a href="https://hack2skill.com/hack/ondc-hackathon?utm_source=shikhashikz&utm_medium=shikhashikz" class="btn btn-dark text-white px-5 btn-lg">Register Now</a></div>
+<a href="https://hack2skill.com/hack/ondc-hackathon/signup?utm_medium=shikhashikz&utm_source=shikhashikz" class="btn btn-dark text-white px-5 btn-lg">Register Now</a></div>
 
-Additional Information 
 
-*More than 10 topics to choose from:*
+More than 10 topics to choose from:
 
 1. Reverse Logistics
 2. Last Mile Hyperlocal
@@ -64,3 +64,7 @@ Additional Information
 10. Catalog indexing engine
 11. Using open source maps
 12. Legal compliance & product safety
+
+
+
+Would love to hear your feedback. Do share your comments.
