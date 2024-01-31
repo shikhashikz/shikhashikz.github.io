@@ -1,13 +1,13 @@
 ---
-layout: post
 title: Be a Proton
-category: blog
+date: 2020-04-20 00:00:00 Z
+categories:
+- blog
+layout: post
 keywords: blog writing author shikhashikz fear proton
 image: assets/images/Be_a_proton.png
 author: shikhashikz
-
 ---
-
 
 It's a fearful task to start the first post of 2020, with the core theme of fear! But nevertheless, there has to be a moment when I put a period on the ever lingering fearful feeling. I dread doing so many things, and it's my fear which always prevents me from taking that first step towards the unknown. This post is actually a celebration of fear, the power it yields, and the pressure it creates on all of us! This is the single most important factor which had prohibited me to become a proton.
 

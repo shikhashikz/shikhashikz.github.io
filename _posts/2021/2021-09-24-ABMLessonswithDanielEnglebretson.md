@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Top Ten ABM Lessons
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
+date: 2021-09-24 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
 author: shikhashikz
-
 ---
+
 Another goldmine from Peak, session with **[Daniel Englebretson](https://www.linkedin.com/in/danielenglebretson/) on Ludicrous Mode: 10 Lessons Learned Launching 24 ABM Programs In 12 Months.**
 
 This is like a charter for ABM! It’s so normal that any campaign or new trend which a company adapts, they inch towards looking for quick-results, quick-wins etc. But like any other good things, ABM takes time. Daniel so aptly mentions that ***ABM team should not compete with their Demand Generation colleagues*** and the ***biggest misalignment is between Marketing and Marketing!*** Take your coffee, sit back and mull over these points. Daniel has gained these lessons over many years of his experience. Capturing them here:

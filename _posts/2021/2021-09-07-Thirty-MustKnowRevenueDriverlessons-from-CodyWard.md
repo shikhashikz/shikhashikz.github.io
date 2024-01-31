@@ -1,12 +1,15 @@
 ---
-layout: post
 title: 30 Revenue Rules with Cody Ward
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
+date: 2021-09-07 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
 author: shikhashikz
-
 ---
+
 30 Revenue Rules for More Effective, Scalable & Predictable Growth with **[Cody Ward](https://www.linkedin.com/in/codyward/)**
 
 >There are three problems around which everything revolves: Justification, Change and Optics

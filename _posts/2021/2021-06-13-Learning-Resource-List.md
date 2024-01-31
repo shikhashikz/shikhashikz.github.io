@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Let's Learn Together
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity learning bookrecommendation blogrecommendation
+date: 2021-06-13 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity learning
+  bookrecommendation blogrecommendation
 image: assets/images/LearningResources.jpg
 author: shikhashikz
-
 ---
+
 The Journey of Learning
 
 Learning never stops and our learning journey should also evolve and always be in motion. At every stage, we identify different resources on how to keep ourselves updated with the latest happenings in our interest area. Newspapers, subscriptions to the magazines, visiting the library and hunting for the relevant books or maybe having a conversation with the teachers, elders or learned people in that field.

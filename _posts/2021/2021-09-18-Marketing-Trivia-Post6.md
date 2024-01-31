@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Top Ten Marketing Takeaways POST6
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
+date: 2021-09-18 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
 author: shikhashikz
-
 ---
+
 **[Lisa Sharapata](https://www.linkedin.com/in/lisasharapata/), [Justin Keller](https://www.linkedin.com/in/justindkeller/) and [Nicholas Cappas](https://www.linkedin.com/in/nicholas-cappas-29a4439/) on Branding!**
 
 I can not get enough about Branding, as of course this subject is very close to my heart and I am “obsessed” about this topic! And it’s justified!! So, when I saw a session on ***How to develop a brand strategy w/ Lisa Sharapata, Justin Keller, and Nicholas Cappas*** dedicated in ***PEAK Community*** on my favorite subject, I of course immediately plugged in it. Bonus was: I was about to hear the wisdom nuggets coming from the influencers. 

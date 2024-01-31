@@ -1,12 +1,15 @@
 ---
-layout: post
 title: No Mean Feat
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge onelac word count novel
+date: 2021-08-21 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge onelac word count novel
 image: assets/images/WC.jpg
 author: shikhashikz
-
 ---
+
 I gave myself a pat on the back. I did it. But, now comes the hard part.
 
 >I have finished the first draft of my fourth book, which is the first novel I have written. I do not feel shy in confessing that the previous three writing pieces were the trials and working on this fiction series was indeed something.

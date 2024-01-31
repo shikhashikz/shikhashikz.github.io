@@ -1,11 +1,13 @@
 ---
-layout: post
 title: What is WD-40?
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge writing WD40
+date: 2021-08-12 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge writing WD40
 image: assets/images/Post133.jpg
 author: shikhashikz
-
 ---
 
 Raise your hand if you know what ***WD-40*** stands for! 

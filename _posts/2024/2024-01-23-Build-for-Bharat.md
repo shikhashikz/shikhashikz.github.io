@@ -1,12 +1,13 @@
 ---
-
-layout: post
 title: Build for Bharat
-category: blog
-keywords: ecommerce logistics retailcommerce fintech hackathon hack2skill reverse logistics hyperlocal inventorymanagement
+date: 2024-01-23 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: ecommerce logistics retailcommerce fintech hackathon hack2skill reverse
+  logistics hyperlocal inventorymanagement
 image: assets/images/Build for Bharat.png
 author: shikhashikz
-
 ---
 
 > Crafting the Future of E-Commerce: Be the Sculptor with Your Professional Expertise

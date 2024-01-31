@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Questioning Quietness
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
+date: 2021-06-30 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge
 image: assets/images/0307.jpg
 author: shikhashikz
-
 ---
 
 >For how many seconds/ minutes/ hours you can be QUIET?

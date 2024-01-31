@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Tips for a Healthy Social Feed
-category: blog
+date: 2021-05-21 00:00:00 Z
+categories:
+- blog
+layout: post
 keywords: blog writing author shikhashikz socialfeed howtoseries
 image: assets/images/21.05.png
 author: shikhashikz
-
 ---
 
 ***Cut the Noise, clean your feed.***

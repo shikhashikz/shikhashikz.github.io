@@ -1,12 +1,17 @@
 ---
-layout: post
 title: The Sacred World of Words for me
-category: blog
-keywords: blog writing author shikhashikz celebration celebrations celebrationtime celebrationoflife writinglife writingislife writingforlife writingismylife writingsforlife writingsavedmylife writingslife writingislovewritingislife lifeiswriting writingabookwillchangeyourlife writinglifestyle
+date: 2021-06-15 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz celebration celebrations celebrationtime
+  celebrationoflife writinglife writingislife writingforlife writingismylife writingsforlife
+  writingsavedmylife writingslife writingislovewritingislife lifeiswriting writingabookwillchangeyourlife
+  writinglifestyle
 image: assets/images/Post75.jpg
 author: shikhashikz
-
 ---
+
 > Milestone Number One
 > 
 

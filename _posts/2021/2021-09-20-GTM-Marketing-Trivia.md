@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Are you sorted with your GTM strategy
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm gtm
+date: 2021-09-20 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm gtm
 image: assets/images/MktngTrivia.jpg
 author: shikhashikz
-
 ---
+
 If you believe that **ONLY MARKETING** owns **GTM** strategy, then there is a lot of **UNLEARNING** which you need to do!
 
 This feels like a movement. I had never experienced this “tsunami” type of situation before where marketing concepts are going through a major overhaul, or I would say that we are going back to the core. GTM is the most widely discussed topic right now. During a recent thought leadership series hosted by **Peak Community** where **Sangram Vajre** was in conversation with **Tim Kopp** and **Bryan Brown,** I was in a dilemma about what to jot down, as I wanted to absorb everything what three stalwarts were discussing! I got few pointers:

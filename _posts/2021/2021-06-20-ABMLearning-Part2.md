@@ -1,11 +1,13 @@
 ---
-layout: post
 title: ABM Learning Continued
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost ABM ACCOUNTBASEDMARKETING
+date: 2021-06-20 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  ABM ACCOUNTBASEDMARKETING
 image: assets/images/ABMLEARNING.jpg
 author: shikhashikz
-
 ---
 
 Another gem of learning from **ITSMA.** A two hour session on ***“How the Rise of ABM is Changing Marketing”***

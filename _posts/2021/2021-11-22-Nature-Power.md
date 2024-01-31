@@ -1,12 +1,15 @@
 ---
-layout: post
 title: All I need to do is look up in the clouds
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge m
+date: 2021-11-22 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge m
 image: assets/images/2311.jpg
 author: shikhashikz
-
 ---
+
 I find my strength in water, and the ever moving clouds.
 
 Does not matter how dense or opaque the darkness is, light makes its way. It has the power to cut the chaos. Darkness does not have the strength to stop the light. Eventually, like a sharp knife, light pierces and shreds the darkness in such a way that after a while, we do not feel that the deep chasm inhabited the place.

@@ -1,12 +1,12 @@
 ---
-
-layout: post
 title: Customer Identification
-category: blog
+date: 2023-10-16 00:00:00 Z
+categories:
+- blog
+layout: post
 keywords: blog writing author shikhashikz writing writinglife writingcommunity
 image: assets/images/Super Tip ICP.png
 author: shikhashikz
-
 ---
 
 > Simplified and Streamlined: Marketing Streamlined Series.

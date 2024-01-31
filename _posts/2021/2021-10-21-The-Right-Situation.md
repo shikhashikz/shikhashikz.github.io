@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Are you in the right situation
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
+date: 2021-10-21 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge
 image: assets/images/2110.jpg
 author: shikhashikz
-
 ---
+
 ❓ Do you feel confident that you are in the place where you ought to be? 😕 
 
 With so much banging of my head, I have come to a resolution that one needs a situation to prove their worth, to check how good they are at a subject, if they can excel or they need to choose a different path altogether. All in all, you need a situation.

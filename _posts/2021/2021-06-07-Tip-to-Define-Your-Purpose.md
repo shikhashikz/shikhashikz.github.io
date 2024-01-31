@@ -1,12 +1,15 @@
 ---
-layout: post
 title: How to Define your Purpose
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge definepurpose personalmissionstatement  
+date: 2021-06-07 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge definepurpose personalmissionstatement
 image: assets/images/DefinePurpose.jpg
 author: shikhashikz
-
 ---
+
 Continuing with my learning from **Jay Shetty’s Book, Think like a Monk** and this time the topic revolves around Purpose and Vision.
 
 Quoting the text from his book:

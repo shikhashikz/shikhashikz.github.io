@@ -1,12 +1,15 @@
 ---
+title: Slaying Marketing Buzzwords
+date: 2021-08-28 00:00:00 Z
+categories:
+- blog
 layout: post
-title: Slaying Marketing Buzzwords 
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm
 image: assets/images/Post149.jpg
 author: shikhashikz
-
 ---
+
 I love it when professionals and entrepreneurs indulge in "real-marketing" with ZERO marketing budget!!!
 
 It’s super exciting to see when people at the prime age take the plunge into entrepreneurship and do not shy away from challenges. It’s again phenomenal to see that how younger generations join in full swing to make their dreams a reality. While working on the stories for WO-BRIGHT Magazine’s December 2021 issue, when I got to know about **[Akkabai](https://www.facebook.com/akkabaispecial/)** ***I knew it instantly that I have to bring her story to our readers. Why?*** 

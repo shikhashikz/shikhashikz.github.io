@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Install the Latest Version
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge skill expertise
+date: 2021-07-23 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge skill expertise
 image: assets/images/Post113.jpg
 author: shikhashikz
-
 ---
+
 We are so serious about the latest versions of the technology, that we never loose any time to get the devices upgraded.
 
 >Tom Peters in **Brand YOU** in his characteristic style remarks in his book:

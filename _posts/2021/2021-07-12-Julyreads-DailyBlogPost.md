@@ -1,12 +1,15 @@
 ---
-layout: post
 title: What are you reading
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge reading julyreads
+date: 2021-07-12 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge reading julyreads
 image: assets/images/Currentread.jpg
 author: shikhashikz
-
 ---
+
 >I am reading six books currently (Yes, I know!), and four of them are close to the finish lines. Multipliers and Brand YOU were the July additions.
 >
 

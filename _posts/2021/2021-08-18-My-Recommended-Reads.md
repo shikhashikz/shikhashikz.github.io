@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Books which I recommend for Reading
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost books
+date: 2021-08-18 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  books
 image: assets/images/Post139.jpg
 author: shikhashikz
-
 ---
+
 📖There is a reason books are a person’s best friend. 📖
 
 I have split my earlier single post, which captured the books which I am reading right now, my recommended reads and the books which are on my TBR list, into separate posts. 

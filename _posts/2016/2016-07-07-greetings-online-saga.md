@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Greetings Online Saga
-category: Blog
+date: 2016-07-07 00:00:00 Z
+categories:
+- Blog
+layout: post
 keywords: blog writing author shikhashikz newworld online vs offline
 summary: The shifting world of greetings
 author: shikhashikz
-
 ---
 
 Gone are the days when you used to spend some time in preparing a greeting card or had a diary where all the birthday dates and anniversaries were jotted down.We used to have a stack of cards given by near and dear ones.

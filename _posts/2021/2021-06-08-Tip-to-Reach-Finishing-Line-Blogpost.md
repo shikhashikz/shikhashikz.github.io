@@ -1,11 +1,13 @@
 ---
-layout: post
 title: How to Finish what you have started?
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost tiptoreachfinishingline
+date: 2021-06-08 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  tiptoreachfinishingline
 image: assets/images/finishingline.jpg
 author: shikhashikz
-
 ---
 
 Currently reading, **GRIT.**

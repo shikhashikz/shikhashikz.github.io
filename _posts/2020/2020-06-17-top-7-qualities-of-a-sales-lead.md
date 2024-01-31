@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Top 7 Qualities of an Ideal Sales Lead
-category: blog
+date: 2020-06-17 00:00:00 Z
+categories:
+- blog
+layout: post
 keywords: blog writing author shikhashikz saleslead leadmanagement demandgeneration
 image: assets/images/Top_7_Qualities.gif
 author: shikhashikz
-
 ---
 
 Top 7 Qualities of an Ideal Sales Lead

@@ -1,12 +1,12 @@
 ---
-
-layout: post
 title: Role of Content in Csuite Decision Making
-category: blog
+date: 2023-10-17 00:00:00 Z
+categories:
+- blog
+layout: post
 keywords: blog writing author shikhashikz writing writinglife writingcommunity
 image: assets/images/AMA Session 1.png
 author: shikhashikz
-
 ---
 
 > Simplified and Streamlined: Marketing Streamlined AMA Series

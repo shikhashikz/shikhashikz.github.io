@@ -1,13 +1,15 @@
 ---
-
-layout: post
 title: Introducing ShikhaShikz Marketing
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity marketing consultancy
+date: 2024-01-11 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity marketing
+  consultancy
 image: assets/images/The New chapter.png
 author: shikhashikz
-
 ---
+
 Thank you to everyone for the overwhelming good wishes and congratulatory messages following my [announcement](https://www.linkedin.com/feed/update/urn:li:activity:7148918401657200640/) of venturing into my own marketing consultancy. The excitement is still settling in, and, like any new endeavor, I am navigating the uncharted waters of my "new venture" and "new title."
 
 Had you asked me whether venturing into entrepreneurship was part of my grand plan, my unequivocal response would have been a resounding no! The notion of starting my own company wasn't on the drawing board; if anything, I had envisaged a path as a freelancer. Yet, as life is wont to do, it often unfolds in ways we least anticipate. I find myself not only at the crossroads of unexpected turns but joyfully wielding the baton of my own enterprise.

@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Top Ten Marketing Takeaways POST5
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
+date: 2021-09-17 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
 author: shikhashikz
-
 ---
+
 Do you know the concept of **"Relationship Flywheel"** discussed by **[Pablo Gonzalez](https://www.linkedin.com/in/pablotheconnector/)?**
 
 When you craft your approach around Go-to-Market, everything falls in place. Recently I attended [Pablo Gonzalez](https://www.linkedin.com/in/pablotheconnector/) session on *Tying Community to the Center of Go To Market In 1 Play: The Relationship Flywheel* which he had conducted for **PEAK Community.** His energy blew me. On a side note, happy to hear somebody who speaks as fast as I do! (Though I am working on to modulate my voice.) Diving straight in my key takeaways:

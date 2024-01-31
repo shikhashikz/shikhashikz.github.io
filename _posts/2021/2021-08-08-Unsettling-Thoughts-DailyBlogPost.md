@@ -1,11 +1,13 @@
 ---
-layout: post
 title: What are you Reading these days?
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge reading
+date: 2021-08-08 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge reading
 image: assets/images/Post129.jpg
 author: shikhashikz
-
 ---
 
 What kind of stories do you enjoy?

@@ -1,12 +1,12 @@
 ---
-
-layout: post
 title: 2S contributes to Marketing Success
-category: blog
+date: 2023-10-14 00:00:00 Z
+categories:
+- blog
+layout: post
 keywords: blog writing author shikhashikz writing writinglife writingcommunity
 image: assets/images/SimplStream.jpeg
 author: shikhashikz
-
 ---
 
 > simplifying and streamlining

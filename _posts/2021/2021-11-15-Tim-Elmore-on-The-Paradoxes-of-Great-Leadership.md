@@ -1,12 +1,15 @@
 ---
-layout: post
 title: First Learning Session after Break
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
+date: 2021-11-15 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
 author: shikhashikz
-
 ---
+
 Words of Wisdom from Tim Elmore: Do you read your people before you lead them?
 
 I wanted to end my festive break with the session from Tim Elmore which he did for Peak Community and I am so happy that I chose this one! Exploring the paradoxes of great leadership isn’t that great. Here goes my pointers:

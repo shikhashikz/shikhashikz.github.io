@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Two Sides of the Coin- Adversity and Prosperity
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge life 
+date: 2021-06-09 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge life
 image: assets/images/PostNo69.jpg
 author: shikhashikz
-
 ---
 
 **Adversity** and **Prosperity** always ***Create Amazing Stories.*** 

@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Top Ten Marketing Takeaways POST3
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
+date: 2021-09-15 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
 author: shikhashikz
-
 ---
+
 Podcast: April Dunford in conversation with Yaag.
 
 The thing about podcasts/ or any other marketing learning session is I get to know about books which I have not read and they sneakily enters my TBR! Recently I finished **[Yaag’s podcast with April Dunford](https://the-abm-conversations-podcast.simplecast.com/episodes/april-dunford-positioning-Rx8Glrdu)** and of course had a lot of key takeaways! She hit the death blow on most of the buzzwords, which I loved it (as I hate buzzwords) and the rapid fire round was a complete entertainer!

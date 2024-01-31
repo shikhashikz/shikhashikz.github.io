@@ -1,12 +1,15 @@
 ---
-layout: post
 title: An ART or a SCIENCE
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing
+date: 2021-07-30 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing
 image: assets/images/Post120.jpg
 author: shikhashikz
-
 ---
+
 When Art and Science, comes together, MAGIC HAPPENS!
 
 In one of the sessions, a noteworthy quote came out:

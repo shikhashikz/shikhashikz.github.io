@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Reflect on your Fiction Work
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
+date: 2021-10-18 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge
 image: assets/images/1810.jpg
 author: shikhashikz
-
 ---
+
 But there are people who will first share their personal milestones, and then work will follow.
 
 >Write what you like, then imbue it with life and make it unique by blending in your personal knowledge of life, friendship, relationship, sex, and work. Especially work. People love to read about work. God knows why, but they do.

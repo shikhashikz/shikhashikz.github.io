@@ -1,13 +1,15 @@
 ---
-layout: post
 title: Gang of Insomniacs
-category: Book
+date: 2017-03-06 00:00:00 Z
+categories:
+- Book
+tags:
+- book
+layout: post
 keywords: mother insomniacs
-tags: book 
 summary: There is nothing "normal" in motherhood journey
 image: assets/images/gang_of_insomniacs.jpg
 author: shikhashikz
-
 ---
 
 Celebrating Motherhood! 

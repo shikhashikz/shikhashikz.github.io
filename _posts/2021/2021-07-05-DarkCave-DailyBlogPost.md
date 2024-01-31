@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Everyone was bitten once by the "Ego Sting"
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
+date: 2021-07-05 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge
 image: assets/images/Post95.jpg
 author: shikhashikz
-
 ---
+
 Excerpt from Jay Shetty’s book. Think like a Monk.
 
 ***In the darkness of the ego we think we’re special and powerful and significant, but when we look at ourselves in the context of the great universe, we see that we only play a small part. To find true humility, like the firefly, we must look at ourselves when the sun is out and we can see clearly.”***

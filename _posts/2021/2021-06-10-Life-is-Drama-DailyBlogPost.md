@@ -1,12 +1,15 @@
 ---
-layout: post
 title: It's Dramatic
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge life experiences 
+date: 2021-06-10 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge life experiences
 image: assets/images/Dramapost70.jpg
 author: shikhashikz
-
 ---
+
 *Will life be boring without any DRAMA?*
 
 There is so much drama going around us that it’s overwhelming. **I do like Drama, but only to read in fiction and also to create them in my novels.** 📖

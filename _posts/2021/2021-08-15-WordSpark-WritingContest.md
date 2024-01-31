@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Announcement- WORDSPARK CONTEST
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing
+date: 2021-08-15 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing
 image: assets/images/WORDSPARKCONTEST.jpg
 author: shikhashikz
-
 ---
+
 We all love stories, now it's your chance to craft one! Don't be shy and shake the pen!!
 
 In the spirit to ***promote reading and writing at an early stage,*** I have started a **writing contest**, named as **WordSpark.** ✨Why WordSpark, because word sparks that dormant force in us which is lying unexplored. Words are that force which has the power to move mountains. ⛰️

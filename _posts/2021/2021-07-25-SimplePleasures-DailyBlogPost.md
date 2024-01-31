@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Look Around, and you will definitely smile
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
+date: 2021-07-25 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge happiness suffering life experiences
 image: assets/images/Post115.jpg
 author: shikhashikz
-
 ---
 
 Binge watching on Nature and things around you can also make you happy. You just need to open your eyes.

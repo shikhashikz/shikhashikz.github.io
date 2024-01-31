@@ -1,11 +1,13 @@
 ---
+title: Learnings from Current Read
+date: 2021-06-21 00:00:00 Z
+categories:
+- blog
 layout: post
-title: Learnings from Current Read 
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge GRIT angeladuckworth currentread
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge GRIT angeladuckworth currentread
 image: assets/images/2206.jpg
 author: shikhashikz
-
 ---
 
 Lessons Learnt from Current Read, *GRIT*

@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Experiencing Pain, Sharing Sorrows
-category: blog
+date: 2021-05-22 00:00:00 Z
+categories:
+- blog
+layout: post
 keywords: blog writing author shikhashikz pain sorrow grief
 image: assets/images/22.05.png
 author: shikhashikz
-
 ---
 
 ***It's a Human Tendency to allocate minimum amount of screen time to PAIN***

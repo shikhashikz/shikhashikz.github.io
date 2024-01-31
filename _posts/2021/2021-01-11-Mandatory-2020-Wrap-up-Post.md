@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Mandatory 2020 wrap up Post!
-category: blog
+date: 2021-01-11 00:00:00 Z
+categories:
+- blog
+layout: post
 keywords: blog writing author shikhashikz philosophy mindfulness learnings
 image: assets/images/NY2021.jpg
 author: shikhashikz
-
 ---
 
 Everybody is talking about 2020. It feels it’s mandatory to write a goodbye note for 2020. Yes, everyone wanted 2020 to be over because of all the reasons we know. However, I am finding it weird that everyone was desperately waiting for the midnight gong of 31st Dec. There was no magic wand which was going to whoosh away corona. Indeed it’s a deadly disease. Apart from the safety measure which we can take, there is nothing else which we can do.(I will not touch upon the spiritual aspects, saving this subject for some other day). Healthcare industry is working round the clock for the vaccine. Let’s trust our healthcare professionals and from our end, we make a conscious effort on stepping out, only with the mask on. I believe “mask” and “basic sanitation guidelines” are the gifts which 2020 silently wanted to give it to us.

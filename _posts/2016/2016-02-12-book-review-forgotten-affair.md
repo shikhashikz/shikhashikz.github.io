@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Book Review A Forgotten Affair
-category: [Book Review]
+date: 2016-02-12 00:00:00 Z
+categories:
+- Book Review
+layout: post
 keywords: blog
 author: shikhashikz
-
 ---
+
 Readers are weird! I am a writer and a reader, so I can vouch for the queer way a reader’s mind works. Anything can click or turn them off! I loved the way A Forgotten Affair is printed. The font and the way it’s formatted. I know it’s a strange way to start the review but that’s the first thing which I liked about the book. The title did hint towards the fact that the lead character will be going through memory loss. 
 
 I was prepared that the book will unfold lot of dramatic situations and tempers will be running high. It’s like yesteryear's movie where a person forgets everything, the people surrounding them leave no stone unturned that the past is completely wiped off and a fresh start is made. They do not realize that we have only one life and one memory. Another point to highlight is the naming convention of the characters. Sagarika, the lead character, her name reflects a certain sense of carefree nature, resolute in her mind but unsure of her decisions at few occasions. Rishabh, her husband, sounds like who is more business-like and everything to him translates into the money equation. Akash, who like his name is a wandering cloud. Roohi who is in search of the true meaning of her life. Love and Ego cannot exist together. This point is validated by the book. 

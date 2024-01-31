@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Key to add zing to your SEO plans
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing SEO
+date: 2021-09-06 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing SEO
 image: assets/images/MktngTrivia.jpg
 author: shikhashikz
-
 ---
+
 This post is intended for readers who has a basic understanding of SEO and are looking for sites which can help them in SEO Optimization journey.
 
 ***What is the importance, quality and relevance of your keywords! We use search as the second brain!***

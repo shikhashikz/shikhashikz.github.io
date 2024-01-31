@@ -1,11 +1,13 @@
 ---
-Layout: post
 title: How do you see your Old Age
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
+date: 2020-08-30 00:00:00 Z
+categories:
+- blog
+Layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge
 image: assets/images/Post#151.jpg
 author: shikhashikz
-
 ---
 
 Tell me two things, one evident and one not so evident which will adorn your Birthday Photo when you turn 50/60/70?

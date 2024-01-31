@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Voice, Do you Hear it?
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge life experiences 
+date: 2021-06-12 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge life experiences
 image: assets/images/voice.jpg
 author: shikhashikz
-
 ---
 
 Post#72

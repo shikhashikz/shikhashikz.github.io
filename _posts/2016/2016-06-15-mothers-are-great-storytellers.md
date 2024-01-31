@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Mothers are Great Storytellers
-category: Blog
+date: 2016-06-15 00:00:00 Z
+categories:
+- Blog
+layout: post
 keywords: Blog
 summary: Donning several hats at once
 author: shikhashikz
-
 ---
 
 Does this reverberate with you ? With me totally does.I am astonished at my own creativity on how I can spin a tale around anything.I have to feed her food , pop comes a story ; She needs to take a bath , there comes this new character ; I need to get her ready to school ; the charade of characters come live.WOW ! We are so creative.I am never alone with my daughter when we are engaged in daily chores.Sometimes , nursery rhymes give me company or that BIG MONSTER who is lurking behind the curtain or the witch with the big nails and open hair who will eat her in no second if she does not finish her food on time.Every task does become a marathon and I have to make it interesting for her.My professional skills does come in handy sometimes.How to make her buy that task and how to make that experience enriching for her and plus I need to add the topping of “ good morals “

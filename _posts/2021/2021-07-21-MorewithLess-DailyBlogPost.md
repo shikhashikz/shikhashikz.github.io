@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Resource Leverage
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge bookdiscussion multiplier
+date: 2021-07-21 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge bookdiscussion multiplier
 image: assets/images/Post111.jpg
 author: shikhashikz
-
 ---
+
 ***Resource Leverage Creates Competitive Advantage***
 
 Book Quote: Multipliers

@@ -1,13 +1,13 @@
 ---
-layout: post
 title: Book Review Colorful Notions
-category: [Book Review]
+date: 2016-04-05 00:00:00 Z
+categories:
+- Book Review
+layout: post
 keywords: blog
 summary: Book Review
 author: shikhashikz
-
 ---
-
 
 Readers of this book can be divided in two categories : who have done a road trip and who would like to do a road trip after reading this book.I belong to the former category.Flipping through the pages made me nostalgic about my Ladakh road trip.Though it was only for fifteen days, but those fifteen days took us through various highs and lows.Yes ebbs and flows which engulfed everything; be it the surroundings, the food, emotions or relationships.I was wondering that if in fifteen days I witnessed the REAL world around me, what will happen if I am on the road for more than a month.Someday, Someway, I will be able to accomplish a long road trip as well (with my two monkeys) Amen!
 

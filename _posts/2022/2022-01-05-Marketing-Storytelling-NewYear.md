@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Let the story begun
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
+date: 2022-01-05 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm
 image: assets/images/050122.jpg
 author: shikhashikz
-
 ---
+
 Wish you all a Very Happy New Year! 💥 🎆
 
 I believe storytelling is a very important part of Marketing. Capturing the set of stories which bowled me over over the past few weeks!

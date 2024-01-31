@@ -1,12 +1,15 @@
 ---
+title: Cover Feature Reveal
+date: 2021-09-19 00:00:00 Z
+categories:
+- blog
 layout: post
-title: Cover Feature Reveal 
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge WOBRIGHT DEC2021
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge WOBRIGHT DEC2021
 image: assets/images/Dec2021.jpg
 author: shikhashikz
-
 ---
+
 WO-BRIGHT, Second Edition, December 2021: Cover Feature, Zinal Doshi- Founder The Flapper Life
 
 This is a sneak peek.

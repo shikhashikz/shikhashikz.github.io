@@ -1,12 +1,15 @@
 ---
-layout: post
 title: How to create a Job Scorecard
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
+date: 2021-08-31 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge
 image: assets/images/Post152.jpg
 author: shikhashikz
-
 ---
+
 💯 What is a Job scorecard? 💯
 
 There is this direction and confidence which Peak Community’s Premium Circle Emerging CMOs have given it to me. At present, I am evaluating opportunities which will help me to inch closer to my goal of becoming CMO. And this meant doing a total rejig of my personal brand, positioning and the messaging. While going through the jobs section of the community, I came across **[Amy Volas blog post on Job Scorecard.](https://avenuetalentpartners.com/2021/07/26/job-scorecard-dream-sales-gig/)** It’s of immense value and why you should read it? 🚩

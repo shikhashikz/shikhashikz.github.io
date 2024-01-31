@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Connect the Dots
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm 2022 marketingplan
+date: 2021-12-13 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm 2022 marketingplan
 image: assets/images/MktngTrivia.jpg
 author: shikhashikz
-
 ---
+
 How are you doing with your 2022 Marketing Planning? 🪃
 
 Over the weekend I watched a latest Bollywood movie and the last season of Money Heist. The genre of both the entertainment is poles apart, but it entertained me, stirred the right emotions. This made me realize if the content can strike the chord with the audience, the battle is won, and which is also the crux of superb storytelling. 💥

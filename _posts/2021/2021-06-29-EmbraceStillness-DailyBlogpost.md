@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Stillness vs Movement
-category: blog
-keywords: blog wednesdaymotivation wednesdaythoughts wednesdaymood writing reading author quote shikhashikz
+date: 2021-06-29 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog wednesdaymotivation wednesdaythoughts wednesdaymood writing reading
+  author quote shikhashikz
 image: assets/images/2906.jpg
 author: shikhashikz
-
 ---
+
 >Stillness is Questioned and Movement is celebrated.
 >
 I am an early bird and start my day at 4.30 am. Why I prefer morning hours is because, at that particular time, the house is silent. Though I can hear the fan buzzing, or the snores, or the occasional dishwasher sound. But those do not bother me, as that’s the time I have for myself to finish my morning chores and get going with my day. Slowly and steadily I realized that the stillness of the house is also echoed in nature or it’s the other way around. Parents who have kids will relate with me, that what I mean by “house is silent and I am scared to make any noise so that I do not wake up tiny tots!”

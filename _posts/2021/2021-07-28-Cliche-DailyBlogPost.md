@@ -1,12 +1,15 @@
 ---
-layout: post
 title: What are the stereotypes which makes your crazy
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge stereotype
+date: 2021-07-28 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge stereotype
 image: assets/images/Post118.jpg
 author: shikhashikz
-
 ---
+
 Moment which made me cringe.
 
 My 5-year-old boy was attending his class. His other classmate probably had a moment and he started crying.  And the teacher, who is in her 20s, told my son,

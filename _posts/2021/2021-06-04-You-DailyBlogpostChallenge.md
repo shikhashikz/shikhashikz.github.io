@@ -1,11 +1,13 @@
 ---
-layout: post
 title: YOU
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost journey life grit
+date: 2021-06-04 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  journey life grit
 image: assets/images/YOU.jpg
 author: shikhashikz
-
 ---
 
 Who holds the reins? 

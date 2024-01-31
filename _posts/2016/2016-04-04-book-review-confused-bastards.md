@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Book Review Confused Bastards
-category: [Book Review]
+date: 2016-04-04 00:00:00 Z
+categories:
+- Book Review
+layout: post
 keywords: blog writing author shikhashikz bookreview
 summary: Never judge a book by it’s cover and yes by the title as well
 author: shikhashikz
-
 ---
 
 What happens when :

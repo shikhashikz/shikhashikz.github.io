@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Rushed Deadlines are a pass
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge deadlines
+date: 2021-08-05 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge deadlines
 image: assets/images/Post128.jpg
 author: shikhashikz
-
 ---
+
 Which Deadline are you Chasing Today?
 
 >Gone are the days when the rush of a deadline excited me. Now if I am given rushed timelines, I pity that person’s poor planning. 

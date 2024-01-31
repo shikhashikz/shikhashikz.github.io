@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Whats your Dress Code?
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge habit
+date: 2021-06-22 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge habit
 image: assets/images/2306_Dresscode.jpg
 author: shikhashikz
-
 ---
 
 Do you have a dress code? Why is that we go gaga over stuffed closets, and tons of hanging dresses. Isn’t it stressful to decide every day or on every occasion what to wear, and then rack our heads with the matching spree. Without realizing we have used an immense quota of our energy in this “trivial decision making”. Why do you think some of the famous leaders profess on selecting a dress code to free up your mind? It will be useful for you to search for Steve Job, Mark Zuckerberg and Arianna Huffington’s dress code.

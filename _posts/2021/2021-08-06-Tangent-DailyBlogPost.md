@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Tangential relationship on your Goals Stickiness
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
+date: 2021-08-06 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge happiness suffering life experiences
 image: assets/images/Post127.jpg
 author: shikhashikz
-
 ---
 
 Why do we go tangent from our goals? 

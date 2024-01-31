@@ -1,12 +1,12 @@
 ---
-layout: post
-author: Shikha
-category: [Book Review]
 title: Book Review Harry Potter (My Favorite)
+date: 2016-04-06 00:00:00 Z
+categories:
+- Book Review
+layout: post
+author: shikhashikz
 keywords: harry potter review
 summary: My Favourite - Harry Potter book review
-author: shikhashikz
-
 ---
 
 I love Harry Potter. Now this statement does not convey my feelings and how much regard I have for JKR. Let me try to say it one more time: I lovvvvvvvvvvvvvvvvvvveeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee Harrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrryyyyyyyyyyyyyyyyyyyyyyyy Pottttttttttttttttttttttttttttteeeeeeeeeeeeeeeeeeerrrrrrrrrrrrrrrrrrrrrrr. I am little satisfied with the expression now and pray that the editor does not cut this piece off. After Voldermort, editors are the one who are capable of invoking the most dreadful feeling!

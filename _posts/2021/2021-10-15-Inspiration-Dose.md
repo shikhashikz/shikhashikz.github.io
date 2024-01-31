@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Inward or Outward
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
+date: 2021-10-15 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge
 image: assets/images/Inspiration.jpg
 author: shikhashikz
-
 ---
+
 From where should I derive Inspiration?
 
 >Going through my previous posts, I realized that during my low moment, all I need to do is come back to the golden words which I have posted and there will be no dearth of motivation. 💯

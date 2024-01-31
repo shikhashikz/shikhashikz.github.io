@@ -1,12 +1,14 @@
 ---
-layout: post
 title: Celebration and Desolation
-category: blog
-keywords: blog writing author shikhashikz life experiences realfriends 
+date: 2021-05-25 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz life experiences realfriends
 image: assets/images/TimeTest.png
 author: shikhashikz
-
 ---
+
 Is your world crowded in celebration, and lonely in desolation?
 
 *Who was standing with you when your world was falling?*

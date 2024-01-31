@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Titles which I plan to Read
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost books
+date: 2021-08-19 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  books
 image: assets/images/Post140.jpg
 author: shikhashikz
-
 ---
+
 💖I have saved the names of the books which I plan to read in so many places. 💖
 
 >I had to dig through innumerable saved insta posts, my multiple notebooks to get going with this list. I am sure I would have missed some of them and will keep on updating this list. One thing I can promise you is, this list will never be empty! 📖

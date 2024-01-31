@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Tips to Survive Lockdown!
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity blogger blogging lockdown checklist 
+date: 2021-05-26 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity blogger
+  blogging lockdown checklist
 image: assets/images/LockdownChecklist.jpg
 author: shikhashikz
-
 ---
 
 This was how I started in 2020, and still holds true! How I have survived the lockdown, and still surviving 😊

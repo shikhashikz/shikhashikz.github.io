@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Reflections
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
+date: 2021-08-01 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge happiness suffering life experiences
 image: assets/images/Post122.jpg
 author: shikhashikz
-
 ---
+
 Fear shuts us, and makes us blind to the realitya round us.
 
 ***When we are afraid, we do not see clearly…..I didn’t see what I wanted to see. I saw what I was afraid of seeing. Critical thinking is always difficult, but it’s almost impossible when we are scared. There’s no room for facts when our minds are occupied by fear.***

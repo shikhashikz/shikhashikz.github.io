@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Low High Steady
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
+date: 2021-07-13 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge happiness suffering life experiences
 image: assets/images/1307.jpg
 author: shikhashikz
-
 ---
+
 "Nobody completes you. You’re not half. You don’t have to be perfect, but you have to come to a place of giving. Instead of draining anyone else, you’re nourishing them.
 
 …until you heal the wounds of your past, you will continue to bleed. You can bandage the bleeding with food, alcohol etc, but eventually, it will all ooze through and stain your life."

@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Marketing's Achilles Heel
-category: blog
-keywords: blog writing author shikhashikz saleslead leadmanagement demandgeneration insidesales blogseries 
+date: 2020-07-29 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz saleslead leadmanagement demandgeneration
+  insidesales blogseries
 image: assets/images/MAH.JPG
 author: shikhashikz
-
 ---
+
 **It’s an uphill task to get prospects pulled like a magnet to your website.**
 
 There are some persistent topics which gives a heart ache to marketing team. 

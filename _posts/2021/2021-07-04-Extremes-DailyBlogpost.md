@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Are you always Hanging like a Pendulum
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
+date: 2021-07-04 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge
 image: assets/images/Post94.jpg
 author: shikhashikz
-
 ---
+
 >Highs and Lows
 
 ***“When my world was rocked, my self-esteem plummeted, Low self-esteem is the flip side of an inflated ego. If we’re not everything, we’re nothing. If I’m not great, I am terrible. The two extremes are equally problematic. Sometimes it takes the deflated ego to show you what the inflated ego thought of itself. I was humbled.”

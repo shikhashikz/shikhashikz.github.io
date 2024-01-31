@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Book Review Dream Big
-category: [Book Review]
+date: 2016-04-08 00:00:00 Z
+categories:
+- Book Review
+layout: post
 keywords: Blog
 summary: Go to Guide on Financial Planning
 author: shikhashikz
-
 ---
 
 Money: Five letter word around which the world goes around. Not in a literal sense but yes for some of us it’s THE MOST important aspect and their life revolves around it. They want to earn more and more and more. But do you think earning more will make them rich, or maybe super rich, oh yes millionaire. They think so that more money will solve their problems. But in reality, even if a person is earning 1crore per month and he/she is not managing his/her money wisely, he/she will never attain financial independence. And the definition of financial independence is different for everybody. However the goal is generally same for all where we would like to be free from debt and have good amount of cash available for emergencies. 

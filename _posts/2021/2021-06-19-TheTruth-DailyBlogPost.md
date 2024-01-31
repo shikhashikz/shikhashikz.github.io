@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Do you have the guts to handle TRUTH?
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
+date: 2021-06-19 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge happiness suffering life experiences
 image: assets/images/Post79.jpg
 author: shikhashikz
-
 ---
+
 #KnowSamisha
 
 She hated the truth because somehow it exposed the failures which she had seen, it was exposing those wounds which even time could not heal, it brought light to those phases of her life which were the “darkest hours”

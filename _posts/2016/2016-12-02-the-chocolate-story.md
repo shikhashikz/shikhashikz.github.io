@@ -1,11 +1,12 @@
 ---
-layout: post
 title: The Chocolate Story
-category: blog
+date: 2016-12-02 00:00:00 Z
+categories:
+- blog
+layout: post
 keywords: blog writing author shikhashikz health parenting advice
 summary: Are you buying chocolates for the kids when paying a visit to them? STOP
 author: shikhashikz
-
 ---
 
 Holiday visits from friends, family and guest can prove difficult at times. One familiar scene that often makes moms cringe from my own experience…

@@ -1,12 +1,14 @@
 ---
-layout: post
 title: Ditch the Tummy Tucker
-category: Blog
+date: 2017-04-17 00:00:00 Z
+categories:
+- Blog
+layout: post
 keywords: health workout motherhood postdelivery selfhelp
 image: assets/images/Ditch_the_tummy_tucker.jpeg
 author: shikhashikz
-
 ---
+
 You have still not recovered from the aftermaths of becoming a mother, and that too twice, then how can you think about getting rid of the double chin and the tummy bulge! 
 
 There is a humor attached to the extra kilos which one carry; It denotes that you are doing good in life. Never ever take this statement seriously as it will humorously do more harm than you can ever anticipate!

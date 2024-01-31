@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Book Review Flawed
-category: [Book Review]
+date: 2016-03-31 00:00:00 Z
+categories:
+- Book Review
+layout: post
 keywords: blog
 author: shikhashikz
-
 ---
+
 When I picked up this book, I was not sure if I will be able to complete the book. I became a big fan of Cecelia Ahern when I finished P.S. I Love You. I just could not get over Holly’s loss. That was the only book whose chapters have been re-read. I had similar expectations from Where Rainbows End when I bought this. Each book is different and somehow they did not entertain me much.
 
 It was quite a while that I had not read anything coming from Cecilia. It was a chance stumble at this book. I was returning from a daylong event and my flight was delayed by three hours because of bad weather. It was late in the evening as well and I did not prefer draining away my time on the internet. I decided to head the bookstore at the airport and was browsing through different collections in the fiction section. I saw this book, and gave a long glance at the title Flawed. It seemed interesting to me and then I saw the author name. I was in two minds after my experience with Rainbows but then I decided, let me give it a try. I read the excerpt and proceeded towards the counter.

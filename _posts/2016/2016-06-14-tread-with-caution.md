@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Tread with Caution
-category: Blog
+date: 2016-06-14 00:00:00 Z
+categories:
+- Blog
+layout: post
 keywords: Blog
-summary: The thoughts are coming straight from a mother’s heart, so expect hysteria, ups,and downs, emotions at large!
+summary: The thoughts are coming straight from a mother’s heart, so expect hysteria,
+  ups,and downs, emotions at large!
 author: shikhashikz
-
 ---
 
 Many times I feel like giving myself a pat on my back.Yes, it’s crazy.With a hyperactive toddler and an infant, life does seem to be a roller coaster ride.There are moments when I did not have time to comb my hair, brush my teeth or simply visit the washroom.But I had my babies neatly dressed, perfectly combed and yes I did take them to pee every single hour.Such is the tale of a mother and I do not have any regrets in looking like a disaster or attending a party sans makeup.Thank God I did have time to wear proper clothes and comb my hair.

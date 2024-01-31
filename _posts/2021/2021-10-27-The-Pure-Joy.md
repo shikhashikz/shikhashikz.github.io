@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Are you on High or Feeling Low
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
+date: 2021-10-27 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge
 image: assets/images/2710.jpg
 author: shikhashikz
-
 ---
+
 ❓Have you achieved that state where you are neither on a High or swaying in the lowest ebb?
 
 

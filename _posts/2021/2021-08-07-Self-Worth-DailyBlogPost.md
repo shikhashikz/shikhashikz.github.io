@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Self-Worth Discovery, it's a Journey
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
+date: 2021-08-07 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge happiness suffering life experiences
 image: assets/images/Post1281.jpg
 author: shikhashikz
-
 ---
 
 What’s the whole drama on self-worth..

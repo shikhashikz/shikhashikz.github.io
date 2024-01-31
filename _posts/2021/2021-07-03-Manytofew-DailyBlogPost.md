@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Do you love Crowd
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
+date: 2021-07-03 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge
 image: assets/images/Post93.jpg
 author: shikhashikz
-
 ---
 
 Do you always want to be in the Spotlight with thousand eyes gazing at you?

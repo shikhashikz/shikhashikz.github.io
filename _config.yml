@@ -1,13 +1,21 @@
-title: "ShikhaShikz"
-email: shikha@shikhashikz.com
+---
+title: ShikhaShikz
 timezone: UTC
-baseurl: ""
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: shikha@shikhashikz.com
+baseurl: ''
 permalink: "/:year/:month/:day/:title/"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: assets/images/logo.png
+favicon: assets/images/favicon.ico
 author: Shikha
 paginate: 20
-disqus: 'shikhashikz-in'
+disqus: shikhashikz-in
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -21,27 +29,22 @@ sass:
   sass_dir: _sass
   style: :compressed
 ganalytics: G-XNMXXQGV3T
-
-# Authors
 authors:
   shikhashikz:
     name: shikhashikz
     display_name: Shikha
-    avatar: 'assets/images/shikha_avatar.png'
+    avatar: assets/images/shikha_avatar.png
     email: shikha@shikhashikz.com
     web: https://shikhashikz.com
     twitter: https://twitter.com/shikhashikz
-    description: "Creates the Zing factor in Marketing | Books are my Best Friend , Tea is my favorite beverage & Travelling to places is my hobby | A story teller."
-
-# Social
+    description: Creates the Zing factor in Marketing | Books are my Best Friend ,
+      Tea is my favorite beverage & Travelling to places is my hobby | A story teller.
 social:
   instagram: https://www.instagram.com/shikhashikz/
   facebook: https://www.facebook.com/shikhashikz
   twitter: https://twitter.com/shikhashikz
   linkedin: https://linkedin.com/companies/shikhashikz
-
-# Plugins
-plugins: 
+plugins:
 - jekyll-paginate
 - jekyll-sitemap
 - jekyll-feed

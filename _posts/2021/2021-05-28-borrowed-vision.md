@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Eyes, But with Borrowed Sight
-category: blog
-keywords: blog writing author shikhashikz life experience judgement bias perception writing writinglife writingcommunity
+date: 2021-05-28 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz life experience judgement bias perception
+  writing writinglife writingcommunity
 image: assets/images/Vision.jpg
 author: shikhashikz
-
 ---
 
 Looking at the world with tinted glasses 👓

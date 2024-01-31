@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Whats your Avatar
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
+date: 2022-01-31 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm
 image: assets/images/3101.jpg
 author: shikhashikz
-
 ---
+
 You do not hit the Ground from Day one but from Day Zero!
 
 Reminder to Self: the only committment is the lifelong relationship with Growth. Don't forget you are that block on the chart, which can easily vanish away with just one key!

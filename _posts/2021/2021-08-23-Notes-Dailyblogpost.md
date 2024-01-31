@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Do you take Notes while reading
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge reading
+date: 2021-08-23 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge reading
 image: assets/images/Post144.jpg
 author: shikhashikz
-
 ---
 
 The way you take notes, speaks a lot about you.

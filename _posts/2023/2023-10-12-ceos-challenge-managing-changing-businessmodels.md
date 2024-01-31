@@ -1,12 +1,12 @@
 ---
-
-layout: post
 title: CEOs Challenge Managing Changing Business Models
-category: blog
+date: 2023-10-12 00:00:00 Z
+categories:
+- blog
+layout: post
 keywords: blog writing author shikhashikz writing writinglife writingcommunity
 image: assets/images/CEO Challenge.jpeg
 author: shikhashikz
-
 ---
 
 Decoding the CEO's Dilemmas: Exploring the Challenges of Navigating the AI Revolution and Shaping Future Business Models Driven by Artificial Intelligence.

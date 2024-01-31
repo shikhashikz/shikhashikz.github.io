@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Move Move Move
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
+date: 2021-09-22 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
 author: shikhashikz
-
 ---
+
 Sangram Vajre in conversation with Jill Rowley, Bryan Brown, Lydia Flocchini and Darryl Praill on why the concepts discussed in MOVE is SUPER IMPORTANT for Marketing Industry.
 
 One has to keep on repeating the message until that message becomes your second nature. And that’s what the sessions dedicated to the MOVE book are doing. It was amazing to hear from **[Jill Rowley](https://www.linkedin.com/in/jillrowley/)** and **[Bryan Brown](https://www.linkedin.com/in/getvision/)** on the journey. 

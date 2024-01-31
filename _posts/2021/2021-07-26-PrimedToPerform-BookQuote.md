@@ -1,12 +1,15 @@
 ---
-layout: post
 title: The Land of Thousand Ladders
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge bookquote primedtoperform
+date: 2021-07-26 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge bookquote primedtoperform
 image: assets/images/Post116.jpg
 author: shikhashikz
-
 ---
+
 Primed To Perform debunks a myth.
 
 “It’s easy to assume that money is the most powerful indirect motivator in an organization. But what about the prestige that comes with career advancement? What about the pressure and fear that comes from not being advanced? When you’re up for a promotion, or in danger of being fired, you experience the highest levels of emotional and economic pressure.

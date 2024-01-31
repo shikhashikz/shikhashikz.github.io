@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Don't shun your Failures
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
+date: 2021-07-16 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge happiness suffering life experiences
 image: assets/images/0716.jpg
 author: shikhashikz
-
 ---
 
 When was the last time did you celebrate your failures?

@@ -1,12 +1,15 @@
 ---
-layout: post
 title: How often do you write
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
+date: 2021-08-04 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge happiness suffering life experiences
 image: assets/images/Post125.jpg
 author: shikhashikz
-
 ---
+
 Practise, Practise, and Practise. There is no end to practise.
 
 I am in more control of my routine for the past sixteen months. Earlier it was more like a Tom and Jerry chase game where I was constantly chasing stuff and rushing from one stuff to another. The working hours were haywire and I was always in the adjusting mode. What is meant by Quality work or spending quality time, seemed like an utopian idea. My past sixteen months were totally devoted to the most important project of my life, and that’s me. My list started like this,

@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Did you say ThankYou
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
+date: 2021-07-08 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge happiness suffering life experiences
 image: assets/images/0807.jpg
 author: shikhashikz
-
 ---
 
 Create your Gratitude Pledge

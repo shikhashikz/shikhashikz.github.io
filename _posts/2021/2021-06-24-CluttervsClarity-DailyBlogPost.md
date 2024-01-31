@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Nobody likes Mess
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge life experiences 
+date: 2021-06-24 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge life experiences
 image: assets/images/2506Friday.jpg
 author: shikhashikz
-
 ---
+
 The most difficult Clutter to clear is in our MINDS!
 
 

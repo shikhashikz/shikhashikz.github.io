@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Are you afraid to Edit your work, I am
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge editing
+date: 2021-07-11 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge editing
 image: assets/images/Editing.jpg
 author: shikhashikz
-
 ---
+
 Editing is a mean task. I can lay bets on that.
 
 This is my second round of editing my manuscript and I am sure something good will come out. As my first round of self-editing did open my eyes!

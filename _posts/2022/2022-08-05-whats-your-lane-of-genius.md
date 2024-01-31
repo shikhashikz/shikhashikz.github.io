@@ -1,12 +1,13 @@
 ---
-
-layout: post
 title: Change is the only Constant
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
+date: 2022-08-05 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm
 image: assets/images/2310.jpg
 author: shikhashikz
-
 ---
 
 Its been six months that I did not write any blog post. I knew that was coming with the new assignment and challenge which I have taken up. I started a new journey with [X0PA AI](https://www.x0pa.com) as a Global Marketing Director. woohooo yes, there is never any late time to celebrate the good news.

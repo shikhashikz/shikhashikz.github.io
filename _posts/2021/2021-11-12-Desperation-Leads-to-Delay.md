@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Desperation Exudes Low Confidence
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
+date: 2021-11-12 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge
 image: assets/images/1113.jpg
 author: shikhashikz
-
 ---
+
 And desperation leads to delay.
 
 It also leads to loads of frustration. So don’t get hung up on something and just keep on pinning that thought. The more desperate you are, the longer the road becomes for that final destination. Universe can sense your desperation and because it’s not meant to happen, you will start feeling that all the forces are against you. 

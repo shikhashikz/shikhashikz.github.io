@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Tips to Ace up Learning
-category: blog
+date: 2021-05-30 00:00:00 Z
+categories:
+- blog
+layout: post
 keywords: blog writing author shikhashikz writing writing life writing community dailyblogpostchallenge
 image: assets/images/Inspiration.jpg
 author: shikhashikz
-
 ---
 
 In one of my recent **[Insta posts](https://www.instagram.com/novelistinaction/)**, I had highlighted what are the tips which are working for me to ace up my learning:

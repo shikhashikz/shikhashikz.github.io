@@ -1,11 +1,12 @@
 ---
-layout: post
 title: I wake up with Shit
-category: Blog
+date: 2016-10-08 00:00:00 Z
+categories:
+- Blog
+layout: post
 keywords: Parenting Humor Babies Shit Motherhood
 summary: Let the humour transform all the shit which is around
 author: shikhashikz
-
 ---
 
 Yes, it is shit everywhere in both the senses.

@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Creatives Den
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
+date: 2022-01-17 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm
 image: assets/images/1701.jpg
 author: shikhashikz
-
 ---
 
 Close your eyes and unleash your strength. 

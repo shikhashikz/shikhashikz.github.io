@@ -1,12 +1,12 @@
 ---
-
-layout: post
 title: Announcement
-category: blog
+date: 2023-10-11 00:00:00 Z
+categories:
+- blog
+layout: post
 keywords: blog writing author shikhashikz writing writinglife writingcommunity
 image: assets/images/Evolution occurs over Time.jpeg
 author: shikhashikz
-
 ---
 
 **Rediscovering My Digital Home: A Fresh Start with a New Brand**

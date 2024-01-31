@@ -1,12 +1,12 @@
 ---
-layout: post
-title: Book Review " The Whole Shebang"
-category: [Book Review]
 title: Book Review The Whole Shebang
+date: 2016-04-19 00:00:00 Z
+categories:
+- Book Review
+layout: post
 keywords: lalitha iyer,the whole shebang
 summary: Let's not hate the "F" word
 author: shikhashikz
-
 ---
 
 It’s a rare occasion when a book exposes you to all set of emotions in a humorous way. 

@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Top Ten Marketing Takeaways POST4
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
+date: 2021-09-16 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
 author: shikhashikz
-
 ---
+
 What is Conversational ad? **[Corrina Owens](https://www.linkedin.com/in/corrina-owens/)** explains it with her super breezy style.
 
 [PEAKers](https://www.peak.community/) are the Real Unicorns and they will jump on 1:1 conversations with fellow PEAKers. During my recent conversation with **Corrina Owens**, where we talked a lot about **Demand Generation and ABM** (how can we skip this topic) she suggested I should watch her session on **The LinkedIn Ad Strategy that Converts–Tips & Tricks on Using LinkedIn Conversational Ads** which she had done for PEAK Community members. Let me tell you, I had seen the topic floating around in the community, but I had no clue what “conversational ads” meant by. First, I had to educate myself about Conversational Ads. Here goes my key takeaways from the session:

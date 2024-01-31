@@ -1,12 +1,15 @@
 ---
-layout: post
 title: I dare to dream
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing cmo
+date: 2021-10-07 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing cmo
 image: assets/images/0710.jpg
 author: shikhashikz
-
 ---
+
 If I want to become a CMO, then I need to learn what other CMOs are doing. And joining **[Peak Community](https://www.peak.community/) was my first step in fulfilling my dream.**
 
 Random searches reveal who’s who in this world. I also guard my social feed ferociously. Since that’s the place which empowers me with more learning and I want to keep it clean and relevant. I believe in when you are aiming for something, then you also encounter similar things and I came across below two articles this week:

@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Do you use Google Analytics
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing googleanalytics
+date: 2021-09-05 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing googleanalytics
 image: assets/images/MktngTrivia.jpg
 author: shikhashikz
-
 ---
+
 Are you managing your personal website? How are you using Google Analytics?
 
 You would have heard this before, but from me, it’s coming for the first time, ***“Google Analytics”*** is an amazing tool to know your audience! I am happy that I took a refresher course in GA4. It’s of immense help and since I have my website, and I have Google Analytics installed, but there is so much more which I can do with this tool. These points are like the mandate for me, that I need to keep my relationship intact with GA!

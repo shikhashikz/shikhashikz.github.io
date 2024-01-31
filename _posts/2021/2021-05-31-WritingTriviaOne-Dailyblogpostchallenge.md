@@ -1,12 +1,14 @@
 ---
-layout: post
 title: Writing Trivia One
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost 
+date: 2021-05-31 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
 image: assets/images/writingtrivia1.jpg
 author: shikhashikz
-
 ---
+
 Why do you Write?✍️
 
 In my pursuit to cut the noise and learn from fellow writers, readers and book bloggers, I have started following the people with the same interests on different social media platforms. My feed has become much more relevant and every day I am adding at least one book to my To Be Read List! I also realized through the feed that there are so many stories that are floating around me. And there is so much catching up which I need to do on my reading part. My small tiny library is like that minutest droplet in the vast ocean of book collection. 

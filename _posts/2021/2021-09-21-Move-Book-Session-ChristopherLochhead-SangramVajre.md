@@ -1,12 +1,15 @@
 ---
-layout: post
 title: That session which will make you forget to BREATHE
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm MOVEBOOK
+date: 2021-09-21 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm MOVEBOOK
 image: assets/images/MktngTrivia.jpg
 author: shikhashikz
-
 ---
+
 Power Packed Session with **[Christopher Lochhead](https://www.linkedin.com/in/christopherlochhead/) on Sangram Vajre’s newly released book, MOVE!**
 
 People who have heard Christopher are familiar with the punch which he brings to the topic and how he entertains the audience with his witty one liner and the way he instills the “sound” in the comments/ or statements which he witnesses from other folks. It keeps you on the edge. There are very few people in the industry who know the art of keeping the audience engaged till the end, and he is one of them! Every word was a GEM shared by Christopher and Sangram. Sharing their quotes and my takeaways.

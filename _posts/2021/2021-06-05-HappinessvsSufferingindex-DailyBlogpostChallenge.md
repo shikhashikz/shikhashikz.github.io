@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Where does your Index Incline?
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
+date: 2021-06-05 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge happiness suffering life experiences
 image: assets/images/HappinessvsSuffering.jpg
 author: shikhashikz
-
 ---
 
 Happiness eludes me…

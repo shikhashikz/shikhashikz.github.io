@@ -1,12 +1,15 @@
 ---
+title: BlindSpots
+date: 2021-06-28 00:00:00 Z
+categories:
+- blog
 layout: post
-title: BlindSpots 
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge knowsamisha novel
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge knowsamisha novel
 image: assets/images/Post79.jpg
 author: shikhashikz
-
 ---
+
 ![KnowSamisha](https://github.com/shikhashikz/shikhashikz.github.io/blob/d3ac4126ac74b89cfc46e43057ab43244a9ac814/assets/images/2906_insta.jpg)
 
 

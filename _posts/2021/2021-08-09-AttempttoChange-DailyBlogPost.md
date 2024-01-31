@@ -1,12 +1,15 @@
 ---
-layout: post
 title: I do not Like this
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
+date: 2021-08-09 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge happiness suffering life experiences
 image: assets/images/Post130.jpg
 author: shikhashikz
-
 ---
+
 That’s ok. But what did you do change your statement from I do not like this, to I am loving it what I am doing or where I am right now!
 
 Most of the time we find ourselves complaining about the things/ work/ our situation which we do not like, yet we do not do anything about it. We will crib, cry hoarse, will talk to ten different people about it, and then will feel better and lighter. Even I am guilty of this behaviour. But then, did it lead to something? No. I realized that cribbing and complaining are not taking me anywhere. I am only spreading negativity by being negative about everything. I did take the reins in my hand and followed this:

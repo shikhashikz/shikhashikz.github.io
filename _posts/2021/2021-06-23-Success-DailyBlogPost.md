@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Who defines your Success
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge success life
+date: 2021-06-23 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge success life
 image: assets/images/2406.jpg
 author: shikhashikz
-
 ---
+
 Do I pave the way for my own Success?
 
 >Yes, I am the creator of my own success. 

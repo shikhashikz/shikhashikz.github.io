@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Learnings and not FAILURES
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
+date: 2021-07-17 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge happiness suffering life experiences
 image: assets/images/Post107.jpg
 author: shikhashikz
-
 ---
 
 Failures are hard. Failures crush us. Failures are demotivating. All agreed. As I was talking in my previous post, one needs to welcome our failures with open arms.

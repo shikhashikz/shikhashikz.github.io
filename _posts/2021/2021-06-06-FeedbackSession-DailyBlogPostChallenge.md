@@ -1,11 +1,13 @@
 ---
-layout: post
 title: The Serious Game of Feedbacks
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge happiness suffering life experiences 
+date: 2021-06-06 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge happiness suffering life experiences
 image: assets/images/Feedback.jpg
 author: shikhashikz
-
 ---
 
 At present Reading, *“Think like A Monk”*

@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Have you edited your own manuscripts
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge editing
+date: 2021-08-22 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge editing
 image: assets/images/WE.jpg
 author: shikhashikz
-
 ---
 
 Did you say writing is hard? Wait till you try your hands on editing…

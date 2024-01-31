@@ -1,11 +1,13 @@
 ---
+title: Challenging the status quo of marketing
+date: 2021-07-22 00:00:00 Z
+categories:
+- blog
 layout: post
-title:  Challenging the status quo of marketing
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing peakcommunity
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing peakcommunity
 image: assets/images/Post112.jpg
 author: shikhashikz
-
 ---
 
 For the unicorns who dare to dream about becoming 1% better each week.

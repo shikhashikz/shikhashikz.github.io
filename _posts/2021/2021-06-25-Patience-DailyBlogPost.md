@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Patience is a Virtue
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge life experiences 
+date: 2021-06-25 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge life experiences
 image: assets/images/2606Blogpost.jpg
 author: shikhashikz
-
 ---
+
 >There is noone who has ever lost soemthing because they WAITED!!
 >
 

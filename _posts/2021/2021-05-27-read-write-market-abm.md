@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Read, Write, Market.
-category: blog
-keywords: blog writing author shikhashikz writing writing life writing community marketing goals abm account based marketing strategicabm
+date: 2021-05-27 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writing life writing community marketing
+  goals abm account based marketing strategicabm
 image: assets/images/READWRITEMARKET.jpg
 author: shikhashikz
-
 ---
 
 **Read, Write, Market**

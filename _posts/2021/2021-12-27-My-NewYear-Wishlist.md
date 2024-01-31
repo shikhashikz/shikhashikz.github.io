@@ -1,11 +1,13 @@
 ---
-layout: post
 title: What I Wish as a Marketer
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
+date: 2021-12-27 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm
 image: assets/images/2022.jpg
 author: shikhashikz
-
 ---
 
 ***Hoping that 2022 turns out as an awesome year for us Marketers.***

@@ -1,12 +1,15 @@
 ---
-layout: post
 title: ABM Learning Made Simple
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost ABM ACCOUNTBASEDMARKETING
+date: 2021-06-03 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  ABM ACCOUNTBASEDMARKETING
 image: assets/images/ABMLEARNING.jpg
 author: shikhashikz
-
 ---
+
 My ABM learning pick for this week.
 
 My journey with ABM learning is recent and in my five months of learning, I did not come across concepts like **ABM framework, ABM Center of Excellence and ABM Index.** I am going through the on-demand videos of ITSMA and came across Infosys' 2020 diamond award-winning program. After going through the 20+ minute of learning, I can relate to **Julie Schwartz’s** Enthusiasm when she talks about Infosys’s journey. The way **Navin Rammohan** represents how ABM efforts were crafted, drafted and relayed, gave me a high. Simple, no-nonsense approach, focusing on the core objective and making sure that the results are displayed. The **ABM Scorecard** will surely make you jump from your chair. My mouth was wide open when I was looking at the numbers and I was imagining how can I achieve this!

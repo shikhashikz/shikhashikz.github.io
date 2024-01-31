@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Do check out
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
+date: 2021-10-23 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm
 image: assets/images/2310.jpg
 author: shikhashikz
-
 ---
+
 Why there is a HIGHWAY to Hell, but stairway to Heaven!!! 
 
 ***Apart from Peak Community, my source of inspiration is also Seth’s blog.***

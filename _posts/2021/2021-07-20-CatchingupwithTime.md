@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Is Time running slow or Am I moving Fast
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge life experiences 
+date: 2021-07-20 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge life experiences
 image: assets/images/Post110.jpg
 author: shikhashikz
-
 ---
+
 Either I have to start using a stopwatch or ditch the clock altogether!!
 
 >*Time Please slow down*

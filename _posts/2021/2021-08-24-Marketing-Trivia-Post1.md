@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Top Ten Marketing Takeaways POST1
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
+date: 2021-08-24 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
 author: shikhashikz
-
 ---
+
 I am starting a series on my key takeaways related to all the aspects of Marketing. This is the First post in the series.
 
 Being an avid note-taker, I have a stack full of diaries which house the precious gems captured when I am in the deep learning curve. Be it listening to podcasts, reading books, attending webinars or PEAK sessions. I thought of capturing all the points as trivia blog post. Going back to the notes and capturing that “one key message” is of great help. Plus, each point is a BIG SUBJECT on its own, worthy of at least 45 minute discussion.

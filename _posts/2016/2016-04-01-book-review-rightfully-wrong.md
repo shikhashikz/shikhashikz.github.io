@@ -1,11 +1,12 @@
 ---
+title: Book Review Rightfully Wrong,Wrongfully Right
+date: 2016-04-01 00:00:00 Z
+categories:
+- Book Review
 layout: post
-title: Book Review Rightfully Wrong,Wrongfully Right 
-category: [Book Review]
 keywords: blog writing author shikhashikz bookreview
 summary: Let the confusion prevail in rightfully right, wrongfully wrong world
 author: shikhashikz
-
 ---
 
 When you are reading a book without any expectation, and you are reading the work by that author for the first time, reading becomes easy ! You do not know about that writer writing style.You just go with the flow and accept the things in its stride.No complaints , No if’s and but’s , No questions are asked.If you are keen to learn about the artist, you would know about her via other reviews, her social profile and how many books has she penned.My experience about Rightfully Wrong and Wrongfully right was exactly like this.I enjoy a book more when I do not have any preconceived notions about an author.

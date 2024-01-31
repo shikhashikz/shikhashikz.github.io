@@ -1,11 +1,12 @@
 ---
-layout: post
 title: A leaf out of Mother's Diary
-category: blog
+date: 2017-01-17 00:00:00 Z
+categories:
+- blog
+layout: post
 keywords: blog writing author shikhashikz parenting
 summary: 
 author: shikhashikz
-
 ---
 
 I am sitting in my office and straightening my back. I close my eyes for a second and take a deep breath, check the time on the clock, and it’s only 8:45 am. Yes, It’s only 8:45 am, and I feel that I am already half way through the day.

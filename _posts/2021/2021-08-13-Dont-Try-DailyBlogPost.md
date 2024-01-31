@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Tell me your favorite Quote
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge quote
+date: 2021-08-13 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge quote
 image: assets/images/Post134.jpg
 author: shikhashikz
-
 ---
+
 “Trying” to develop a habit, check what’s wrong with your approach. Probably you are always telling yourself, “I will try to do it. I am trying hard, but not able to get any results. Because in our hearts we know that we will not do it.”
 
 In my experience:

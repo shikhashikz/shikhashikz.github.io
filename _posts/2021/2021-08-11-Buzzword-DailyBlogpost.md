@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Are you a Buzzword Fan?
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketingjargon buzzword
+date: 2021-08-11 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketingjargon buzzword
 image: assets/images/post132.jpg
 author: shikhashikz
-
 ---
+
 Do you love using Buzzwords? Are you the one who can not keep away from Marketing Jargons? In your sentence of ten words, at least five are jargons? Then this post is not for you!
 
 ***Chapter 29 of Everybody Writes*** so satirically captures why one should buzzwords. Because the buzzwords only create music for you and are noise for the reader/ listener. 

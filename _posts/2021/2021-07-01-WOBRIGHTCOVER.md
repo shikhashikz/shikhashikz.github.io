@@ -1,12 +1,15 @@
 ---
-layout: post
 title: WO BRIGHT Magazine Cover Launch
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity magazine wobright coverlaunch
+date: 2021-07-01 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity magazine
+  wobright coverlaunch
 image: assets/images/WOBRIGHT.jpg
 author: shikhashikz
-
 ---
+
 Unveiling the Cover of WO-BRIGHT Magazine where we aim to change the definition of beautiful!
 
 >Showcase time for my side-hustle. What started two months back as a tea-time discussion, became a curtain raiser today!

@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Masterpiece
-category: blog
+date: 2021-06-11 00:00:00 Z
+categories:
+- blog
+layout: post
 keywords: blog writing author shikhashikz writing writinglife writingcommunity
 image: assets/images/Masterpiece.jpg
 author: shikhashikz
-
 ---
 
 Humans need something tangible to prove their worth.

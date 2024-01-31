@@ -1,12 +1,15 @@
 ---
-layout: post
 title: All about Marketing
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
+date: 2021-12-28 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm
 image: assets/images/IntPablo.jpg
 author: shikhashikz
-
 ---
+
 There is no better way to learn, other than conversing with Passionate Marketers. 💯
 
 I really wanted to understand the "why and how" behind the Relationship Flywheel concept which I learned during one of the sessions which Pablo had conducted for Peak Community. Thank you to him for sharing his insights with us.

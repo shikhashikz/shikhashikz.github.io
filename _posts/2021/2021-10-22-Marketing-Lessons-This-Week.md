@@ -1,12 +1,15 @@
 ---
-layout: post
 title: How I aced my learning this week
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
+date: 2021-10-22 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm
 image: assets/images/MktngTrivia.jpg
 author: shikhashikz
-
 ---
+
 My go to source to pump up my day is listening to my favorite people. 
 
 >While ABM Breakout session with Jen Leaver and Amber Bogie brought home the point of evolving ICP and always revisiting it, Megan Bowen was bang on in putting the “team” (not people alone) at the core of a company’s success.

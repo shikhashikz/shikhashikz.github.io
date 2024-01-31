@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Crawl Walk Run
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm
+date: 2021-09-02 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm
 image: assets/images/Post154.jpg
 author: shikhashikz
-
 ---
+
 There are times when getting up becomes difficult.
 
 🗒️ Reminder for self

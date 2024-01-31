@@ -1,11 +1,12 @@
 ---
-layout: post
 title: In Conversation
-category: blog
+date: 2021-07-24 00:00:00 Z
+categories:
+- blog
+layout: post
 keywords: blog writing author shikhashikz writing writinglife writingcommunity authorinterview
 image: assets/images/Post114.jpg
 author: shikhashikz
-
 ---
 
 It's been a while that I was in a conversation!

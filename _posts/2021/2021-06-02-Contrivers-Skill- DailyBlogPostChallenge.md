@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Contriver’s Skill
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost skill creation goingsolo
+date: 2021-06-02 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  skill creation goingsolo
 image: assets/images/Creatorscreation.jpg
 author: shikhashikz
-
 ---
 
 *Only the creation of GOD is not questioned. But we Humans…*

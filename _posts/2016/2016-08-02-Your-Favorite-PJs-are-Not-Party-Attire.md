@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Your Favorite PJ s are not Party Attire
-category: Blog
+date: 2016-08-02 00:00:00 Z
+categories:
+- Blog
+layout: post
 keywords: Parenting Parenting Advice Fashion Children Routines lifestyle
 summary: What to wear and what not to wear
 author: shikhashikz
-
 ---
 
 My girl is two and half years old. Yes, just two and a half, but her tantrums to wear a particular dress repeatedly, or the color green throughout the day drives me crazy. I lovingly call her, and my seven-month-old little boy, pint-sized dictators, as they dictate the terms at home.

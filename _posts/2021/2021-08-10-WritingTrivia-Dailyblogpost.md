@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Writing Trivia
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge writing
+date: 2021-08-10 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge writing
 image: assets/images/Post131.jpg
 author: shikhashikz
-
 ---
+
 What are your Writing Trivias?...
 
 I am full of gratitude when I can write and present my thoughts in words. I feel overwhelmed when the characters of my novel come to life in front of my eyes. The feeling is magical.

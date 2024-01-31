@@ -1,12 +1,15 @@
 ---
-layout: post
 title: TIME
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge time
+date: 2021-07-27 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge time
 image: assets/images/Post117.jpg
 author: shikhashikz
-
 ---
+
 If you have lost Material possessions, there is a chance that you can get it back. But time? Time once wasted, never comes back.
 
 ***When you say Yes to something, you are saying No to so many other things. A popular quote which you might have heard.***

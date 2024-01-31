@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Get comfortable with Flywheels
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge marketing abm flywheel
+date: 2021-09-01 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge marketing abm flywheel
 image: assets/images/MktngTrivia.jpg
 author: shikhashikz
-
 ---
+
 Have you experimented/ implemented flywheels yet? or you might be already doing it, just so the term sounds new?
 
 The common thread echoed by all the thought leaders in various PEAK sessions is

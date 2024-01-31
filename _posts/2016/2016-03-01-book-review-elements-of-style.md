@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Book Review The Elements of Style
-category: [Book Review]
+date: 2016-03-01 00:00:00 Z
+categories:
+- Book Review
+layout: post
 keywords: blog
 author: shikhashikz
-
 ---
 
 English is a very funny language!

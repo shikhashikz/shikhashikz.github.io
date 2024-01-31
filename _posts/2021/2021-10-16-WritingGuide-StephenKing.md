@@ -1,12 +1,15 @@
 ---
-layout: post
 title: What are you good at
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge 
+date: 2021-10-16 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge
 image: assets/images/1610.jpg
 author: shikhashikz
-
 ---
+
 My takeaway for today came early in the morning while reading Stephen King’s Writing Memoir:
 
 >“If God gives you something you can do, why in God’s name wouldn’t you do it?” 💯

@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Fall in love with the Journey
-category: blog
-keywords: blog writing author shikhashikz novel writinglife fiction charactersketch knowsamisha
+date: 2021-05-15 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz novel writinglife fiction charactersketch
+  knowsamisha
 image: assets/images/11.05.png
 author: shikhashikz
-
 ---
+
 It's a famous saying to **enjoy the process** and do not worry about the **final destination.** If you are enjoying the process, you will not mind the outcome. But we start the journey with the final outcome in mind? Isn’t it confusing. Now, when I am writing this, it has led me to thinking. 
 
 

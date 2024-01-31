@@ -1,11 +1,13 @@
 ---
-layout: post
 title: WO-BRIGHT Magazine
-category: blog
-keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost dailyblogpostchallenge wobright magazine
+date: 2021-08-16 00:00:00 Z
+categories:
+- blog
+layout: post
+keywords: blog writing author shikhashikz writing writinglife writingcommunity dailyblogpost
+  dailyblogpostchallenge wobright magazine
 image: assets/images/WO-BRIGHT.jpg
 author: shikhashikz
-
 ---
 
 **Introducing WO-BRIGHT Magazine’s Launch Edition, August 2021**
