@@ -1,6 +1,10 @@
 # Top Menu
 topmenu:
 
+- title: shikhashikz.com
+  url: "https://www.shikhashikz.com"
+  external: true
+
 - title: Home
   url: ""
 
