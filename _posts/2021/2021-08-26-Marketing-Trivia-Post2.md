@@ -12,7 +12,7 @@ author: shikhashikz
 
 Sometimes I fall short of notebooks to capture the key takeaways!
 
-**[In continuation with my previous post](https://shikhashikz.com/Marketing-Trivia-Post1/)**
+**[In continuation with my previous post](https://shikhashikz.in/Marketing-Trivia-Post1/)**
 
 11.	Before launching ABM program, all the parties should agree on the required metrics
 12.	Do not sign off Direct Mail. Off late, I am seeing many posts where marketers are talking about this "forgotten" tactic and sharing the success which they had in their ABM programs

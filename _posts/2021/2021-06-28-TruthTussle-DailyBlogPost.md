@@ -19,4 +19,4 @@ Mature relationships know how to share the truth. They will not sugarcoat it. Th
 
 
 
-***[Related Post](https://shikhashikz.com/TheTruth-DailyBlogPost/)***
+***[Related Post](https://shikhashikz.in/TheTruth-DailyBlogPost/)***

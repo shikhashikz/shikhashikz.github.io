@@ -13,7 +13,7 @@ author: shikhashikz
 >I am reading six books currently (Yes, I know!), and four of them are close to the finish lines. Multipliers and Brand YOU were the July additions.
 >
 
-[Want to take a sneak peek in my TBR list? Do hold your breath as the list is pretty long!](https://shikhashikz.com/Learning-Resource-List/)
+[Want to take a sneak peek in my TBR list? Do hold your breath as the list is pretty long!](https://shikhashikz.in/Learning-Resource-List/)
 
 Brand YOU was the one, which I was planning to buy for quite some time. I do switch between paperback and Kindle editions but of course, paperbacks are always my favourites as I can just turn my chair and pick up any book at any time from my library. My underlined notes speak a different tone every time.
 

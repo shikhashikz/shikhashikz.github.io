@@ -52,7 +52,7 @@ I have split my earlier single post, which captured the books which I am reading
 
 What are your recommendations?
 
-***[Find what I am currently reading](https://shikhashikz.com/Learning-Resource-List/)***
+***[Find what I am currently reading](https://shikhashikz.in/Learning-Resource-List/)***
 
-***[List of books which I plan to read](https://shikhashikz.com/My-To-Be-Read-List/)***
+***[List of books which I plan to read](https://shikhashikz.in/My-To-Be-Read-List/)***
 
