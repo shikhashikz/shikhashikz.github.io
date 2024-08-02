@@ -25,7 +25,7 @@ I am looking at submissions with minimum 500 words and there is no word limit fo
 >I have given one tip to my daughter: Start with the title, and just write one line every day. And viola within 12 months she will have 365 lines, if she will be
 >regular at it. Talk about developing the habits!
 
-And other age groups, don’t get disappointed, for the **age group of 15-20 years,** I will **feature Top ten stories on my website- www.shikhashikz.com**
+And other age groups, don’t get disappointed, for the **age group of 15-20 years,** I will **feature Top ten stories on my website- www.shikhashikz.in**
 
 Last but not the least, **20 & Above:** we will feature **One Story in each of the quarterly issue of WO-BRIGHT Magazine.** So for this one, we have a timeline. ***For the Dec issue, we would need the stories on/ before 15th October 2021!***
 
